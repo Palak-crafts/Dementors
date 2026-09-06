@@ -1,151 +1,244 @@
-import { MapContainer, TileLayer, Marker, Popup, LayersControl, ScaleControl, useMap } from 'react-leaflet';
-import { Link } from 'react-router-dom';
-import L from 'leaflet';
-import 'leaflet/dist/leaflet.css';
-import { RiskBadge, PriorityBadge } from '@/components/Badges';
+import { useEffect } from "react";
+import {
+  MapContainer,
+  TileLayer,
+  Marker,
+  Popup,
+  Polyline,
+  useMap,
+} from "react-leaflet";
+import L from "leaflet";
+import "leaflet/dist/leaflet.css";
 
-// Fix default icon paths for bundlers
+// Fix default leaflet marker icon asset path issues
 delete L.Icon.Default.prototype._getIconUrl;
 L.Icon.Default.mergeOptions({
-  iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
-  iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
-  shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+  iconRetinaUrl:
+    "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png",
+  iconUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png",
+  shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
 });
 
-const RISK_COLORS = {
-  Critical: '#dc2626',
-  High: '#ea580c',
-  Moderate: '#ca8a04',
-  Low: '#16a34a',
-};
-
-function createRiskIcon(level) {
-  const color = RISK_COLORS[level] || '#64748b';
-  return L.divIcon({
-    className: 'custom-risk-marker',
-    html: `<div style="width:18px;height:18px;background:${color};border:2px solid white;border-radius:50%;box-shadow:0 2px 4px rgba(0,0,0,0.3);"></div>`,
-    iconSize: [18, 18],
-    iconAnchor: [9, 9],
-    popupAnchor: [0, -9],
+// Custom circular pin icons for habitations
+const createCustomIcon = (color, isSelected) =>
+  L.divIcon({
+    className: "custom-map-marker",
+    html: `<div style="
+      background-color: ${color};
+      width: ${isSelected ? "18px" : "14px"};
+      height: ${isSelected ? "18px" : "14px"};
+      border-radius: 50%;
+      border: ${isSelected ? "3px solid #1e293b" : "2px solid white"};
+      box-shadow: ${isSelected ? "0 0 10px rgba(0,0,0,0.8)" : "0 0 4px rgba(0,0,0,0.5)"};
+      transition: all 0.2s ease;
+    "></div>`,
+    iconSize: isSelected ? [18, 18] : [14, 14],
+    iconAnchor: isSelected ? [9, 9] : [7, 7],
   });
-}
 
-function createSiteIcon() {
-  return L.divIcon({
-    className: 'custom-site-marker',
-    html: `<div style="width:20px;height:20px;background:#2563eb;border:2px solid white;border-radius:4px;box-shadow:0 2px 4px rgba(0,0,0,0.3);"></div>`,
-    iconSize: [20, 20],
-    iconAnchor: [10, 10],
-    popupAnchor: [0, -10],
-  });
-}
+// Distinct square pin icon for safe shelters
+const shelterIcon = L.divIcon({
+  className: "custom-shelter-marker",
+  html: `<div style="
+    background-color: #2563eb;
+    width: 16px;
+    height: 16px;
+    border-radius: 3px;
+    border: 2px solid white;
+    box-shadow: 0 0 6px rgba(37,99,235,0.7);
+  "></div>`,
+  iconSize: [16, 16],
+  iconAnchor: [8, 8],
+});
 
-function MapResizer() {
+function MapRecenter({ center, zoom }) {
   const map = useMap();
-  setTimeout(() => map.invalidateSize(), 100);
+  useEffect(() => {
+    if (center && center[0] && center[1]) {
+      map.setView(center, zoom || map.getZoom(), { animate: true });
+    }
+  }, [center, zoom, map]);
   return null;
 }
-
-const { BaseLayer, Overlay } = LayersControl;
 
 export default function MapView({
   habitations = [],
   relocationSites = [],
-  center = [30.0, 79.0],
-  zoom = 8,
-  height = '500px',
-  showLayers = true,
-  showSites = false,
-  className = '',
+  selectedHabitation = null,
+  onSelectHabitation = () => {},
+  center = [22.5, 79.0],
+  zoom = 5,
+  height = "600px",
+  showSites = true,
 }) {
-  const responsiveHeight = typeof height === 'string' && height.endsWith('px')
-    ? { minHeight: '300px', height }
-    : { height };
+  const getRiskColor = (level) => {
+    switch (level) {
+      case "Critical":
+        return "#dc2626";
+      case "High":
+        return "#ea580c";
+      case "Moderate":
+        return "#eab308";
+      default:
+        return "#16a34a";
+    }
+  };
+
+  // Find nearest safe shelter coordinate for the selected habitation
+  let evacuationRoute = null;
+  let targetShelter = null;
+
+  if (selectedHabitation && relocationSites.length > 0) {
+    let minD = Infinity;
+    for (const site of relocationSites) {
+      if (!site.coords || !site.coords[0] || !site.coords[1]) continue;
+      const d =
+        Math.pow(selectedHabitation.coords[0] - site.coords[0], 2) +
+        Math.pow(selectedHabitation.coords[1] - site.coords[1], 2);
+      if (d < minD) {
+        minD = d;
+        targetShelter = site;
+      }
+    }
+
+    if (targetShelter) {
+      evacuationRoute = [selectedHabitation.coords, targetShelter.coords];
+    }
+  }
+
   return (
-    <div className={`relative rounded-lg overflow-hidden border border-slate-200 ${className}`} style={responsiveHeight}>
+    <div
+      style={{ height, width: "100%" }}
+      className="rounded-xl overflow-hidden border border-slate-200 relative z-0"
+    >
       <MapContainer
         center={center}
         zoom={zoom}
+        style={{ height: "100%", width: "100%" }}
         scrollWheelZoom={true}
-        style={{ height: '100%', width: '100%' }}
       >
-        <MapResizer />
-        <ScaleControl position="bottomleft" />
+        <MapRecenter center={center} zoom={zoom} />
 
-        <LayersControl position="topright">
-          <BaseLayer checked name="OpenStreetMap">
-            <TileLayer
-              url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-              attribution='&copy; OpenStreetMap contributors'
-            />
-          </BaseLayer>
-          <BaseLayer name="Satellite">
-            <TileLayer
-              url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
-              attribution='&copy; Esri'
-            />
-          </BaseLayer>
-          <BaseLayer name="Terrain">
-            <TileLayer
-              url="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
-              attribution='&copy; OpenTopoMap (CC-BY-SA)'
-            />
-          </BaseLayer>
+        <TileLayer
+          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+        />
 
-          {showLayers && (
-            <>
-              <Overlay name="Flood Zones">
-                <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution="" opacity={0} />
-              </Overlay>
-            </>
-          )}
-        </LayersControl>
+        {/* Dynamic Evacuation Route Polyline */}
+        {evacuationRoute && (
+          <Polyline
+            positions={evacuationRoute}
+            pathOptions={{
+              color: "#dc2626",
+              weight: 4,
+              dashArray: "8, 8",
+              opacity: 0.95,
+            }}
+          />
+        )}
 
-        {/* Habitation markers */}
-        {habitations.map((h) => (
-          <Marker key={h.id} position={h.coords} icon={createRiskIcon(h.riskLevel)}>
-            <Popup>
-              <div className="min-w-[200px]">
-                <p className="font-semibold text-slate-800 text-sm">{h.name}</p>
-                <p className="text-xs text-slate-500 mb-2">District: {h.district}</p>
-                <div className="space-y-1 text-xs">
-                  <div className="flex justify-between"><span className="text-slate-500">Population:</span><span className="font-medium">{h.population.toLocaleString()}</span></div>
-                  <div className="flex justify-between"><span className="text-slate-500">Primary Hazard:</span><span className="font-medium">{h.hazard}</span></div>
-                  <div className="flex justify-between"><span className="text-slate-500">Risk Score:</span><span className="font-medium">{h.riskScore}/100</span></div>
-                  <div className="flex justify-between items-center"><span className="text-slate-500">Vulnerability:</span><RiskBadge level={h.vulnerability === 'Very High' ? 'Critical' : h.vulnerability} /></div>
-                  <div className="flex justify-between items-center"><span className="text-slate-500">Capacity:</span><span className="text-xs font-medium text-orange-600">{h.capacityStatus}</span></div>
+        {/* Habitation Markers */}
+        {habitations.map((hab) => {
+          if (!hab.coords || !hab.coords[0] || !hab.coords[1]) return null;
+          const isSelected = selectedHabitation?.id === hab.id;
+          return (
+            <Marker
+              key={`hab-${hab.id}`}
+              position={hab.coords}
+              icon={createCustomIcon(getRiskColor(hab.riskLevel), isSelected)}
+              eventHandlers={{
+                click: (e) => {
+                  L.DomEvent.stopPropagation(e);
+                  onSelectHabitation(isSelected ? null : hab);
+                },
+              }}
+            >
+              <Popup>
+                <div className="text-xs p-1 min-w-[200px]">
+                  <div className="flex items-center justify-between gap-1 mb-1">
+                    <span className="font-bold text-slate-900 text-sm">
+                      {hab.name}
+                    </span>
+                    <span
+                      className="px-1.5 py-0.5 rounded text-[10px] font-bold text-white"
+                      style={{ backgroundColor: getRiskColor(hab.riskLevel) }}
+                    >
+                      {hab.riskLevel}
+                    </span>
+                  </div>
+
+                  <p className="text-slate-500 text-[11px] mb-2">{hab.district} District</p>
+
+                  <div className="space-y-1 bg-slate-50 p-2 rounded border border-slate-100 mb-2.5 text-slate-700">
+                    <p>
+                      <strong>Risk Score:</strong> {Number(hab.riskScore || 0).toFixed(1)} / 100
+                    </p>
+                    <p>
+                      <strong>Population:</strong> {hab.population?.toLocaleString()}
+                    </p>
+                    <p>
+                      <strong>Hazard:</strong> {hab.hazard}
+                    </p>
+                    <p>
+                      <strong>Relocation Priority:</strong> {hab.priority}
+                    </p>
+                  </div>
+
+                  {/* Fully Interactive Toggle Button */}
+                  <button
+                    type="button"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      e.preventDefault();
+                      onSelectHabitation(isSelected ? null : hab);
+                    }}
+                    className={`w-full py-1.5 px-2 rounded-md text-xs font-bold transition shadow-sm flex items-center justify-center gap-1 ${
+                      isSelected
+                        ? "bg-rose-600 hover:bg-rose-700 text-white active:scale-95"
+                        : "bg-blue-600 hover:bg-blue-700 text-white active:scale-95"
+                    }`}
+                  >
+                    {isSelected ? "✕ Clear Evacuation Route" : "➔ Show Evacuation Route"}
+                  </button>
                 </div>
-                <div className="mt-2 pt-2 border-t border-slate-100">
-                  <p className="text-xs text-slate-500 mb-1">Relocation Priority:</p>
-                  <PriorityBadge priority={h.priority} />
-                </div>
-                <Link
-                  to={`/habitations/${h.id}`}
-                  className="mt-2 block text-center text-xs font-medium text-blue-700 hover:text-blue-900 bg-blue-50 hover:bg-blue-100 rounded py-1.5 transition-colors"
-                >
-                  View Full Details
-                </Link>
-              </div>
-            </Popup>
-          </Marker>
-        ))}
+              </Popup>
+            </Marker>
+          );
+        })}
 
-        {/* Relocation site markers */}
-        {showSites && relocationSites.map((s) => (
-          <Marker key={`site-${s.id}`} position={s.coords} icon={createSiteIcon()}>
-            <Popup>
-              <div className="min-w-[180px]">
-                <p className="font-semibold text-slate-800 text-sm">{s.name}</p>
-                <p className="text-xs text-slate-500 mb-2">District: {s.district}</p>
-                <div className="space-y-1 text-xs">
-                  <div className="flex justify-between"><span className="text-slate-500">Capacity:</span><span className="font-medium">{s.capacity.toLocaleString()}</span></div>
-                  <div className="flex justify-between"><span className="text-slate-500">Available:</span><span className="font-medium text-green-600">{s.available.toLocaleString()}</span></div>
-                  <div className="flex justify-between"><span className="text-slate-500">Suitability:</span><span className="font-medium">{s.suitability}</span></div>
-                </div>
-              </div>
-            </Popup>
-          </Marker>
-        ))}
+        {/* Safe Shelter Markers */}
+        {showSites &&
+          relocationSites.map((site) => {
+            if (!site.coords || !site.coords[0] || !site.coords[1]) return null;
+            return (
+              <Marker
+                key={`site-${site.id}`}
+                position={site.coords}
+                icon={shelterIcon}
+              >
+                <Popup>
+                  <div className="text-xs p-1 min-w-[190px]">
+                    <span className="inline-block px-1.5 py-0.5 bg-blue-100 text-blue-800 font-bold rounded text-[10px] mb-1">
+                      DESIGNATED SAFE SHELTER
+                    </span>
+                    <h4 className="font-bold text-slate-900 text-sm">{site.name}</h4>
+                    <p className="text-slate-500 mb-2">{site.district} District</p>
+                    <div className="space-y-1 bg-blue-50/50 p-2 rounded border border-blue-100 text-slate-700">
+                      <p>
+                        <strong>Available Space:</strong> {site.available?.toLocaleString()}
+                      </p>
+                      <p>
+                        <strong>Total Capacity:</strong> {site.capacity?.toLocaleString()}
+                      </p>
+                      <p>
+                        <strong>Road Access:</strong> {site.accessibility}
+                      </p>
+                    </div>
+                  </div>
+                </Popup>
+              </Marker>
+            );
+          })}
       </MapContainer>
     </div>
   );
