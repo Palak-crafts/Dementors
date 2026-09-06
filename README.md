@@ -1,3 +1,2 @@
-# vibe_coding_project
-
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-unqfahss)
+# Dementors
+Intelligent Identification of Hazard-Based Red Zones, Carrying Capacity Assessment, and Immediate Relocation Needs for Vulnerable Habitations
