@@ -10,6 +10,7 @@ import {
 } from "react-leaflet";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
+import LiveRiskInspector from "./LiveRiskInspector";
 
 // Fix default Leaflet marker icon asset path issues
 delete L.Icon.Default.prototype._getIconUrl;
@@ -427,6 +428,12 @@ export default function MapView({
             );
           })}
       </MapContainer>
+
+      {/* Live Risk Inspector Drawer / Side Panel */}
+      <LiveRiskInspector
+        habitation={selectedHabitation}
+        onClose={() => onSelectHabitation(null)}
+      />
     </div>
   );
 }

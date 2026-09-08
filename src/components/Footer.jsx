@@ -87,14 +87,14 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Disclaimer */}
+        {/* Disclaimer
         <div className="mt-8 pt-6 border-t border-slate-700">
           <p className="text-xs text-slate-500 leading-relaxed">
             NDMA Sentinel-DSS is a student prototype developed for Smart India Hackathon 2026. It is not an
             official NDMA system. Demonstration data and recommendations are for prototype purposes and require
             validation before real-world use.
           </p>
-        </div>
+        </div> */}
       </div>
     </footer>
   );

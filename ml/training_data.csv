@@ -1,0 +1,3001 @@
+hazard_exposure,vulnerability,population,accessibility,risk_score,risk_level,priority
+63.9,Low,2353,Good,37.85,Low,Monitor
+73.6,Low,4937,Moderate,53.02,Moderate,Medium-Term
+9.4,Moderate,4239,Poor,40.42,Moderate,Medium-Term
+19.9,Very High,1905,Moderate,52.01,Moderate,Medium-Term
+80.9,Low,1407,Poor,52.95,Moderate,Medium-Term
+27.8,Moderate,2857,Good,32.64,Low,Monitor
+9.7,High,2266,Good,41.64,Moderate,Medium-Term
+53.6,Very High,745,Poor,59.68,Moderate,Medium-Term
+62.9,High,4829,Good,70.1,High,Short-Term
+4.6,Moderate,2470,Good,35.18,Low,Monitor
+86.6,Very High,2377,Moderate,77.99,High,Short-Term
+36.5,High,3010,Good,53.03,Moderate,Medium-Term
+70.2,Low,1501,Poor,54.49,Moderate,Medium-Term
+16.3,Very High,2311,Poor,59.21,Moderate,Medium-Term
+22.0,High,558,Good,40.58,Moderate,Medium-Term
+80.5,Very High,2293,Good,64.23,High,Short-Term
+94.3,High,1841,Poor,75.61,High,Short-Term
+88.5,Very High,1270,Moderate,66.28,High,Short-Term
+74.5,High,4888,Moderate,82.0,Critical,Immediate
+39.9,Moderate,1233,Poor,46.55,Moderate,Medium-Term
+75.6,Low,1352,Poor,46.68,Moderate,Medium-Term
+68.0,Low,3252,Moderate,53.34,Moderate,Medium-Term
+46.8,High,4632,Good,63.29,High,Short-Term
+11.5,High,2886,Good,37.77,Low,Monitor
+15.8,Low,2257,Poor,39.0,Low,Monitor
+50.8,Low,2544,Poor,48.33,Moderate,Medium-Term
+19.9,High,1423,Poor,55.17,Moderate,Medium-Term
+92.2,Low,2755,Moderate,50.6,Moderate,Medium-Term
+92.9,High,2061,Good,62.11,High,Short-Term
+56.7,Low,801,Poor,43.08,Moderate,Medium-Term
+6.9,Moderate,1151,Poor,34.37,Low,Monitor
+55.0,High,4422,Poor,70.96,High,Short-Term
+21.2,Moderate,2653,Moderate,48.45,Moderate,Medium-Term
+65.0,Very High,4339,Moderate,70.05,High,Short-Term
+22.5,High,272,Poor,45.07,Moderate,Medium-Term
+58.8,Low,681,Poor,45.65,Moderate,Medium-Term
+22.9,Low,2806,Good,29.97,Low,Monitor
+27.8,Very High,1855,Poor,52.52,Moderate,Medium-Term
+93.6,Very High,2090,Moderate,82.04,Critical,Immediate
+19.0,Low,3631,Moderate,34.95,Low,Monitor
+46.7,Low,906,Good,28.91,Low,Monitor
+33.9,Low,2136,Good,25.95,Low,Monitor
+44.9,Very High,1603,Moderate,57.53,Moderate,Medium-Term
+87.4,Low,3730,Poor,59.33,Moderate,Medium-Term
+65.2,Low,864,Good,31.44,Low,Monitor
+48.6,Moderate,3385,Good,43.18,Moderate,Medium-Term
+0.2,Very High,2272,Moderate,41.72,Moderate,Medium-Term
+69.7,Very High,1368,Good,58.12,Moderate,Medium-Term
+96.9,Low,2669,Good,47.89,Moderate,Medium-Term
+47.7,Moderate,565,Poor,39.98,Low,Monitor
+18.6,Low,2026,Moderate,23.53,Low,Monitor
+89.0,Moderate,4842,Poor,70.91,High,Short-Term
+8.2,High,2236,Good,40.03,Moderate,Medium-Term
+31.4,High,3342,Good,52.61,Moderate,Medium-Term
+30.0,High,694,Good,38.11,Low,Monitor
+99.8,Low,700,Poor,53.39,Moderate,Medium-Term
+26.5,High,663,Good,35.34,Low,Monitor
+15.8,High,4433,Good,51.45,Moderate,Medium-Term
+55.5,Low,1200,Moderate,33.07,Low,Monitor
+10.7,Moderate,2331,Moderate,37.25,Low,Monitor
+71.8,Moderate,2262,Poor,61.75,High,Short-Term
+90.5,Low,856,Poor,54.13,Moderate,Medium-Term
+27.7,Low,2832,Good,33.71,Low,Monitor
+26.2,Very High,4619,Poor,67.74,High,Short-Term
+1.0,Low,1321,Poor,18.46,Low,Monitor
+36.9,Moderate,3620,Good,38.06,Low,Monitor
+36.5,Low,3031,Good,38.31,Low,Monitor
+66.7,High,4686,Moderate,79.67,High,Short-Term
+74.9,Moderate,1431,Good,56.04,Moderate,Medium-Term
+2.5,High,3472,Poor,55.84,Moderate,Medium-Term
+81.1,High,1404,Poor,62.98,High,Short-Term
+87.2,Very High,1922,Good,74.78,High,Short-Term
+46.0,High,1964,Good,41.84,Moderate,Medium-Term
+19.3,High,2382,Good,49.25,Moderate,Medium-Term
+27.9,Very High,4492,Moderate,70.76,High,Short-Term
+11.5,High,1562,Poor,52.92,Moderate,Medium-Term
+26.5,Low,4987,Moderate,41.75,Moderate,Medium-Term
+78.6,Very High,4289,Good,74.33,High,Short-Term
+57.7,High,463,Poor,56.28,Moderate,Medium-Term
+52.0,Moderate,3083,Moderate,46.15,Moderate,Medium-Term
+66.4,High,2671,Poor,74.74,High,Short-Term
+72.0,High,4254,Moderate,74.89,High,Short-Term
+32.6,High,4641,Good,50.54,Moderate,Medium-Term
+66.5,Very High,1525,Poor,71.73,High,Short-Term
+40.6,Low,2589,Moderate,34.93,Low,Monitor
+78.6,High,3909,Moderate,72.22,High,Short-Term
+21.4,Very High,1490,Poor,48.06,Moderate,Medium-Term
+51.5,High,865,Good,49.74,Moderate,Medium-Term
+22.5,Moderate,1307,Good,23.84,Low,Monitor
+98.4,Low,3830,Moderate,70.94,High,Short-Term
+57.6,Very High,4149,Moderate,68.66,High,Short-Term
+65.6,Low,973,Moderate,37.35,Low,Monitor
+80.4,Very High,511,Poor,67.42,High,Short-Term
+84.8,Very High,1192,Moderate,73.13,High,Short-Term
+98.8,High,3725,Poor,89.77,Critical,Immediate
+89.2,Very High,4588,Moderate,91.93,Critical,Immediate
+74.4,Very High,3786,Moderate,81.21,Critical,Immediate
+84.0,High,4370,Moderate,78.91,High,Short-Term
+27.5,Low,2440,Good,26.23,Low,Monitor
+32.0,Low,1233,Good,22.33,Low,Monitor
+69.4,Moderate,626,Moderate,47.81,Moderate,Medium-Term
+54.3,Very High,610,Good,58.27,Moderate,Medium-Term
+38.9,Low,4816,Moderate,47.51,Moderate,Medium-Term
+94.3,High,3294,Moderate,76.79,High,Short-Term
+73.5,Moderate,4099,Good,56.49,Moderate,Medium-Term
+48.6,Very High,2853,Poor,72.54,High,Short-Term
+40.4,Moderate,3928,Good,55.54,Moderate,Medium-Term
+53.4,Very High,4948,Poor,82.34,Critical,Immediate
+8.4,Very High,1211,Moderate,38.69,Low,Monitor
+26.0,High,1833,Moderate,43.66,Moderate,Medium-Term
+76.1,Very High,2379,Moderate,68.19,High,Short-Term
+8.2,Low,4518,Good,39.44,Low,Monitor
+35.0,Low,429,Good,31.66,Low,Monitor
+19.9,Low,1348,Good,16.88,Low,Monitor
+66.9,Moderate,3909,Poor,62.9,High,Short-Term
+36.9,Low,1441,Moderate,27.41,Low,Monitor
+2.6,High,4816,Poor,61.95,High,Short-Term
+37.5,Moderate,722,Poor,46.81,Moderate,Medium-Term
+62.7,Low,2570,Poor,54.09,Moderate,Medium-Term
+12.1,Low,2944,Poor,35.11,Low,Monitor
+37.1,High,203,Moderate,48.96,Moderate,Medium-Term
+10.6,High,3866,Poor,48.87,Moderate,Medium-Term
+17.6,High,4508,Moderate,53.63,Moderate,Medium-Term
+82.6,High,2740,Good,70.66,High,Short-Term
+8.7,Very High,2097,Moderate,48.55,Moderate,Medium-Term
+66.8,High,335,Moderate,60.34,High,Short-Term
+18.2,Moderate,3006,Moderate,38.34,Low,Monitor
+88.0,High,4653,Good,75.18,High,Short-Term
+19.1,Moderate,3429,Moderate,43.78,Moderate,Medium-Term
+24.0,Very High,4120,Moderate,65.57,High,Short-Term
+9.3,Moderate,3412,Poor,40.54,Moderate,Medium-Term
+66.4,High,3976,Poor,74.88,High,Short-Term
+42.6,High,2982,Poor,61.35,High,Short-Term
+30.7,Moderate,1088,Poor,37.93,Low,Monitor
+12.0,Moderate,1669,Good,32.7,Low,Monitor
+27.6,High,923,Good,35.59,Low,Monitor
+36.1,High,215,Poor,49.29,Moderate,Medium-Term
+27.4,Low,4633,Moderate,46.28,Moderate,Medium-Term
+12.6,Very High,940,Good,40.86,Moderate,Medium-Term
+46.9,Very High,2891,Good,66.93,High,Short-Term
+25.2,Very High,1034,Good,42.87,Moderate,Medium-Term
+7.4,Low,1342,Good,23.44,Low,Monitor
+94.9,Low,2133,Good,53.18,Moderate,Medium-Term
+41.6,Moderate,4380,Moderate,53.79,Moderate,Medium-Term
+44.3,Very High,2601,Poor,69.1,High,Short-Term
+61.0,Low,1802,Poor,44.19,Moderate,Medium-Term
+66.0,Moderate,2064,Good,50.19,Moderate,Medium-Term
+15.7,Very High,3790,Poor,63.41,High,Short-Term
+29.1,Moderate,2460,Poor,44.3,Moderate,Medium-Term
+86.0,Low,2012,Moderate,57.76,Moderate,Medium-Term
+62.5,Moderate,3582,Good,54.91,Moderate,Medium-Term
+64.8,High,1265,Good,46.19,Moderate,Medium-Term
+79.3,High,3697,Good,67.54,High,Short-Term
+30.4,Very High,2330,Poor,61.85,High,Short-Term
+43.8,Low,3639,Poor,47.3,Moderate,Medium-Term
+25.0,Low,1975,Poor,42.28,Moderate,Medium-Term
+57.5,Low,2307,Poor,42.24,Moderate,Medium-Term
+75.6,Very High,4351,Poor,84.19,Critical,Immediate
+27.8,Very High,4128,Good,57.26,Moderate,Medium-Term
+40.8,High,956,Good,40.88,Moderate,Medium-Term
+69.4,High,3380,Poor,65.65,High,Short-Term
+8.8,High,2748,Good,47.09,Moderate,Medium-Term
+40.4,Low,4544,Moderate,45.93,Moderate,Medium-Term
+18.8,High,4183,Poor,57.63,Moderate,Medium-Term
+5.2,High,4599,Good,52.56,Moderate,Medium-Term
+43.8,Very High,1094,Good,58.78,Moderate,Medium-Term
+60.9,Moderate,1397,Moderate,50.21,Moderate,Medium-Term
+55.2,Low,1940,Good,36.96,Low,Monitor
+11.7,Moderate,4182,Poor,45.24,Moderate,Medium-Term
+70.5,Very High,4052,Moderate,72.78,High,Short-Term
+55.1,Very High,1661,Poor,67.31,High,Short-Term
+87.9,Low,2363,Moderate,52.66,Moderate,Medium-Term
+78.8,High,121,Moderate,61.68,High,Short-Term
+83.7,Very High,1317,Moderate,71.18,High,Short-Term
+34.5,Very High,3830,Moderate,69.31,High,Short-Term
+98.1,Moderate,4784,Moderate,71.71,High,Short-Term
+77.6,Low,2706,Poor,57.8,Moderate,Medium-Term
+91.3,Very High,3262,Poor,90.93,Critical,Immediate
+65.2,Moderate,4157,Good,51.47,Moderate,Medium-Term
+96.5,High,922,Moderate,61.06,High,Short-Term
+91.0,Low,1280,Moderate,57.9,Moderate,Medium-Term
+97.0,Low,3946,Moderate,62.15,High,Short-Term
+69.3,Low,2791,Poor,61.42,High,Short-Term
+38.0,High,4097,Poor,57.51,Moderate,Medium-Term
+6.8,High,1963,Poor,38.93,Low,Monitor
+97.8,Low,3734,Good,62.77,High,Short-Term
+90.3,Low,2757,Good,49.82,Moderate,Medium-Term
+37.5,Moderate,2100,Poor,47.86,Moderate,Medium-Term
+68.2,Moderate,1492,Good,41.1,Moderate,Medium-Term
+87.1,Moderate,4176,Poor,69.23,High,Short-Term
+46.1,High,3864,Moderate,64.26,High,Short-Term
+89.9,Very High,2456,Poor,83.29,Critical,Immediate
+7.4,High,4913,Moderate,54.46,Moderate,Medium-Term
+42.4,High,3842,Moderate,55.4,Moderate,Medium-Term
+38.5,Very High,973,Good,46.97,Moderate,Medium-Term
+35.9,High,2518,Good,55.79,Moderate,Medium-Term
+65.8,High,166,Poor,64.78,High,Short-Term
+77.8,Low,4169,Moderate,63.32,High,Short-Term
+23.0,High,1894,Poor,45.92,Moderate,Medium-Term
+25.1,Moderate,895,Poor,42.46,Moderate,Medium-Term
+30.9,Very High,373,Poor,51.4,Moderate,Medium-Term
+13.1,High,2776,Poor,49.59,Moderate,Medium-Term
+20.1,High,4448,Poor,66.7,High,Short-Term
+83.0,High,4047,Moderate,79.18,High,Short-Term
+33.9,Low,3936,Good,32.36,Low,Monitor
+96.7,Very High,4665,Moderate,81.94,Critical,Immediate
+39.5,High,4495,Good,56.59,Moderate,Medium-Term
+67.3,High,4888,Moderate,78.27,High,Short-Term
+94.0,Low,2015,Moderate,48.36,Moderate,Medium-Term
+88.4,High,1913,Poor,66.85,High,Short-Term
+82.4,High,3444,Good,62.36,High,Short-Term
+94.6,High,4135,Good,68.71,High,Short-Term
+88.7,Moderate,3283,Moderate,64.62,High,Short-Term
+94.9,Very High,4911,Poor,97.74,Critical,Immediate
+88.5,Low,4108,Poor,66.19,High,Short-Term
+95.2,Low,3135,Good,55.45,Moderate,Medium-Term
+95.1,High,913,Poor,70.07,High,Short-Term
+90.2,High,596,Moderate,60.36,High,Short-Term
+96.8,Very High,850,Poor,73.92,High,Short-Term
+63.9,Low,514,Moderate,35.32,Low,Monitor
+12.6,Moderate,662,Poor,30.12,Low,Monitor
+21.6,Moderate,2791,Good,41.34,Moderate,Medium-Term
+59.6,High,1285,Good,52.14,Moderate,Medium-Term
+79.9,Low,311,Good,31.95,Low,Monitor
+79.0,Moderate,4923,Moderate,62.09,High,Short-Term
+26.5,Moderate,3548,Poor,45.04,Moderate,Medium-Term
+6.4,Very High,3065,Poor,57.25,Moderate,Medium-Term
+45.2,Moderate,455,Poor,49.92,Moderate,Medium-Term
+86.7,High,3852,Poor,88.42,Critical,Immediate
+6.1,Very High,3390,Moderate,54.68,Moderate,Medium-Term
+49.0,Very High,702,Good,48.61,Moderate,Medium-Term
+14.8,Moderate,2352,Poor,44.47,Moderate,Medium-Term
+54.8,High,3220,Poor,67.8,High,Short-Term
+45.4,Very High,912,Poor,54.62,Moderate,Medium-Term
+65.5,Moderate,3623,Moderate,66.13,High,Short-Term
+41.4,Very High,3366,Moderate,67.62,High,Short-Term
+31.3,High,2188,Moderate,56.97,Moderate,Medium-Term
+68.7,Very High,649,Good,63.45,High,Short-Term
+9.3,Low,3152,Good,27.26,Low,Monitor
+58.6,High,1101,Moderate,52.57,Moderate,Medium-Term
+66.5,Very High,521,Moderate,62.97,High,Short-Term
+35.2,Moderate,1367,Poor,45.26,Moderate,Medium-Term
+84.7,High,4656,Moderate,72.11,High,Short-Term
+27.9,Moderate,3615,Poor,59.57,Moderate,Medium-Term
+81.8,Low,2290,Good,43.18,Moderate,Medium-Term
+70.3,High,2883,Moderate,58.24,Moderate,Medium-Term
+87.0,Very High,670,Good,68.49,High,Short-Term
+97.2,Low,4445,Good,60.32,High,Short-Term
+45.4,Moderate,3131,Moderate,54.46,Moderate,Medium-Term
+77.7,Low,530,Good,34.33,Low,Monitor
+61.8,Low,2329,Moderate,48.54,Moderate,Medium-Term
+48.6,Very High,3492,Moderate,62.43,High,Short-Term
+51.2,High,3621,Good,54.43,Moderate,Medium-Term
+67.8,Very High,4416,Poor,79.57,High,Short-Term
+22.1,Low,162,Good,15.7,Low,Monitor
+21.1,Moderate,2193,Moderate,35.91,Low,Monitor
+0.8,Very High,1539,Good,36.02,Low,Monitor
+70.4,High,690,Moderate,63.19,High,Short-Term
+4.2,Low,3866,Good,33.22,Low,Monitor
+57.6,Very High,3521,Moderate,64.08,High,Short-Term
+2.1,High,1507,Poor,41.37,Moderate,Medium-Term
+69.0,High,821,Moderate,62.94,High,Short-Term
+24.3,Very High,4392,Good,55.9,Moderate,Medium-Term
+31.0,High,1915,Moderate,52.98,Moderate,Medium-Term
+7.6,Low,4446,Poor,35.79,Low,Monitor
+77.6,High,1309,Good,51.54,Moderate,Medium-Term
+25.6,Moderate,1352,Poor,35.33,Low,Monitor
+95.1,Very High,3900,Poor,94.29,Critical,Immediate
+44.9,High,2689,Good,51.01,Moderate,Medium-Term
+46.9,High,2350,Poor,53.96,Moderate,Medium-Term
+50.7,High,3882,Moderate,55.87,Moderate,Medium-Term
+36.9,High,728,Poor,56.91,Moderate,Medium-Term
+85.5,Very High,3890,Poor,87.6,Critical,Immediate
+79.2,Low,3784,Poor,65.54,High,Short-Term
+32.2,Very High,4207,Good,66.92,High,Short-Term
+45.1,High,790,Poor,56.53,Moderate,Medium-Term
+3.9,Very High,3699,Poor,57.77,Moderate,Medium-Term
+15.9,High,2417,Moderate,43.77,Moderate,Medium-Term
+33.8,Low,2841,Good,30.97,Low,Monitor
+55.8,Very High,2427,Moderate,68.82,High,Short-Term
+65.7,Moderate,2830,Good,53.64,Moderate,Medium-Term
+14.1,High,2641,Poor,53.93,Moderate,Medium-Term
+39.2,Low,2636,Poor,42.54,Moderate,Medium-Term
+79.2,Moderate,4412,Good,65.71,High,Short-Term
+42.3,High,249,Moderate,42.74,Moderate,Medium-Term
+95.1,High,4083,Good,70.74,High,Short-Term
+13.8,Low,2523,Good,25.54,Low,Monitor
+54.0,Low,2858,Poor,44.68,Moderate,Medium-Term
+37.7,Moderate,1581,Poor,51.61,Moderate,Medium-Term
+80.9,Moderate,3685,Good,59.62,Moderate,Medium-Term
+67.6,Moderate,3738,Poor,62.92,High,Short-Term
+74.9,Very High,2016,Poor,71.36,High,Short-Term
+96.6,Very High,1689,Moderate,79.42,High,Short-Term
+57.0,Very High,3882,Moderate,75.93,High,Short-Term
+50.3,Very High,1427,Good,59.63,Moderate,Medium-Term
+13.8,High,527,Poor,41.88,Moderate,Medium-Term
+37.1,Low,4326,Good,37.35,Low,Monitor
+76.3,High,3780,Poor,71.44,High,Short-Term
+43.7,Moderate,3795,Moderate,59.87,Moderate,Medium-Term
+41.5,Very High,4212,Moderate,63.14,High,Short-Term
+99.5,High,1939,Good,65.18,High,Short-Term
+9.9,High,1296,Good,26.76,Low,Monitor
+91.7,Very High,1236,Poor,77.8,High,Short-Term
+61.5,Low,255,Moderate,33.0,Low,Monitor
+15.0,Very High,1010,Moderate,41.09,Moderate,Medium-Term
+12.2,Moderate,3539,Poor,50.88,Moderate,Medium-Term
+45.7,Low,4194,Poor,53.6,Moderate,Medium-Term
+63.2,Moderate,1276,Moderate,48.59,Moderate,Medium-Term
+61.5,Moderate,4774,Moderate,58.12,Moderate,Medium-Term
+66.8,High,654,Poor,61.96,High,Short-Term
+78.6,Low,3298,Moderate,48.4,Moderate,Medium-Term
+38.7,High,2177,Poor,49.76,Moderate,Medium-Term
+78.9,High,2075,Poor,73.68,High,Short-Term
+10.4,High,1192,Good,31.55,Low,Monitor
+33.9,Moderate,3906,Poor,54.9,Moderate,Medium-Term
+18.2,Moderate,616,Poor,41.0,Moderate,Medium-Term
+45.8,High,1751,Good,53.19,Moderate,Medium-Term
+88.6,High,2640,Poor,75.19,High,Short-Term
+81.5,Very High,2175,Good,72.77,High,Short-Term
+19.1,High,491,Poor,41.21,Moderate,Medium-Term
+12.4,High,3679,Moderate,52.95,Moderate,Medium-Term
+89.5,Very High,2877,Good,74.27,High,Short-Term
+49.8,High,776,Poor,54.57,Moderate,Medium-Term
+43.1,Moderate,4568,Moderate,53.0,Moderate,Medium-Term
+8.0,High,2610,Moderate,44.88,Moderate,Medium-Term
+42.6,Very High,2979,Moderate,55.51,Moderate,Medium-Term
+87.0,High,3663,Moderate,77.33,High,Short-Term
+79.1,Low,714,Poor,52.99,Moderate,Medium-Term
+36.3,Moderate,355,Good,37.7,Low,Monitor
+67.8,Very High,385,Good,49.85,Moderate,Medium-Term
+77.9,High,3066,Moderate,76.72,High,Short-Term
+3.2,Moderate,3785,Moderate,36.71,Low,Monitor
+76.3,Moderate,4437,Moderate,65.32,High,Short-Term
+65.0,Moderate,1029,Good,48.64,Moderate,Medium-Term
+49.9,Very High,4701,Good,63.96,High,Short-Term
+26.0,Very High,1857,Poor,54.35,Moderate,Medium-Term
+91.6,Very High,1739,Good,64.69,High,Short-Term
+7.4,Moderate,3746,Good,40.54,Moderate,Medium-Term
+96.8,High,2946,Poor,73.95,High,Short-Term
+54.2,High,1390,Poor,63.13,High,Short-Term
+70.0,Moderate,3061,Poor,60.08,High,Short-Term
+98.5,Moderate,2039,Moderate,57.55,Moderate,Medium-Term
+55.4,High,3928,Poor,64.43,High,Short-Term
+88.4,Low,2633,Moderate,64.46,High,Short-Term
+71.9,Very High,3454,Poor,73.41,High,Short-Term
+97.2,Low,3786,Moderate,67.04,High,Short-Term
+34.5,Moderate,1157,Moderate,39.25,Low,Monitor
+86.8,Low,4344,Good,55.13,Moderate,Medium-Term
+16.2,Moderate,2934,Poor,51.48,Moderate,Medium-Term
+84.6,High,1708,Poor,78.99,High,Short-Term
+27.4,High,4470,Good,53.01,Moderate,Medium-Term
+16.9,Moderate,1502,Poor,41.66,Moderate,Medium-Term
+90.2,High,4717,Good,81.14,Critical,Immediate
+2.8,Low,4824,Moderate,37.7,Low,Monitor
+76.7,Very High,348,Moderate,70.46,High,Short-Term
+54.6,High,4056,Good,65.71,High,Short-Term
+68.5,High,3815,Good,67.75,High,Short-Term
+15.8,Very High,4066,Moderate,53.05,Moderate,Medium-Term
+60.7,High,2715,Poor,75.17,High,Short-Term
+34.5,Very High,1171,Moderate,53.0,Moderate,Medium-Term
+10.6,Moderate,3921,Good,33.67,Low,Monitor
+24.8,Low,514,Moderate,32.87,Low,Monitor
+86.4,Very High,2133,Good,75.29,High,Short-Term
+93.4,High,1655,Good,64.78,High,Short-Term
+51.5,Very High,2627,Moderate,56.9,Moderate,Medium-Term
+94.5,Very High,2072,Good,74.19,High,Short-Term
+4.9,High,4154,Poor,59.7,Moderate,Medium-Term
+65.4,Very High,2440,Poor,66.03,High,Short-Term
+10.7,Moderate,2266,Poor,38.41,Low,Monitor
+40.3,Low,3381,Good,39.25,Low,Monitor
+19.5,High,702,Moderate,39.7,Low,Monitor
+76.4,High,1073,Good,64.13,High,Short-Term
+39.4,High,4669,Moderate,66.55,High,Short-Term
+19.9,Very High,4196,Good,47.97,Moderate,Medium-Term
+13.7,High,3980,Poor,55.28,Moderate,Medium-Term
+60.6,Moderate,2786,Poor,57.2,Moderate,Medium-Term
+39.3,High,4963,Moderate,63.73,High,Short-Term
+51.0,Very High,4711,Moderate,72.29,High,Short-Term
+1.7,High,997,Moderate,35.92,Low,Monitor
+79.7,Low,4989,Moderate,59.1,Moderate,Medium-Term
+65.6,Moderate,520,Poor,52.48,Moderate,Medium-Term
+52.4,Very High,1310,Poor,60.71,High,Short-Term
+57.3,Low,1662,Good,36.26,Low,Monitor
+41.9,Very High,1770,Moderate,57.77,Moderate,Medium-Term
+61.1,Very High,610,Poor,59.28,Moderate,Medium-Term
+20.7,High,4018,Poor,56.6,Moderate,Medium-Term
+95.7,Very High,4467,Moderate,88.1,Critical,Immediate
+67.6,High,4066,Good,72.74,High,Short-Term
+27.9,High,1942,Moderate,51.87,Moderate,Medium-Term
+70.5,Very High,2697,Moderate,69.04,High,Short-Term
+93.4,High,2457,Good,69.2,High,Short-Term
+54.3,Very High,2927,Good,58.86,Moderate,Medium-Term
+28.8,Low,2937,Moderate,39.33,Low,Monitor
+74.7,Moderate,1755,Poor,57.25,Moderate,Medium-Term
+56.2,High,1224,Good,51.92,Moderate,Medium-Term
+58.7,Moderate,515,Poor,56.84,Moderate,Medium-Term
+22.6,Moderate,530,Good,26.64,Low,Monitor
+71.7,Low,1226,Good,47.93,Moderate,Medium-Term
+97.8,Moderate,3433,Poor,82.67,Critical,Immediate
+87.8,Very High,1733,Moderate,70.8,High,Short-Term
+64.6,Low,4803,Good,52.88,Moderate,Medium-Term
+72.3,Low,1534,Moderate,52.56,Moderate,Medium-Term
+17.6,Low,3352,Moderate,29.55,Low,Monitor
+74.9,High,406,Good,50.11,Moderate,Medium-Term
+60.3,High,2431,Moderate,68.66,High,Short-Term
+54.3,Very High,1199,Poor,64.54,High,Short-Term
+19.3,Low,2808,Good,32.19,Low,Monitor
+64.8,Moderate,215,Poor,48.68,Moderate,Medium-Term
+29.5,Moderate,1537,Poor,49.92,Moderate,Medium-Term
+89.7,Very High,4321,Moderate,78.07,High,Short-Term
+66.9,Moderate,1251,Moderate,48.1,Moderate,Medium-Term
+24.8,High,3242,Good,46.3,Moderate,Medium-Term
+26.7,High,2573,Poor,58.46,Moderate,Medium-Term
+1.1,High,2035,Good,36.7,Low,Monitor
+46.5,Moderate,3421,Poor,57.75,Moderate,Medium-Term
+89.5,High,1061,Poor,77.48,High,Short-Term
+29.5,Moderate,1895,Good,35.56,Low,Monitor
+45.5,High,3506,Poor,65.99,High,Short-Term
+47.1,Moderate,2127,Poor,56.82,Moderate,Medium-Term
+87.3,Low,4404,Moderate,63.62,High,Short-Term
+36.2,Low,605,Poor,41.79,Moderate,Medium-Term
+20.2,Moderate,1447,Moderate,41.03,Moderate,Medium-Term
+44.2,Moderate,4877,Moderate,50.94,Moderate,Medium-Term
+51.0,Low,3814,Good,43.82,Moderate,Medium-Term
+45.7,Low,4677,Moderate,52.46,Moderate,Medium-Term
+30.8,Low,3343,Moderate,44.21,Moderate,Medium-Term
+74.6,Low,471,Moderate,40.5,Moderate,Medium-Term
+6.4,Low,665,Moderate,12.41,Low,Monitor
+40.9,Moderate,3543,Moderate,58.88,Moderate,Medium-Term
+38.2,Very High,3177,Good,60.5,High,Short-Term
+66.2,Moderate,2948,Good,47.82,Moderate,Medium-Term
+53.7,Moderate,1924,Good,48.59,Moderate,Medium-Term
+97.8,Very High,4560,Moderate,88.98,Critical,Immediate
+82.3,Moderate,3873,Moderate,61.28,High,Short-Term
+18.8,Low,363,Poor,26.99,Low,Monitor
+76.6,Low,2071,Good,38.67,Low,Monitor
+59.4,Very High,4997,Poor,85.28,Critical,Immediate
+4.9,Low,3395,Moderate,26.05,Low,Monitor
+21.7,Low,1247,Poor,40.73,Moderate,Medium-Term
+23.4,High,4830,Poor,67.12,High,Short-Term
+81.8,Moderate,2572,Good,64.69,High,Short-Term
+52.1,Very High,2561,Moderate,57.46,Moderate,Medium-Term
+94.9,Moderate,3599,Poor,75.29,High,Short-Term
+97.2,Very High,4396,Moderate,90.74,Critical,Immediate
+40.8,High,3183,Good,56.58,Moderate,Medium-Term
+47.4,Moderate,2563,Poor,48.9,Moderate,Medium-Term
+46.3,Low,4707,Moderate,57.51,Moderate,Medium-Term
+55.7,Moderate,3281,Good,46.7,Moderate,Medium-Term
+33.0,Low,3784,Moderate,35.17,Low,Monitor
+72.5,Moderate,522,Moderate,47.99,Moderate,Medium-Term
+60.5,Low,696,Good,39.33,Low,Monitor
+58.8,Moderate,4027,Good,60.6,High,Short-Term
+33.3,Low,1835,Good,36.88,Low,Monitor
+11.7,Very High,2087,Poor,55.36,Moderate,Medium-Term
+20.5,Moderate,4622,Moderate,52.57,Moderate,Medium-Term
+38.1,High,2626,Moderate,51.59,Moderate,Medium-Term
+88.3,Very High,907,Poor,75.29,High,Short-Term
+84.0,Moderate,3136,Moderate,63.06,High,Short-Term
+56.3,Moderate,1295,Good,39.05,Low,Monitor
+93.5,Very High,2518,Good,69.44,High,Short-Term
+23.0,Moderate,4190,Poor,55.03,Moderate,Medium-Term
+68.5,High,4102,Poor,77.9,High,Short-Term
+49.1,Moderate,2985,Good,41.36,Moderate,Medium-Term
+54.7,Moderate,4541,Poor,72.38,High,Short-Term
+52.4,Low,497,Good,29.43,Low,Monitor
+84.3,Moderate,656,Poor,54.3,Moderate,Medium-Term
+21.9,Very High,3157,Good,53.68,Moderate,Medium-Term
+66.7,Very High,4096,Good,63.34,High,Short-Term
+55.2,Low,237,Poor,44.08,Moderate,Medium-Term
+53.6,High,240,Poor,59.98,Moderate,Medium-Term
+67.4,Moderate,976,Good,45.88,Moderate,Medium-Term
+24.1,High,3003,Moderate,55.17,Moderate,Medium-Term
+7.9,Very High,3860,Poor,55.34,Moderate,Medium-Term
+69.7,High,760,Poor,70.55,High,Short-Term
+65.0,Low,865,Moderate,39.28,Low,Monitor
+55.3,Low,177,Poor,35.05,Low,Monitor
+50.0,Very High,2813,Poor,77.64,High,Short-Term
+97.4,Low,1982,Good,58.94,Moderate,Medium-Term
+69.2,Very High,2320,Good,71.79,High,Short-Term
+68.4,High,4548,Poor,79.91,High,Short-Term
+17.9,High,228,Good,34.07,Low,Monitor
+75.2,Very High,730,Moderate,59.84,Moderate,Medium-Term
+24.0,Very High,4528,Moderate,60.65,High,Short-Term
+74.0,Low,4202,Poor,70.55,High,Short-Term
+5.4,Very High,2001,Good,38.84,Low,Monitor
+76.9,Very High,2773,Good,71.66,High,Short-Term
+78.4,Very High,4119,Good,73.11,High,Short-Term
+94.1,Very High,1621,Poor,82.04,Critical,Immediate
+38.0,High,2118,Poor,50.2,Moderate,Medium-Term
+26.8,Very High,1363,Poor,54.31,Moderate,Medium-Term
+36.1,Low,142,Moderate,27.32,Low,Monitor
+76.1,Low,1185,Good,36.88,Low,Monitor
+44.9,Very High,946,Good,44.43,Moderate,Medium-Term
+55.4,High,3255,Good,54.58,Moderate,Medium-Term
+38.8,Low,4683,Good,43.96,Moderate,Medium-Term
+17.0,Very High,1488,Good,39.7,Low,Monitor
+26.8,Moderate,618,Good,28.8,Low,Monitor
+42.1,Very High,730,Moderate,49.69,Moderate,Medium-Term
+24.7,Very High,4964,Poor,64.88,High,Short-Term
+10.7,High,155,Moderate,31.69,Low,Monitor
+62.0,High,3706,Moderate,65.41,High,Short-Term
+82.4,Moderate,2561,Moderate,63.23,High,Short-Term
+69.5,Very High,2673,Good,73.95,High,Short-Term
+96.9,High,4122,Poor,90.16,Critical,Immediate
+32.6,High,3318,Moderate,48.5,Moderate,Medium-Term
+56.4,Moderate,4606,Good,63.41,High,Short-Term
+46.2,Moderate,3691,Moderate,58.73,Moderate,Medium-Term
+6.9,Very High,4190,Good,52.8,Moderate,Medium-Term
+24.2,Moderate,3566,Moderate,38.41,Low,Monitor
+99.1,Very High,4869,Moderate,90.71,Critical,Immediate
+92.3,Very High,4553,Good,86.67,Critical,Immediate
+36.0,Low,995,Good,29.6,Low,Monitor
+35.5,Low,4713,Poor,54.37,Moderate,Medium-Term
+40.0,High,3626,Good,46.17,Moderate,Medium-Term
+25.9,Moderate,3751,Moderate,44.83,Moderate,Medium-Term
+77.2,Moderate,2925,Good,56.44,Moderate,Medium-Term
+29.5,Low,1050,Poor,29.04,Low,Monitor
+31.2,Very High,1794,Poor,59.08,Moderate,Medium-Term
+47.6,Very High,3806,Moderate,60.95,High,Short-Term
+4.5,Low,285,Moderate,20.08,Low,Monitor
+67.7,Moderate,2098,Poor,54.63,Moderate,Medium-Term
+16.0,Very High,3885,Good,57.4,Moderate,Medium-Term
+63.0,Moderate,3640,Moderate,51.58,Moderate,Medium-Term
+61.4,Moderate,3782,Poor,63.24,High,Short-Term
+0.4,Moderate,1785,Moderate,33.82,Low,Monitor
+80.9,Low,4829,Good,62.92,High,Short-Term
+53.7,High,2770,Good,54.7,Moderate,Medium-Term
+26.2,Very High,4423,Poor,65.12,High,Short-Term
+38.9,Very High,4908,Good,62.32,High,Short-Term
+84.6,Moderate,2536,Poor,68.94,High,Short-Term
+67.2,High,1065,Good,50.17,Moderate,Medium-Term
+18.3,Moderate,4284,Moderate,44.73,Moderate,Medium-Term
+13.8,Very High,3565,Good,50.38,Moderate,Medium-Term
+53.7,Moderate,4645,Good,55.21,Moderate,Medium-Term
+14.0,High,3794,Poor,48.19,Moderate,Medium-Term
+35.9,Low,4069,Good,34.46,Low,Monitor
+38.4,Very High,3451,Poor,68.36,High,Short-Term
+71.0,Very High,4103,Good,66.08,High,Short-Term
+3.1,Moderate,2492,Good,25.45,Low,Monitor
+53.8,Moderate,3846,Poor,65.84,High,Short-Term
+76.6,Low,4791,Good,52.76,Moderate,Medium-Term
+54.3,High,4540,Good,66.82,High,Short-Term
+44.1,Moderate,3582,Good,51.54,Moderate,Medium-Term
+65.4,Moderate,2538,Good,50.24,Moderate,Medium-Term
+34.9,Low,3696,Good,41.91,Moderate,Medium-Term
+23.7,High,3607,Good,50.08,Moderate,Medium-Term
+78.5,Moderate,586,Poor,55.18,Moderate,Medium-Term
+28.1,Moderate,2751,Poor,45.27,Moderate,Medium-Term
+57.3,Low,1210,Moderate,46.59,Moderate,Medium-Term
+99.2,Moderate,1187,Good,51.81,Moderate,Medium-Term
+32.2,Moderate,3317,Moderate,41.31,Moderate,Medium-Term
+63.2,Very High,3173,Moderate,64.02,High,Short-Term
+79.5,Low,3400,Poor,65.68,High,Short-Term
+69.5,High,3824,Moderate,66.86,High,Short-Term
+0.2,Low,3855,Poor,38.37,Low,Monitor
+35.8,Low,4478,Moderate,40.93,Moderate,Medium-Term
+43.0,Moderate,4152,Moderate,51.33,Moderate,Medium-Term
+28.4,Moderate,4737,Moderate,56.0,Moderate,Medium-Term
+89.4,Low,476,Good,45.71,Moderate,Medium-Term
+83.7,Low,1117,Good,43.32,Moderate,Medium-Term
+0.1,Very High,1757,Poor,54.86,Moderate,Medium-Term
+88.2,High,1402,Moderate,59.97,Moderate,Medium-Term
+36.0,Low,3146,Poor,51.89,Moderate,Medium-Term
+16.6,Very High,2602,Poor,60.66,High,Short-Term
+23.4,Low,879,Good,17.62,Low,Monitor
+7.8,Moderate,4355,Poor,47.02,Moderate,Medium-Term
+0.8,High,1087,Moderate,37.73,Low,Monitor
+47.8,Moderate,3238,Good,51.37,Moderate,Medium-Term
+10.2,High,3111,Moderate,40.2,Moderate,Medium-Term
+77.3,Moderate,1270,Good,50.62,Moderate,Medium-Term
+0.8,Moderate,3705,Moderate,41.16,Moderate,Medium-Term
+62.8,Moderate,3472,Poor,66.61,High,Short-Term
+86.0,Low,923,Good,48.33,Moderate,Medium-Term
+59.0,Very High,2979,Moderate,65.6,High,Short-Term
+14.0,High,790,Good,34.41,Low,Monitor
+60.0,High,319,Poor,63.54,High,Short-Term
+20.5,Moderate,3309,Moderate,45.25,Moderate,Medium-Term
+78.4,Moderate,4154,Moderate,60.36,High,Short-Term
+50.0,Low,4427,Good,53.5,Moderate,Medium-Term
+93.4,Moderate,3268,Poor,72.24,High,Short-Term
+54.6,Moderate,3958,Good,45.21,Moderate,Medium-Term
+6.8,High,1867,Good,42.11,Moderate,Medium-Term
+94.9,Very High,4250,Moderate,88.28,Critical,Immediate
+50.1,Very High,3569,Poor,71.5,High,Short-Term
+64.1,Moderate,2373,Good,46.89,Moderate,Medium-Term
+51.1,Moderate,1372,Poor,48.35,Moderate,Medium-Term
+58.6,Low,2640,Poor,50.32,Moderate,Medium-Term
+95.3,Moderate,574,Good,47.03,Moderate,Medium-Term
+43.4,Very High,550,Moderate,56.05,Moderate,Medium-Term
+65.8,Moderate,1078,Good,48.67,Moderate,Medium-Term
+70.1,Moderate,4166,Moderate,64.07,High,Short-Term
+78.3,High,1467,Moderate,57.3,Moderate,Medium-Term
+78.1,High,1067,Good,54.46,Moderate,Medium-Term
+42.9,Low,2254,Poor,51.88,Moderate,Medium-Term
+62.8,Very High,3828,Poor,76.3,High,Short-Term
+50.0,Moderate,3112,Good,44.03,Moderate,Medium-Term
+10.3,Low,1971,Poor,31.88,Low,Monitor
+4.4,Low,2103,Good,20.0,Low,Monitor
+38.3,Moderate,1566,Good,38.52,Low,Monitor
+91.4,Very High,1939,Moderate,71.72,High,Short-Term
+91.6,High,2322,Good,67.99,High,Short-Term
+11.9,Low,1569,Good,25.81,Low,Monitor
+98.1,Very High,664,Moderate,78.85,High,Short-Term
+77.4,High,2781,Good,64.56,High,Short-Term
+0.8,Moderate,2488,Poor,42.53,Moderate,Medium-Term
+74.0,Moderate,3900,Moderate,65.47,High,Short-Term
+49.3,Moderate,4577,Good,47.97,Moderate,Medium-Term
+93.2,Low,2008,Poor,58.44,Moderate,Medium-Term
+84.0,Low,2844,Good,55.42,Moderate,Medium-Term
+37.6,High,951,Good,42.94,Moderate,Medium-Term
+23.8,Very High,590,Good,45.58,Moderate,Medium-Term
+9.3,Moderate,4357,Moderate,46.39,Moderate,Medium-Term
+37.2,Low,4857,Good,43.04,Moderate,Medium-Term
+63.7,Very High,713,Poor,67.49,High,Short-Term
+43.5,Moderate,2039,Moderate,42.06,Moderate,Medium-Term
+31.5,Very High,2772,Moderate,57.35,Moderate,Medium-Term
+23.4,Moderate,1215,Poor,34.54,Low,Monitor
+10.6,Very High,3917,Moderate,53.88,Moderate,Medium-Term
+53.6,Moderate,3802,Moderate,55.88,Moderate,Medium-Term
+85.2,Low,1391,Poor,52.5,Moderate,Medium-Term
+70.5,Low,1861,Moderate,41.49,Moderate,Medium-Term
+71.1,High,3346,Poor,66.3,High,Short-Term
+29.9,Moderate,354,Moderate,40.05,Moderate,Medium-Term
+55.6,Moderate,875,Moderate,39.09,Low,Monitor
+79.4,Low,197,Good,44.37,Moderate,Medium-Term
+98.3,Moderate,1723,Moderate,61.76,High,Short-Term
+63.0,Low,4870,Poor,57.92,Moderate,Medium-Term
+81.3,Low,628,Good,47.91,Moderate,Medium-Term
+44.3,Moderate,853,Moderate,35.38,Low,Monitor
+94.2,Low,1476,Poor,58.05,Moderate,Medium-Term
+72.4,Very High,341,Moderate,65.63,High,Short-Term
+17.3,Moderate,1633,Moderate,31.57,Low,Monitor
+88.3,Low,2113,Poor,56.33,Moderate,Medium-Term
+41.2,Very High,599,Good,44.8,Moderate,Medium-Term
+13.7,Moderate,4407,Good,42.51,Moderate,Medium-Term
+80.2,Low,3233,Poor,59.0,Moderate,Medium-Term
+54.5,Very High,2918,Poor,72.04,High,Short-Term
+38.8,Moderate,313,Moderate,38.88,Low,Monitor
+2.9,High,579,Moderate,33.8,Low,Monitor
+76.7,Moderate,1407,Good,46.44,Moderate,Medium-Term
+24.1,Low,1897,Poor,41.81,Moderate,Medium-Term
+79.7,High,1523,Good,55.27,Moderate,Medium-Term
+31.8,High,4946,Good,59.67,Moderate,Medium-Term
+35.2,Moderate,4712,Good,54.56,Moderate,Medium-Term
+81.0,Very High,4541,Moderate,77.32,High,Short-Term
+3.8,Low,2005,Poor,25.1,Low,Monitor
+52.6,Low,2817,Poor,45.15,Moderate,Medium-Term
+13.0,Moderate,2750,Good,25.9,Low,Monitor
+58.7,Moderate,1008,Poor,58.1,Moderate,Medium-Term
+96.1,High,3340,Poor,75.87,High,Short-Term
+30.2,Moderate,1390,Poor,51.06,Moderate,Medium-Term
+79.2,Very High,2699,Good,73.33,High,Short-Term
+56.2,High,1928,Poor,64.05,High,Short-Term
+17.5,High,2512,Good,36.51,Low,Monitor
+0.2,Very High,4748,Good,45.47,Moderate,Medium-Term
+31.8,Moderate,4732,Good,55.05,Moderate,Medium-Term
+14.1,Low,2049,Moderate,35.85,Low,Monitor
+16.8,Low,2850,Moderate,24.46,Low,Monitor
+21.0,Low,2971,Moderate,38.82,Low,Monitor
+72.0,Low,3261,Moderate,56.96,Moderate,Medium-Term
+96.9,Very High,4139,Moderate,84.09,Critical,Immediate
+37.5,Very High,4835,Poor,77.85,High,Short-Term
+22.6,Very High,703,Good,38.94,Low,Monitor
+31.9,Low,707,Moderate,23.71,Low,Monitor
+37.5,Low,4581,Good,39.36,Low,Monitor
+98.5,Very High,353,Moderate,78.97,High,Short-Term
+16.5,Very High,1386,Good,36.44,Low,Monitor
+20.6,Moderate,3452,Poor,49.64,Moderate,Medium-Term
+92.6,High,2406,Moderate,67.83,High,Short-Term
+5.0,Very High,1358,Good,36.45,Low,Monitor
+42.8,High,4034,Good,50.17,Moderate,Medium-Term
+20.7,High,771,Moderate,45.83,Moderate,Medium-Term
+30.8,Very High,3957,Moderate,68.93,High,Short-Term
+26.5,Very High,1614,Moderate,57.9,Moderate,Medium-Term
+36.9,Very High,465,Moderate,49.81,Moderate,Medium-Term
+26.3,High,4722,Good,48.01,Moderate,Medium-Term
+69.6,Low,802,Poor,45.32,Moderate,Medium-Term
+54.1,Moderate,4635,Good,60.93,High,Short-Term
+81.8,Very High,4486,Poor,93.69,Critical,Immediate
+47.5,Moderate,4001,Moderate,48.39,Moderate,Medium-Term
+90.3,Low,4213,Poor,75.12,High,Short-Term
+80.0,Moderate,1085,Moderate,49.61,Moderate,Medium-Term
+98.4,Moderate,1678,Good,51.83,Moderate,Medium-Term
+7.8,Very High,1754,Poor,45.37,Moderate,Medium-Term
+59.5,High,648,Good,47.13,Moderate,Medium-Term
+39.7,High,2362,Poor,57.92,Moderate,Medium-Term
+87.3,Very High,1021,Moderate,65.03,High,Short-Term
+56.7,Low,965,Poor,48.42,Moderate,Medium-Term
+78.6,High,3466,Moderate,69.5,High,Short-Term
+48.6,Very High,406,Good,46.54,Moderate,Medium-Term
+14.4,Very High,417,Moderate,48.94,Moderate,Medium-Term
+33.1,Moderate,503,Poor,40.95,Moderate,Medium-Term
+26.9,High,265,Moderate,45.56,Moderate,Medium-Term
+30.3,High,4127,Poor,65.32,High,Short-Term
+97.2,Moderate,1200,Moderate,68.91,High,Short-Term
+44.3,High,2307,Poor,58.65,Moderate,Medium-Term
+64.6,Moderate,3718,Good,62.09,High,Short-Term
+40.7,Very High,4331,Moderate,72.71,High,Short-Term
+51.5,Moderate,637,Moderate,46.42,Moderate,Medium-Term
+40.3,Low,1523,Good,36.7,Low,Monitor
+20.1,Low,2143,Good,25.41,Low,Monitor
+91.8,Moderate,2344,Moderate,69.19,High,Short-Term
+50.5,Low,350,Good,27.53,Low,Monitor
+59.4,Moderate,3987,Poor,65.31,High,Short-Term
+34.4,High,840,Moderate,37.84,Low,Monitor
+5.0,Moderate,1913,Poor,32.75,Low,Monitor
+20.7,Very High,4304,Good,61.79,High,Short-Term
+96.7,Low,3983,Good,62.64,High,Short-Term
+60.1,Low,1933,Moderate,45.5,Moderate,Medium-Term
+94.3,High,3571,Moderate,82.92,Critical,Immediate
+45.9,Moderate,3923,Moderate,57.1,Moderate,Medium-Term
+82.4,Very High,4888,Good,72.01,High,Short-Term
+99.9,High,4699,Poor,90.51,Critical,Immediate
+28.3,Low,4046,Good,33.97,Low,Monitor
+27.6,High,2368,Moderate,51.63,Moderate,Medium-Term
+95.2,High,1643,Good,65.67,High,Short-Term
+24.0,Low,3410,Poor,39.4,Low,Monitor
+14.0,Low,4174,Moderate,32.75,Low,Monitor
+41.9,Very High,389,Poor,60.8,High,Short-Term
+57.2,Moderate,2911,Poor,62.82,High,Short-Term
+68.6,Very High,3036,Poor,74.2,High,Short-Term
+17.0,Moderate,2506,Good,33.5,Low,Monitor
+74.1,Moderate,2849,Poor,58.51,Moderate,Medium-Term
+35.5,High,3544,Moderate,54.55,Moderate,Medium-Term
+58.6,Very High,1064,Moderate,53.63,Moderate,Medium-Term
+63.4,Low,3968,Good,48.57,Moderate,Medium-Term
+86.7,Very High,4440,Moderate,82.72,Critical,Immediate
+87.1,Moderate,1225,Good,50.86,Moderate,Medium-Term
+98.7,Very High,1273,Moderate,81.44,Critical,Immediate
+18.0,Low,4094,Moderate,39.78,Low,Monitor
+17.7,Low,138,Moderate,18.13,Low,Monitor
+76.1,Moderate,4820,Good,63.74,High,Short-Term
+76.4,Low,1160,Poor,50.57,Moderate,Medium-Term
+42.9,Very High,4010,Moderate,59.13,Moderate,Medium-Term
+53.4,High,215,Moderate,53.66,Moderate,Medium-Term
+53.1,Low,133,Poor,43.11,Moderate,Medium-Term
+22.6,High,2656,Good,37.67,Low,Monitor
+50.3,High,1468,Good,54.16,Moderate,Medium-Term
+29.8,High,3834,Poor,61.34,High,Short-Term
+52.4,Very High,1196,Moderate,67.06,High,Short-Term
+49.0,Moderate,1450,Moderate,37.76,Low,Monitor
+22.4,Moderate,1830,Poor,35.26,Low,Monitor
+50.5,Low,3103,Poor,52.75,Moderate,Medium-Term
+3.7,High,4480,Poor,47.25,Moderate,Medium-Term
+99.5,Low,261,Good,49.41,Moderate,Medium-Term
+41.7,Very High,1112,Poor,56.33,Moderate,Medium-Term
+70.2,Moderate,176,Moderate,46.5,Moderate,Medium-Term
+10.1,High,1223,Moderate,43.72,Moderate,Medium-Term
+10.5,Low,2415,Good,28.4,Low,Monitor
+49.8,Moderate,2254,Poor,61.77,High,Short-Term
+35.8,Very High,2519,Good,46.74,Moderate,Medium-Term
+49.6,Moderate,4037,Moderate,51.76,Moderate,Medium-Term
+1.3,Low,1004,Poor,27.42,Low,Monitor
+14.9,Low,4291,Good,36.46,Low,Monitor
+10.1,High,1993,Moderate,49.33,Moderate,Medium-Term
+29.6,Very High,510,Good,48.91,Moderate,Medium-Term
+87.4,High,3050,Poor,75.04,High,Short-Term
+73.9,Low,475,Good,43.9,Moderate,Medium-Term
+66.3,Moderate,2792,Moderate,63.18,High,Short-Term
+95.5,High,861,Moderate,71.91,High,Short-Term
+18.3,Very High,3378,Moderate,52.27,Moderate,Medium-Term
+38.6,Very High,3554,Poor,75.16,High,Short-Term
+16.7,Moderate,580,Good,19.82,Low,Monitor
+91.1,Very High,4760,Poor,91.18,Critical,Immediate
+61.1,High,336,Poor,64.06,High,Short-Term
+72.7,Moderate,4057,Moderate,57.98,Moderate,Medium-Term
+41.1,Low,618,Moderate,34.34,Low,Monitor
+1.2,Moderate,2871,Poor,40.02,Moderate,Medium-Term
+70.1,Low,3645,Poor,62.99,High,Short-Term
+48.2,Very High,1317,Poor,69.66,High,Short-Term
+61.3,Low,1385,Poor,52.82,Moderate,Medium-Term
+85.2,Moderate,713,Moderate,52.3,Moderate,Medium-Term
+33.1,High,512,Poor,44.44,Moderate,Medium-Term
+64.3,Very High,2025,Good,61.45,High,Short-Term
+80.1,Very High,821,Moderate,66.47,High,Short-Term
+11.9,Very High,245,Good,35.1,Low,Monitor
+3.6,Low,844,Poor,32.3,Low,Monitor
+63.8,Moderate,3837,Moderate,57.99,Moderate,Medium-Term
+5.4,Moderate,3822,Moderate,40.64,Moderate,Medium-Term
+62.0,Very High,3076,Poor,74.49,High,Short-Term
+9.7,Moderate,117,Moderate,24.04,Low,Monitor
+63.4,High,4586,Poor,73.76,High,Short-Term
+10.6,Moderate,4133,Good,43.39,Moderate,Medium-Term
+74.3,Very High,976,Moderate,67.68,High,Short-Term
+18.8,Very High,1866,Moderate,55.23,Moderate,Medium-Term
+19.1,High,982,Moderate,33.35,Low,Monitor
+63.3,Low,3790,Moderate,54.85,Moderate,Medium-Term
+95.6,Moderate,4186,Good,68.69,High,Short-Term
+4.9,Very High,4893,Moderate,64.08,High,Short-Term
+78.1,Moderate,4839,Good,68.38,High,Short-Term
+12.8,Very High,2736,Poor,62.77,High,Short-Term
+41.9,Moderate,2341,Moderate,53.95,Moderate,Medium-Term
+97.0,Very High,1192,Good,68.82,High,Short-Term
+70.0,High,4587,Moderate,76.24,High,Short-Term
+93.6,Moderate,1745,Good,59.73,Moderate,Medium-Term
+29.1,High,1186,Poor,52.58,Moderate,Medium-Term
+95.8,High,1045,Moderate,68.71,High,Short-Term
+58.3,Very High,4473,Moderate,80.34,Critical,Immediate
+42.2,Low,4382,Good,35.2,Low,Monitor
+14.5,Low,1737,Moderate,31.02,Low,Monitor
+16.1,High,2152,Good,45.17,Moderate,Medium-Term
+69.1,High,1771,Poor,59.04,Moderate,Medium-Term
+81.4,Low,4702,Good,61.68,High,Short-Term
+56.1,Moderate,4285,Poor,61.13,High,Short-Term
+66.4,Very High,3274,Moderate,79.65,High,Short-Term
+97.6,High,4623,Good,70.36,High,Short-Term
+25.1,Very High,1947,Poor,61.09,High,Short-Term
+64.8,Moderate,1685,Moderate,51.1,Moderate,Medium-Term
+98.3,Low,1631,Good,55.19,Moderate,Medium-Term
+11.9,Low,3610,Moderate,34.52,Low,Monitor
+13.0,High,146,Moderate,34.59,Low,Monitor
+93.7,Low,1359,Moderate,54.78,Moderate,Medium-Term
+77.4,High,4118,Poor,79.61,High,Short-Term
+7.3,High,4404,Good,52.98,Moderate,Medium-Term
+52.1,Moderate,3507,Poor,60.6,High,Short-Term
+9.2,Moderate,1847,Poor,35.67,Low,Monitor
+36.1,Moderate,4445,Moderate,60.86,High,Short-Term
+82.4,Low,1039,Poor,50.79,Moderate,Medium-Term
+24.0,Moderate,426,Poor,44.02,Moderate,Medium-Term
+38.1,Low,3261,Moderate,42.02,Moderate,Medium-Term
+28.3,High,4313,Poor,61.54,High,Short-Term
+4.4,Moderate,2724,Poor,33.51,Low,Monitor
+9.6,Low,636,Good,19.13,Low,Monitor
+77.4,Very High,951,Good,62.99,High,Short-Term
+70.3,Very High,690,Poor,71.59,High,Short-Term
+2.4,High,410,Good,21.15,Low,Monitor
+17.8,High,4671,Good,51.61,Moderate,Medium-Term
+22.8,High,3439,Moderate,50.96,Moderate,Medium-Term
+40.4,High,238,Moderate,47.86,Moderate,Medium-Term
+53.5,Low,4897,Good,52.02,Moderate,Medium-Term
+7.3,Low,2474,Poor,29.52,Low,Monitor
+8.7,Very High,3224,Moderate,57.09,Moderate,Medium-Term
+3.1,Moderate,4470,Good,31.15,Low,Monitor
+39.1,High,1280,Moderate,51.65,Moderate,Medium-Term
+91.4,High,191,Poor,74.0,High,Short-Term
+14.1,Low,141,Poor,27.3,Low,Monitor
+53.7,Low,2596,Good,43.65,Moderate,Medium-Term
+90.4,High,1834,Moderate,75.47,High,Short-Term
+85.1,Moderate,1418,Good,48.99,Moderate,Medium-Term
+83.5,Moderate,1038,Good,54.12,Moderate,Medium-Term
+56.7,Low,4596,Moderate,55.54,Moderate,Medium-Term
+7.3,Low,2153,Good,16.83,Low,Monitor
+58.1,High,3025,Good,60.68,High,Short-Term
+23.5,High,671,Good,33.49,Low,Monitor
+45.1,High,4885,Good,61.88,High,Short-Term
+36.4,High,3608,Good,44.75,Moderate,Medium-Term
+24.6,Moderate,3672,Moderate,51.24,Moderate,Medium-Term
+13.4,High,4031,Moderate,49.94,Moderate,Medium-Term
+77.5,Very High,4619,Good,71.91,High,Short-Term
+60.7,High,1246,Poor,56.62,Moderate,Medium-Term
+73.4,Low,717,Good,44.65,Moderate,Medium-Term
+63.2,Very High,4933,Good,79.85,High,Short-Term
+55.2,Very High,1317,Moderate,58.87,Moderate,Medium-Term
+89.1,High,1196,Moderate,65.99,High,Short-Term
+9.1,High,4213,Good,48.14,Moderate,Medium-Term
+84.8,Moderate,4311,Good,64.06,High,Short-Term
+17.9,Moderate,4060,Moderate,37.66,Low,Monitor
+76.1,Moderate,614,Moderate,49.5,Moderate,Medium-Term
+4.3,Moderate,4342,Moderate,39.58,Low,Monitor
+91.8,Low,426,Poor,51.27,Moderate,Medium-Term
+70.4,High,2257,Poor,69.63,High,Short-Term
+17.4,Very High,3092,Poor,62.16,High,Short-Term
+83.5,High,3182,Good,67.71,High,Short-Term
+35.3,High,4088,Moderate,64.9,High,Short-Term
+0.7,Moderate,3703,Good,28.74,Low,Monitor
+51.5,High,1832,Good,45.84,Moderate,Medium-Term
+36.2,Low,1986,Moderate,40.59,Moderate,Medium-Term
+72.0,Very High,4022,Moderate,72.66,High,Short-Term
+16.1,Very High,283,Good,30.96,Low,Monitor
+57.3,Moderate,1203,Poor,52.82,Moderate,Medium-Term
+89.1,Moderate,558,Good,47.55,Moderate,Medium-Term
+18.0,Very High,4717,Poor,58.72,Moderate,Medium-Term
+72.0,High,802,Good,53.1,Moderate,Medium-Term
+99.3,Very High,1497,Good,77.53,High,Short-Term
+60.1,Moderate,4284,Moderate,55.35,Moderate,Medium-Term
+68.6,Very High,4986,Poor,78.3,High,Short-Term
+37.8,Moderate,989,Good,30.43,Low,Monitor
+86.0,Very High,1325,Poor,70.19,High,Short-Term
+47.6,Low,4453,Poor,58.76,Moderate,Medium-Term
+9.3,Moderate,4517,Good,45.67,Moderate,Medium-Term
+77.5,Very High,4376,Moderate,78.56,High,Short-Term
+4.3,Very High,1979,Moderate,50.05,Moderate,Medium-Term
+38.1,Low,3585,Good,34.25,Low,Monitor
+76.6,Low,2420,Poor,62.77,High,Short-Term
+40.9,Moderate,144,Poor,46.54,Moderate,Medium-Term
+0.7,Low,4357,Good,26.17,Low,Monitor
+20.5,High,3449,Moderate,44.68,Moderate,Medium-Term
+42.6,High,2240,Poor,57.9,Moderate,Medium-Term
+36.6,High,3355,Good,50.34,Moderate,Medium-Term
+78.4,Very High,1564,Moderate,70.65,High,Short-Term
+48.4,High,4832,Moderate,70.66,High,Short-Term
+39.8,Moderate,1075,Poor,41.66,Moderate,Medium-Term
+78.3,Moderate,921,Good,49.22,Moderate,Medium-Term
+78.6,Low,1416,Moderate,55.6,Moderate,Medium-Term
+0.5,Low,1290,Moderate,27.15,Low,Monitor
+43.5,Low,2255,Good,32.68,Low,Monitor
+60.9,Very High,3382,Poor,78.59,High,Short-Term
+28.6,Low,1535,Poor,36.31,Low,Monitor
+1.1,High,1695,Good,37.21,Low,Monitor
+51.1,Moderate,1488,Poor,44.17,Moderate,Medium-Term
+23.9,Low,1389,Good,32.37,Low,Monitor
+78.0,High,3337,Moderate,72.03,High,Short-Term
+51.8,Low,838,Poor,38.28,Low,Monitor
+83.0,High,2946,Moderate,66.45,High,Short-Term
+96.3,Very High,3409,Poor,80.66,Critical,Immediate
+17.5,Low,4676,Good,35.38,Low,Monitor
+34.0,Low,4304,Moderate,50.14,Moderate,Medium-Term
+81.3,High,3727,Moderate,74.37,High,Short-Term
+77.0,High,3858,Poor,77.0,High,Short-Term
+58.7,Low,4048,Good,43.37,Moderate,Medium-Term
+38.3,Moderate,1983,Moderate,42.44,Moderate,Medium-Term
+35.3,Low,2257,Good,28.48,Low,Monitor
+39.9,High,722,Poor,59.0,Moderate,Medium-Term
+47.7,High,1890,Poor,55.82,Moderate,Medium-Term
+94.7,Moderate,4187,Poor,72.83,High,Short-Term
+73.5,High,1793,Good,53.64,Moderate,Medium-Term
+25.0,High,1377,Good,33.68,Low,Monitor
+7.8,Very High,154,Poor,51.93,Moderate,Medium-Term
+84.8,High,2683,Moderate,76.78,High,Short-Term
+88.1,High,4120,Good,80.56,Critical,Immediate
+91.6,High,3359,Good,75.0,High,Short-Term
+12.8,Very High,4018,Poor,54.32,Moderate,Medium-Term
+34.7,Moderate,3845,Good,48.7,Moderate,Medium-Term
+46.0,Low,196,Poor,32.5,Low,Monitor
+58.1,High,3062,Poor,73.62,High,Short-Term
+18.7,High,2042,Moderate,44.25,Moderate,Medium-Term
+61.3,High,1606,Moderate,56.66,Moderate,Medium-Term
+41.9,High,3090,Moderate,53.49,Moderate,Medium-Term
+18.0,Moderate,4817,Poor,48.98,Moderate,Medium-Term
+10.0,High,2031,Poor,45.79,Moderate,Medium-Term
+38.1,Moderate,1325,Moderate,46.03,Moderate,Medium-Term
+17.7,Very High,1201,Poor,52.52,Moderate,Medium-Term
+72.1,Very High,2557,Moderate,72.45,High,Short-Term
+56.8,Very High,910,Poor,59.38,Moderate,Medium-Term
+21.5,High,4003,Poor,52.33,Moderate,Medium-Term
+74.5,High,3057,Moderate,69.27,High,Short-Term
+93.2,High,2919,Good,68.39,High,Short-Term
+35.1,Moderate,4825,Poor,61.74,High,Short-Term
+53.8,High,3009,Moderate,63.64,High,Short-Term
+48.7,Very High,742,Moderate,57.83,Moderate,Medium-Term
+46.4,Moderate,1472,Poor,54.8,Moderate,Medium-Term
+33.7,Very High,684,Good,40.62,Moderate,Medium-Term
+22.8,High,2486,Poor,49.45,Moderate,Medium-Term
+64.5,High,3744,Moderate,71.52,High,Short-Term
+52.1,Very High,3491,Good,58.64,Moderate,Medium-Term
+2.3,Moderate,2161,Poor,40.41,Moderate,Medium-Term
+8.0,Moderate,3352,Good,27.74,Low,Monitor
+93.7,Very High,4592,Good,75.08,High,Short-Term
+39.7,Low,951,Moderate,34.59,Low,Monitor
+8.4,Very High,2634,Good,40.94,Moderate,Medium-Term
+28.4,Moderate,1175,Poor,47.81,Moderate,Medium-Term
+2.9,High,2764,Moderate,41.55,Moderate,Medium-Term
+87.1,High,4593,Moderate,73.02,High,Short-Term
+94.8,Moderate,4940,Poor,79.99,High,Short-Term
+74.9,Very High,4388,Poor,87.25,Critical,Immediate
+31.0,High,4045,Poor,57.91,Moderate,Medium-Term
+9.0,High,3096,Moderate,41.69,Moderate,Medium-Term
+30.4,Low,4387,Good,36.19,Low,Monitor
+46.9,Low,4129,Moderate,44.72,Moderate,Medium-Term
+76.6,High,4990,Good,77.02,High,Short-Term
+54.8,Moderate,3472,Poor,59.81,Moderate,Medium-Term
+25.0,Very High,3199,Good,49.26,Moderate,Medium-Term
+42.2,Moderate,4332,Poor,64.77,High,Short-Term
+68.5,High,4457,Moderate,70.41,High,Short-Term
+85.3,Moderate,1219,Moderate,51.0,Moderate,Medium-Term
+45.5,Very High,2329,Poor,68.45,High,Short-Term
+18.8,Low,1346,Good,29.98,Low,Monitor
+2.2,Low,2411,Moderate,19.41,Low,Monitor
+43.8,Low,2007,Good,28.27,Low,Monitor
+49.4,High,3542,Moderate,66.03,High,Short-Term
+49.8,High,3898,Poor,72.93,High,Short-Term
+33.0,Moderate,559,Moderate,40.7,Moderate,Medium-Term
+7.1,Very High,1587,Good,46.66,Moderate,Medium-Term
+25.0,Very High,203,Good,48.65,Moderate,Medium-Term
+71.5,Very High,3728,Good,75.24,High,Short-Term
+3.4,Very High,869,Poor,48.58,Moderate,Medium-Term
+20.8,Very High,2656,Moderate,48.44,Moderate,Medium-Term
+72.8,Low,2175,Moderate,51.4,Moderate,Medium-Term
+19.9,Low,1884,Good,20.78,Low,Monitor
+43.4,Low,1471,Moderate,37.43,Low,Monitor
+39.6,Moderate,173,Good,33.85,Low,Monitor
+69.1,Moderate,3142,Good,50.73,Moderate,Medium-Term
+50.0,High,591,Good,43.05,Moderate,Medium-Term
+15.4,Low,1130,Moderate,20.63,Low,Monitor
+98.2,High,3693,Poor,79.48,High,Short-Term
+68.9,High,1203,Moderate,65.31,High,Short-Term
+48.5,Very High,4679,Moderate,72.37,High,Short-Term
+49.0,Moderate,4553,Moderate,55.04,Moderate,Medium-Term
+46.8,Moderate,664,Poor,41.27,Moderate,Medium-Term
+29.6,High,4536,Moderate,57.77,Moderate,Medium-Term
+77.6,Very High,1619,Good,67.06,High,Short-Term
+36.4,Moderate,2727,Poor,44.41,Moderate,Medium-Term
+96.7,Very High,1655,Poor,84.65,Critical,Immediate
+76.6,Moderate,2419,Moderate,57.55,Moderate,Medium-Term
+32.2,Low,4386,Poor,42.13,Moderate,Medium-Term
+83.5,Moderate,1563,Good,48.71,Moderate,Medium-Term
+48.5,Low,360,Poor,40.93,Moderate,Medium-Term
+38.9,Very High,4407,Poor,75.71,High,Short-Term
+25.6,High,1908,Poor,55.33,Moderate,Medium-Term
+1.3,Moderate,4125,Good,34.44,Low,Monitor
+63.9,High,4671,Poor,83.31,Critical,Immediate
+41.6,High,577,Poor,48.37,Moderate,Medium-Term
+4.1,Low,2589,Good,29.4,Low,Monitor
+96.1,Low,929,Poor,53.3,Moderate,Medium-Term
+38.5,Moderate,4410,Poor,54.85,Moderate,Medium-Term
+62.5,Moderate,4674,Poor,69.25,High,Short-Term
+74.6,High,3857,Poor,79.43,High,Short-Term
+88.3,Moderate,1577,Poor,63.38,High,Short-Term
+33.8,Moderate,4473,Poor,56.56,Moderate,Medium-Term
+35.2,High,4606,Moderate,66.26,High,Short-Term
+41.2,Very High,2749,Poor,62.52,High,Short-Term
+54.6,Very High,4607,Poor,74.86,High,Short-Term
+96.2,Very High,3352,Good,82.2,Critical,Immediate
+98.3,Low,4340,Good,70.15,High,Short-Term
+30.2,High,1917,Good,49.43,Moderate,Medium-Term
+2.2,High,4635,Poor,55.46,Moderate,Medium-Term
+92.6,Moderate,872,Good,53.27,Moderate,Medium-Term
+15.6,High,3107,Poor,49.14,Moderate,Medium-Term
+25.6,High,852,Poor,46.02,Moderate,Medium-Term
+91.8,Low,2759,Moderate,52.94,Moderate,Medium-Term
+82.6,Low,4976,Poor,65.87,High,Short-Term
+73.1,Very High,742,Good,66.8,High,Short-Term
+33.4,Very High,3512,Good,63.16,High,Short-Term
+22.7,Low,3233,Good,28.26,Low,Monitor
+4.1,Moderate,2777,Poor,43.45,Moderate,Medium-Term
+15.3,Very High,3750,Poor,62.8,High,Short-Term
+9.0,Very High,2473,Moderate,43.41,Moderate,Medium-Term
+33.6,Very High,4781,Poor,64.92,High,Short-Term
+39.9,Low,3364,Poor,46.62,Moderate,Medium-Term
+69.8,Moderate,4039,Poor,63.51,High,Short-Term
+39.5,Moderate,4697,Poor,68.31,High,Short-Term
+52.4,Moderate,686,Moderate,48.01,Moderate,Medium-Term
+32.3,Low,1021,Poor,34.26,Low,Monitor
+36.5,Moderate,2727,Moderate,47.68,Moderate,Medium-Term
+2.4,High,1486,Moderate,38.64,Low,Monitor
+99.0,Very High,1294,Moderate,68.55,High,Short-Term
+81.8,Moderate,3162,Good,63.4,High,Short-Term
+85.3,Low,546,Good,49.72,Moderate,Medium-Term
+92.7,High,212,Moderate,66.39,High,Short-Term
+11.1,Very High,3959,Good,48.53,Moderate,Medium-Term
+74.0,Moderate,1769,Poor,61.1,High,Short-Term
+25.9,Very High,1257,Poor,58.52,Moderate,Medium-Term
+1.8,Low,2192,Good,12.86,Low,Monitor
+20.1,High,534,Moderate,41.65,Moderate,Medium-Term
+0.8,Very High,2322,Poor,56.45,Moderate,Medium-Term
+66.0,Low,256,Moderate,45.0,Moderate,Medium-Term
+64.9,Moderate,3218,Poor,70.97,High,Short-Term
+10.0,High,4070,Poor,55.53,Moderate,Medium-Term
+18.6,Very High,4693,Poor,58.87,Moderate,Medium-Term
+24.7,High,2832,Moderate,48.26,Moderate,Medium-Term
+15.7,High,2982,Moderate,49.42,Moderate,Medium-Term
+23.6,High,607,Poor,42.06,Moderate,Medium-Term
+38.7,Low,4646,Moderate,42.74,Moderate,Medium-Term
+34.2,Very High,1224,Good,52.05,Moderate,Medium-Term
+52.1,Moderate,3518,Good,51.48,Moderate,Medium-Term
+42.6,High,2797,Moderate,56.78,Moderate,Medium-Term
+20.7,Moderate,4859,Poor,57.37,Moderate,Medium-Term
+20.2,Moderate,2631,Poor,48.62,Moderate,Medium-Term
+52.4,Moderate,3623,Good,53.33,Moderate,Medium-Term
+56.5,Moderate,2700,Good,49.5,Moderate,Medium-Term
+94.9,Low,1608,Moderate,60.08,High,Short-Term
+14.6,Low,2710,Moderate,38.33,Low,Monitor
+30.3,High,1344,Good,35.19,Low,Monitor
+18.5,High,4745,Poor,56.39,Moderate,Medium-Term
+23.2,Low,3043,Good,33.8,Low,Monitor
+47.7,Very High,3163,Good,66.48,High,Short-Term
+49.1,Moderate,1441,Good,36.57,Low,Monitor
+40.9,Low,2310,Moderate,34.11,Low,Monitor
+67.1,Moderate,1775,Good,43.42,Moderate,Medium-Term
+95.5,Very High,4113,Poor,88.33,Critical,Immediate
+45.8,Moderate,3602,Moderate,57.36,Moderate,Medium-Term
+60.8,Very High,2663,Moderate,69.71,High,Short-Term
+74.2,Low,4365,Good,53.16,Moderate,Medium-Term
+82.7,Low,2112,Poor,58.25,Moderate,Medium-Term
+98.4,Low,4668,Moderate,68.37,High,Short-Term
+63.1,Low,1655,Moderate,42.73,Moderate,Medium-Term
+88.4,High,3879,Good,70.72,High,Short-Term
+61.3,Low,4335,Good,48.72,Moderate,Medium-Term
+64.6,Low,4201,Good,44.79,Moderate,Medium-Term
+58.5,Moderate,3320,Moderate,53.43,Moderate,Medium-Term
+2.5,Very High,4935,Poor,68.2,High,Short-Term
+88.3,Low,2148,Moderate,57.57,Moderate,Medium-Term
+90.7,Moderate,1112,Good,48.02,Moderate,Medium-Term
+44.9,High,798,Poor,57.48,Moderate,Medium-Term
+72.7,Moderate,3202,Poor,64.09,High,Short-Term
+76.8,High,4732,Poor,86.86,Critical,Immediate
+16.2,Moderate,1565,Poor,32.5,Low,Monitor
+30.8,Very High,2465,Poor,56.78,Moderate,Medium-Term
+89.9,Moderate,128,Poor,63.98,High,Short-Term
+1.2,Very High,4184,Poor,63.33,High,Short-Term
+60.8,Very High,2048,Good,62.39,High,Short-Term
+47.6,Very High,3719,Good,64.66,High,Short-Term
+0.7,High,4667,Good,37.19,Low,Monitor
+14.8,High,400,Good,37.94,Low,Monitor
+66.7,High,2812,Good,52.87,Moderate,Medium-Term
+41.7,Moderate,1421,Poor,44.58,Moderate,Medium-Term
+66.1,Moderate,3830,Poor,67.46,High,Short-Term
+93.1,Low,2551,Moderate,55.69,Moderate,Medium-Term
+37.9,Low,3600,Poor,40.95,Moderate,Medium-Term
+47.1,Low,2348,Moderate,41.31,Moderate,Medium-Term
+52.5,Moderate,576,Good,39.82,Low,Monitor
+97.9,Low,4062,Poor,73.78,High,Short-Term
+93.4,High,3598,Poor,87.89,Critical,Immediate
+26.0,High,1162,Poor,50.0,Moderate,Medium-Term
+52.0,Very High,4134,Good,72.38,High,Short-Term
+23.3,High,1685,Good,34.29,Low,Monitor
+46.5,Low,1798,Poor,51.7,Moderate,Medium-Term
+41.4,High,2964,Poor,66.5,High,Short-Term
+21.2,Moderate,2407,Moderate,44.19,Moderate,Medium-Term
+30.8,High,150,Good,39.85,Low,Monitor
+34.1,Low,1538,Good,25.88,Low,Monitor
+33.8,Very High,3987,Good,61.61,High,Short-Term
+48.1,Very High,4498,Moderate,70.23,High,Short-Term
+81.4,Low,4368,Moderate,62.0,High,Short-Term
+67.8,Low,1806,Poor,54.17,Moderate,Medium-Term
+80.0,High,642,Good,52.56,Moderate,Medium-Term
+3.1,Very High,4476,Good,51.63,Moderate,Medium-Term
+39.0,Low,2625,Poor,50.13,Moderate,Medium-Term
+71.0,High,3490,Good,64.26,High,Short-Term
+23.8,Very High,2579,Good,50.55,Moderate,Medium-Term
+17.5,High,406,Good,39.86,Low,Monitor
+44.4,Low,4053,Poor,46.47,Moderate,Medium-Term
+34.0,Very High,4389,Moderate,69.87,High,Short-Term
+14.3,Low,4328,Poor,50.45,Moderate,Medium-Term
+20.5,Low,3863,Moderate,41.05,Moderate,Medium-Term
+52.2,Low,2647,Good,42.35,Moderate,Medium-Term
+59.4,Low,2830,Moderate,53.34,Moderate,Medium-Term
+10.3,High,284,Poor,44.13,Moderate,Medium-Term
+63.9,Moderate,2728,Good,46.36,Moderate,Medium-Term
+27.7,High,3713,Poor,53.68,Moderate,Medium-Term
+14.9,High,1037,Good,42.19,Moderate,Medium-Term
+56.0,Low,1792,Poor,44.63,Moderate,Medium-Term
+31.8,Moderate,2420,Poor,44.48,Moderate,Medium-Term
+7.1,High,4528,Moderate,43.41,Moderate,Medium-Term
+2.9,Low,967,Moderate,12.74,Low,Monitor
+42.6,Moderate,4983,Poor,64.66,High,Short-Term
+69.0,Very High,3013,Moderate,69.52,High,Short-Term
+19.8,Low,3914,Poor,36.95,Low,Monitor
+81.3,Very High,896,Moderate,65.01,High,Short-Term
+64.4,Very High,3954,Good,77.02,High,Short-Term
+14.4,High,3077,Moderate,42.28,Moderate,Medium-Term
+91.7,High,2760,Moderate,72.94,High,Short-Term
+6.5,Low,2979,Moderate,28.57,Low,Monitor
+17.1,High,4807,Good,50.84,Moderate,Medium-Term
+40.6,Low,2769,Poor,47.93,Moderate,Medium-Term
+79.2,Very High,3383,Poor,81.12,Critical,Immediate
+62.1,Moderate,4051,Moderate,53.5,Moderate,Medium-Term
+20.8,Very High,3666,Poor,67.79,High,Short-Term
+54.5,Moderate,1517,Poor,55.6,Moderate,Medium-Term
+73.9,Very High,1036,Poor,72.8,High,Short-Term
+32.5,Low,3747,Good,33.79,Low,Monitor
+40.6,Low,4985,Moderate,46.39,Moderate,Medium-Term
+64.5,Low,841,Good,41.51,Moderate,Medium-Term
+88.7,Low,1301,Poor,50.89,Moderate,Medium-Term
+53.1,Very High,4834,Moderate,69.05,High,Short-Term
+68.2,High,2555,Poor,74.05,High,Short-Term
+68.0,Very High,2920,Good,68.3,High,Short-Term
+61.1,Very High,1144,Moderate,54.96,Moderate,Medium-Term
+90.1,Low,106,Poor,53.17,Moderate,Medium-Term
+97.9,Low,2411,Good,50.17,Moderate,Medium-Term
+70.2,Very High,2706,Poor,74.76,High,Short-Term
+38.2,Moderate,1520,Moderate,36.18,Low,Monitor
+55.5,High,3517,Good,55.61,Moderate,Medium-Term
+87.3,Moderate,1200,Good,46.5,Moderate,Medium-Term
+1.6,Very High,3677,Good,40.12,Moderate,Medium-Term
+64.2,Very High,3835,Poor,80.73,Critical,Immediate
+42.6,Moderate,3822,Poor,56.74,Moderate,Medium-Term
+82.0,Very High,3010,Good,67.21,High,Short-Term
+60.5,Very High,2039,Poor,70.61,High,Short-Term
+41.1,High,374,Good,42.47,Moderate,Medium-Term
+70.5,Low,4853,Moderate,66.48,High,Short-Term
+8.0,High,3908,Poor,46.93,Moderate,Medium-Term
+89.0,Low,2108,Moderate,56.67,Moderate,Medium-Term
+66.4,Low,4517,Poor,58.56,Moderate,Medium-Term
+5.3,High,4482,Good,44.78,Moderate,Medium-Term
+51.3,Very High,4801,Poor,75.71,High,Short-Term
+35.3,High,2469,Good,40.3,Moderate,Medium-Term
+92.3,High,4717,Moderate,74.15,High,Short-Term
+47.3,Moderate,4792,Good,56.22,Moderate,Medium-Term
+29.2,Low,2449,Moderate,28.34,Low,Monitor
+50.6,High,2164,Good,53.72,Moderate,Medium-Term
+27.5,High,216,Poor,39.52,Low,Monitor
+17.5,Moderate,3758,Moderate,48.59,Moderate,Medium-Term
+26.1,Moderate,4072,Good,48.21,Moderate,Medium-Term
+86.2,High,791,Good,60.36,High,Short-Term
+82.2,Very High,3482,Moderate,74.51,High,Short-Term
+44.0,Moderate,1827,Poor,54.21,Moderate,Medium-Term
+34.5,High,1050,Good,36.46,Low,Monitor
+39.9,High,4001,Poor,72.39,High,Short-Term
+92.2,Moderate,3211,Poor,76.15,High,Short-Term
+47.5,Moderate,4445,Moderate,49.1,Moderate,Medium-Term
+92.7,Very High,3229,Poor,83.66,Critical,Immediate
+53.0,Low,897,Poor,44.59,Moderate,Medium-Term
+95.6,Very High,2333,Moderate,75.12,High,Short-Term
+80.2,High,4885,Moderate,76.99,High,Short-Term
+67.5,Moderate,4922,Good,61.63,High,Short-Term
+67.8,Moderate,2666,Poor,54.31,Moderate,Medium-Term
+0.8,Low,197,Moderate,9.63,Low,Monitor
+10.4,Very High,2979,Good,50.66,Moderate,Medium-Term
+25.2,Low,294,Poor,23.72,Low,Monitor
+93.9,Moderate,1097,Poor,72.32,High,Short-Term
+8.6,Moderate,3179,Poor,47.7,Moderate,Medium-Term
+64.8,Moderate,1008,Poor,49.41,Moderate,Medium-Term
+29.5,Low,3814,Moderate,44.89,Moderate,Medium-Term
+69.2,High,2208,Good,63.04,High,Short-Term
+27.7,Low,3235,Moderate,34.96,Low,Monitor
+6.0,High,1557,Moderate,31.44,Low,Monitor
+97.9,Moderate,3316,Good,67.86,High,Short-Term
+10.8,Very High,1889,Poor,54.88,Moderate,Medium-Term
+91.3,High,946,Good,54.41,Moderate,Medium-Term
+57.1,High,3752,Good,66.83,High,Short-Term
+14.9,Low,409,Poor,25.35,Low,Monitor
+15.2,High,3305,Poor,45.85,Moderate,Medium-Term
+70.8,Very High,4016,Moderate,75.3,High,Short-Term
+72.8,Low,4524,Good,46.13,Moderate,Medium-Term
+95.4,Very High,1092,Poor,79.57,High,Short-Term
+99.2,High,2580,Moderate,67.92,High,Short-Term
+99.7,Low,3092,Poor,73.16,High,Short-Term
+34.0,Very High,2475,Poor,58.3,Moderate,Medium-Term
+55.4,Very High,1664,Moderate,65.18,High,Short-Term
+89.6,High,4085,Good,79.36,High,Short-Term
+43.8,Moderate,1246,Good,33.4,Low,Monitor
+72.0,Moderate,4107,Moderate,57.14,Moderate,Medium-Term
+54.1,High,4193,Poor,78.4,High,Short-Term
+81.2,Low,403,Moderate,37.93,Low,Monitor
+78.8,Low,3421,Good,47.15,Moderate,Medium-Term
+65.4,Very High,4495,Good,76.23,High,Short-Term
+23.3,Low,402,Poor,24.28,Low,Monitor
+65.4,Very High,475,Good,59.51,Moderate,Medium-Term
+13.1,Moderate,509,Moderate,34.25,Low,Monitor
+9.7,Moderate,4941,Good,46.24,Moderate,Medium-Term
+10.6,Very High,4974,Poor,60.39,High,Short-Term
+80.4,Very High,2863,Poor,83.69,Critical,Immediate
+32.4,Moderate,2734,Good,44.51,Moderate,Medium-Term
+59.3,High,617,Good,45.1,Moderate,Medium-Term
+75.8,Moderate,3130,Poor,61.44,High,Short-Term
+24.4,Low,1192,Good,28.47,Low,Monitor
+63.2,Very High,1392,Good,65.26,High,Short-Term
+8.1,Low,1569,Good,22.92,Low,Monitor
+59.4,High,3509,Poor,75.0,High,Short-Term
+77.3,Moderate,1788,Good,54.45,Moderate,Medium-Term
+52.3,Very High,2059,Good,59.81,Moderate,Medium-Term
+3.8,Moderate,4195,Poor,53.06,Moderate,Medium-Term
+62.7,High,2949,Moderate,55.81,Moderate,Medium-Term
+23.6,Low,4443,Good,38.43,Low,Monitor
+86.3,Moderate,3902,Poor,76.11,High,Short-Term
+27.6,Moderate,1023,Good,34.71,Low,Monitor
+96.9,Very High,4175,Good,76.67,High,Short-Term
+92.3,Low,3083,Moderate,54.99,Moderate,Medium-Term
+25.1,Very High,454,Good,45.95,Moderate,Medium-Term
+92.5,Moderate,1394,Good,55.71,Moderate,Medium-Term
+11.6,Moderate,3743,Poor,48.06,Moderate,Medium-Term
+41.9,High,1984,Good,45.32,Moderate,Medium-Term
+9.8,Very High,1738,Moderate,52.64,Moderate,Medium-Term
+7.4,Very High,545,Moderate,35.09,Low,Monitor
+92.8,Very High,1558,Moderate,72.69,High,Short-Term
+45.8,Moderate,3037,Moderate,45.92,Moderate,Medium-Term
+12.7,Low,2398,Good,18.32,Low,Monitor
+46.6,Very High,1502,Moderate,53.84,Moderate,Medium-Term
+29.5,Moderate,1492,Poor,51.56,Moderate,Medium-Term
+85.5,Low,3472,Poor,63.89,High,Short-Term
+99.6,Very High,3890,Moderate,78.65,High,Short-Term
+42.8,Moderate,2130,Moderate,44.95,Moderate,Medium-Term
+22.2,Moderate,4799,Good,43.65,Moderate,Medium-Term
+4.4,Very High,4230,Good,48.77,Moderate,Medium-Term
+39.4,Low,3806,Moderate,39.86,Low,Monitor
+55.8,Low,3431,Good,37.87,Low,Monitor
+29.6,Low,230,Moderate,28.98,Low,Monitor
+16.2,Very High,4772,Poor,67.35,High,Short-Term
+97.6,Very High,1235,Poor,78.84,High,Short-Term
+79.0,High,3903,Poor,80.64,Critical,Immediate
+86.0,Low,3252,Poor,60.69,High,Short-Term
+3.3,Very High,2310,Poor,58.79,Moderate,Medium-Term
+54.2,Moderate,763,Poor,55.86,Moderate,Medium-Term
+73.6,Low,4316,Poor,61.09,High,Short-Term
+5.2,Very High,3094,Moderate,52.11,Moderate,Medium-Term
+36.6,Moderate,4677,Poor,52.34,Moderate,Medium-Term
+70.9,Moderate,1233,Moderate,48.07,Moderate,Medium-Term
+11.4,Very High,4852,Poor,60.01,High,Short-Term
+74.5,Moderate,2725,Moderate,65.85,High,Short-Term
+50.4,Very High,2370,Good,51.63,Moderate,Medium-Term
+34.5,Very High,4207,Poor,75.42,High,Short-Term
+47.0,High,3802,Poor,64.8,High,Short-Term
+67.3,Low,1642,Moderate,38.52,Low,Monitor
+39.1,Moderate,2462,Good,35.28,Low,Monitor
+27.6,Moderate,4165,Good,50.32,Moderate,Medium-Term
+52.1,Low,2501,Moderate,50.75,Moderate,Medium-Term
+54.1,Moderate,3982,Moderate,56.08,Moderate,Medium-Term
+73.8,Low,2488,Good,39.29,Low,Monitor
+87.2,Moderate,4356,Poor,73.06,High,Short-Term
+57.9,High,4082,Poor,74.49,High,Short-Term
+53.0,Very High,3851,Moderate,71.03,High,Short-Term
+89.8,High,1506,Moderate,63.08,High,Short-Term
+37.2,High,487,Good,38.12,Low,Monitor
+45.6,Moderate,1417,Poor,49.95,Moderate,Medium-Term
+18.2,Moderate,1357,Good,25.61,Low,Monitor
+4.1,High,4806,Good,45.21,Moderate,Medium-Term
+37.0,Moderate,4707,Poor,52.09,Moderate,Medium-Term
+31.7,High,1311,Moderate,45.51,Moderate,Medium-Term
+97.5,High,1095,Good,62.47,High,Short-Term
+49.9,Moderate,3852,Moderate,49.87,Moderate,Medium-Term
+97.0,High,2521,Moderate,80.37,Critical,Immediate
+97.0,Moderate,4730,Poor,87.13,Critical,Immediate
+44.2,Low,4023,Good,36.29,Low,Monitor
+55.1,High,303,Moderate,52.38,Moderate,Medium-Term
+22.0,High,857,Moderate,34.01,Low,Monitor
+64.1,Moderate,2376,Good,42.3,Moderate,Medium-Term
+53.8,Very High,815,Poor,61.65,High,Short-Term
+49.0,Low,3057,Moderate,38.75,Low,Monitor
+85.4,High,3263,Moderate,65.14,High,Short-Term
+34.5,High,3750,Poor,55.73,Moderate,Medium-Term
+72.8,Very High,3504,Moderate,72.12,High,Short-Term
+80.6,Very High,3493,Good,79.05,High,Short-Term
+59.8,Moderate,1802,Moderate,50.23,Moderate,Medium-Term
+86.8,High,641,Poor,72.29,High,Short-Term
+8.8,Very High,2339,Moderate,43.24,Moderate,Medium-Term
+46.2,Moderate,1732,Good,46.42,Moderate,Medium-Term
+28.9,Very High,445,Moderate,53.24,Moderate,Medium-Term
+30.4,Very High,1939,Good,54.56,Moderate,Medium-Term
+15.4,High,3971,Good,49.23,Moderate,Medium-Term
+89.3,Very High,1569,Moderate,80.04,Critical,Immediate
+64.5,Low,1077,Moderate,41.77,Moderate,Medium-Term
+97.1,High,4860,Moderate,84.47,Critical,Immediate
+86.8,Very High,1079,Moderate,70.9,High,Short-Term
+57.5,High,1434,Poor,54.05,Moderate,Medium-Term
+32.0,Moderate,3027,Good,34.16,Low,Monitor
+36.1,High,499,Moderate,41.3,Moderate,Medium-Term
+63.9,Low,4309,Good,54.36,Moderate,Medium-Term
+18.3,Low,1469,Poor,29.69,Low,Monitor
+31.6,High,2323,Poor,58.77,Moderate,Medium-Term
+36.3,High,1277,Good,37.5,Low,Monitor
+28.1,Very High,3475,Moderate,66.46,High,Short-Term
+16.3,Moderate,1366,Poor,34.46,Low,Monitor
+18.8,Low,3518,Moderate,42.31,Moderate,Medium-Term
+11.7,Moderate,242,Moderate,25.13,Low,Monitor
+69.1,Moderate,3720,Poor,67.18,High,Short-Term
+97.0,Moderate,2595,Good,66.24,High,Short-Term
+11.9,Moderate,1266,Poor,32.61,Low,Monitor
+12.5,Moderate,743,Moderate,32.9,Low,Monitor
+78.4,Low,254,Moderate,47.58,Moderate,Medium-Term
+4.3,Low,368,Poor,23.45,Low,Monitor
+5.9,Low,2172,Good,14.31,Low,Monitor
+66.8,Low,1114,Poor,43.38,Moderate,Medium-Term
+90.1,Moderate,2979,Good,54.9,Moderate,Medium-Term
+84.6,High,4849,Moderate,76.65,High,Short-Term
+85.5,Moderate,4236,Poor,67.71,High,Short-Term
+82.0,Low,4432,Good,60.38,High,Short-Term
+96.4,Moderate,4500,Good,77.32,High,Short-Term
+9.9,Moderate,4230,Poor,47.73,Moderate,Medium-Term
+69.8,Moderate,3701,Poor,74.3,High,Short-Term
+18.1,High,3209,Moderate,44.6,Moderate,Medium-Term
+22.8,Low,2674,Good,28.63,Low,Monitor
+52.0,Very High,3059,Poor,68.3,High,Short-Term
+72.2,Low,2787,Moderate,45.27,Moderate,Medium-Term
+28.4,High,3736,Good,51.24,Moderate,Medium-Term
+29.1,Very High,1646,Good,54.59,Moderate,Medium-Term
+80.2,High,1568,Good,67.82,High,Short-Term
+49.2,Low,3347,Moderate,45.97,Moderate,Medium-Term
+67.7,Low,1274,Moderate,42.2,Moderate,Medium-Term
+59.1,Low,1482,Good,34.93,Low,Monitor
+19.9,Moderate,4973,Moderate,43.32,Moderate,Medium-Term
+83.8,Very High,2381,Poor,84.36,Critical,Immediate
+59.4,Very High,3017,Moderate,71.53,High,Short-Term
+95.0,Very High,4289,Moderate,80.77,Critical,Immediate
+45.5,Low,2153,Moderate,39.5,Low,Monitor
+62.8,Moderate,343,Good,45.15,Moderate,Medium-Term
+83.0,Very High,319,Good,59.95,Moderate,Medium-Term
+67.9,Moderate,2580,Poor,63.81,High,Short-Term
+76.0,Very High,3917,Good,70.47,High,Short-Term
+49.8,High,4543,Moderate,70.55,High,Short-Term
+54.1,Low,358,Moderate,41.45,Moderate,Medium-Term
+11.9,Very High,2676,Moderate,49.95,Moderate,Medium-Term
+3.6,Moderate,4660,Poor,53.42,Moderate,Medium-Term
+30.3,Moderate,4126,Moderate,43.76,Moderate,Medium-Term
+71.6,Very High,996,Poor,73.09,High,Short-Term
+66.0,Very High,3998,Poor,86.01,Critical,Immediate
+50.7,Very High,2257,Moderate,64.23,High,Short-Term
+37.8,High,2430,Moderate,45.93,Moderate,Medium-Term
+59.0,Moderate,3101,Moderate,60.5,High,Short-Term
+58.4,High,3217,Good,57.66,Moderate,Medium-Term
+99.2,Very High,2977,Good,80.71,Critical,Immediate
+24.8,High,4954,Good,60.57,High,Short-Term
+6.6,High,1037,Moderate,31.18,Low,Monitor
+53.8,Low,3875,Poor,60.39,High,Short-Term
+56.8,Very High,2284,Good,63.66,High,Short-Term
+58.8,High,3194,Poor,66.85,High,Short-Term
+57.3,Very High,919,Poor,67.78,High,Short-Term
+33.6,High,1465,Poor,49.66,Moderate,Medium-Term
+96.9,Moderate,4171,Poor,83.91,Critical,Immediate
+78.7,Moderate,2454,Moderate,52.62,Moderate,Medium-Term
+99.6,Very High,1950,Poor,87.8,Critical,Immediate
+9.2,Low,4948,Moderate,34.38,Low,Monitor
+56.6,Very High,3598,Good,63.26,High,Short-Term
+7.7,High,4234,Moderate,48.56,Moderate,Medium-Term
+54.0,Moderate,3494,Moderate,51.4,Moderate,Medium-Term
+51.5,Moderate,252,Poor,50.03,Moderate,Medium-Term
+86.3,Very High,1844,Poor,86.22,Critical,Immediate
+74.2,Very High,2294,Poor,76.92,High,Short-Term
+61.4,Very High,4737,Poor,83.72,Critical,Immediate
+52.2,High,3888,Good,55.17,Moderate,Medium-Term
+74.6,High,3666,Moderate,67.87,High,Short-Term
+83.0,Low,1767,Moderate,47.39,Moderate,Medium-Term
+28.7,Moderate,2200,Poor,48.21,Moderate,Medium-Term
+40.6,Low,1328,Good,22.46,Low,Monitor
+79.7,High,3902,Moderate,74.46,High,Short-Term
+43.6,Low,1754,Good,29.14,Low,Monitor
+2.9,High,4611,Good,47.27,Moderate,Medium-Term
+4.2,Very High,263,Good,39.77,Low,Monitor
+8.4,High,620,Moderate,41.77,Moderate,Medium-Term
+67.2,Low,3351,Poor,62.65,High,Short-Term
+23.6,Low,4375,Poor,51.27,Moderate,Medium-Term
+95.0,High,4166,Good,71.22,High,Short-Term
+12.2,High,2797,Poor,54.51,Moderate,Medium-Term
+80.6,Moderate,3564,Good,54.78,Moderate,Medium-Term
+17.5,High,3700,Moderate,46.99,Moderate,Medium-Term
+58.9,Very High,4470,Moderate,77.69,High,Short-Term
+11.3,Very High,3990,Poor,57.1,Moderate,Medium-Term
+27.8,Moderate,3073,Moderate,47.97,Moderate,Medium-Term
+82.1,Low,385,Poor,53.12,Moderate,Medium-Term
+94.1,Moderate,2172,Poor,67.53,High,Short-Term
+63.9,High,1099,Poor,67.88,High,Short-Term
+85.8,Very High,164,Moderate,73.53,High,Short-Term
+91.8,High,839,Good,57.75,Moderate,Medium-Term
+85.9,Moderate,3695,Poor,69.66,High,Short-Term
+81.2,Very High,377,Moderate,71.79,High,Short-Term
+82.3,Very High,3959,Poor,84.5,Critical,Immediate
+84.1,Very High,922,Good,67.8,High,Short-Term
+50.6,High,3547,Poor,70.82,High,Short-Term
+54.8,High,3813,Poor,62.12,High,Short-Term
+5.2,Moderate,3732,Poor,38.68,Low,Monitor
+40.1,High,2670,Poor,53.28,Moderate,Medium-Term
+15.8,Moderate,4966,Poor,51.71,Moderate,Medium-Term
+93.9,Very High,4018,Poor,84.33,Critical,Immediate
+17.3,High,2408,Good,34.54,Low,Monitor
+36.8,Very High,3191,Poor,62.48,High,Short-Term
+94.8,Moderate,828,Moderate,54.16,Moderate,Medium-Term
+70.1,Moderate,507,Moderate,50.95,Moderate,Medium-Term
+60.0,Moderate,829,Moderate,41.54,Moderate,Medium-Term
+56.7,Low,4407,Moderate,56.84,Moderate,Medium-Term
+92.8,Very High,1070,Good,71.68,High,Short-Term
+19.1,High,2458,Poor,51.68,Moderate,Medium-Term
+13.0,Moderate,1865,Moderate,38.14,Low,Monitor
+18.9,Moderate,3446,Good,30.86,Low,Monitor
+97.6,Moderate,3794,Good,65.25,High,Short-Term
+68.4,Very High,802,Good,58.15,Moderate,Medium-Term
+87.1,Very High,1838,Poor,77.23,High,Short-Term
+42.3,High,698,Good,44.01,Moderate,Medium-Term
+5.2,Moderate,3957,Moderate,48.1,Moderate,Medium-Term
+93.9,Low,143,Moderate,48.51,Moderate,Medium-Term
+38.1,Very High,3138,Good,64.88,High,Short-Term
+56.0,Moderate,2232,Good,46.59,Moderate,Medium-Term
+93.0,Very High,1180,Good,65.85,High,Short-Term
+53.0,Moderate,2233,Good,42.49,Moderate,Medium-Term
+97.9,Very High,2401,Poor,82.89,Critical,Immediate
+43.0,High,2260,Poor,56.35,Moderate,Medium-Term
+89.3,High,4124,Good,74.14,High,Short-Term
+92.3,Very High,535,Good,60.32,High,Short-Term
+23.0,Low,3952,Moderate,33.48,Low,Monitor
+46.7,Low,4154,Good,42.52,Moderate,Medium-Term
+98.9,Very High,3849,Moderate,79.81,High,Short-Term
+72.0,Moderate,1112,Moderate,45.65,Moderate,Medium-Term
+86.8,Moderate,1478,Poor,64.18,High,Short-Term
+27.3,Moderate,4880,Good,47.5,Moderate,Medium-Term
+57.1,Very High,729,Good,58.69,Moderate,Medium-Term
+67.7,High,312,Moderate,57.84,Moderate,Medium-Term
+68.1,Very High,3160,Poor,84.59,Critical,Immediate
+10.6,High,1359,Good,27.95,Low,Monitor
+83.1,Very High,3819,Poor,92.89,Critical,Immediate
+59.4,Low,2798,Good,44.98,Moderate,Medium-Term
+95.1,High,4762,Good,73.21,High,Short-Term
+4.9,High,2747,Good,42.1,Moderate,Medium-Term
+54.7,Very High,858,Moderate,54.66,Moderate,Medium-Term
+24.0,Very High,830,Good,48.86,Moderate,Medium-Term
+16.3,Very High,2434,Poor,60.73,High,Short-Term
+65.4,Low,2545,Moderate,52.89,Moderate,Medium-Term
+73.6,High,1175,Moderate,63.11,High,Short-Term
+83.2,Moderate,4110,Moderate,74.23,High,Short-Term
+47.6,Very High,839,Moderate,61.0,High,Short-Term
+61.4,Very High,3589,Good,60.0,High,Short-Term
+34.2,Very High,1936,Poor,63.94,High,Short-Term
+15.5,Very High,4419,Poor,66.71,High,Short-Term
+8.4,Very High,3682,Good,55.69,Moderate,Medium-Term
+47.8,Moderate,1146,Poor,55.51,Moderate,Medium-Term
+84.2,Very High,2520,Poor,73.56,High,Short-Term
+7.7,Low,4305,Good,30.58,Low,Monitor
+41.3,Very High,4756,Moderate,67.17,High,Short-Term
+58.6,Low,1033,Poor,47.48,Moderate,Medium-Term
+18.0,Moderate,3319,Good,30.91,Low,Monitor
+87.7,High,2671,Poor,80.22,Critical,Immediate
+75.7,Very High,2271,Moderate,79.05,High,Short-Term
+87.1,Moderate,1829,Good,49.05,Moderate,Medium-Term
+98.2,High,971,Moderate,68.8,High,Short-Term
+0.6,Low,208,Good,14.03,Low,Monitor
+46.0,Very High,4087,Moderate,70.35,High,Short-Term
+97.4,High,3335,Moderate,70.83,High,Short-Term
+13.5,Moderate,1016,Good,29.93,Low,Monitor
+18.8,Low,1814,Moderate,31.22,Low,Monitor
+65.0,Very High,4512,Good,65.68,High,Short-Term
+77.0,Moderate,3982,Moderate,57.73,Moderate,Medium-Term
+16.6,Moderate,3747,Moderate,42.84,Moderate,Medium-Term
+86.0,Moderate,1749,Moderate,60.71,High,Short-Term
+83.4,Low,2834,Good,44.67,Moderate,Medium-Term
+84.8,Very High,3505,Moderate,83.49,Critical,Immediate
+59.6,High,403,Moderate,50.86,Moderate,Medium-Term
+51.3,Very High,1999,Poor,60.17,High,Short-Term
+1.9,High,4632,Good,40.98,Moderate,Medium-Term
+64.8,Very High,1057,Moderate,64.87,High,Short-Term
+64.6,Very High,3673,Good,63.38,High,Short-Term
+72.6,Very High,2916,Moderate,68.78,High,Short-Term
+22.0,High,3937,Good,55.08,Moderate,Medium-Term
+72.3,Very High,3514,Poor,83.05,Critical,Immediate
+36.0,Very High,1427,Poor,54.88,Moderate,Medium-Term
+69.1,Low,4055,Good,45.68,Moderate,Medium-Term
+15.6,Very High,926,Moderate,52.25,Moderate,Medium-Term
+49.4,Moderate,1815,Poor,45.05,Moderate,Medium-Term
+1.8,High,3024,Poor,42.52,Moderate,Medium-Term
+82.8,Low,621,Moderate,45.35,Moderate,Medium-Term
+61.8,Low,4703,Good,50.72,Moderate,Medium-Term
+99.4,High,482,Poor,68.25,High,Short-Term
+15.1,Low,513,Moderate,27.12,Low,Monitor
+96.3,Low,967,Poor,59.57,Moderate,Medium-Term
+85.8,Low,4707,Good,59.48,Moderate,Medium-Term
+16.7,Low,1782,Moderate,22.48,Low,Monitor
+29.2,Very High,4244,Moderate,66.92,High,Short-Term
+9.9,High,2841,Good,34.3,Low,Monitor
+20.2,Very High,153,Good,44.54,Moderate,Medium-Term
+47.4,High,4237,Good,52.4,Moderate,Medium-Term
+37.2,Very High,3054,Poor,69.13,High,Short-Term
+15.2,Very High,1969,Good,49.53,Moderate,Medium-Term
+41.3,Very High,3858,Poor,75.85,High,Short-Term
+36.2,Low,3725,Good,42.39,Moderate,Medium-Term
+71.8,Low,794,Moderate,40.35,Moderate,Medium-Term
+98.2,Moderate,3655,Good,65.28,High,Short-Term
+3.7,Moderate,4806,Good,46.16,Moderate,Medium-Term
+98.0,High,3534,Moderate,84.61,Critical,Immediate
+70.1,High,2669,Moderate,57.34,Moderate,Medium-Term
+28.0,Moderate,3409,Moderate,48.24,Moderate,Medium-Term
+88.8,Very High,2928,Poor,82.51,Critical,Immediate
+19.7,High,790,Good,36.15,Low,Monitor
+39.0,Moderate,4363,Poor,55.39,Moderate,Medium-Term
+9.3,High,4370,Moderate,54.84,Moderate,Medium-Term
+16.0,Low,4523,Poor,40.08,Moderate,Medium-Term
+83.2,High,3563,Poor,72.39,High,Short-Term
+6.0,High,2227,Poor,46.38,Moderate,Medium-Term
+12.4,Low,3776,Moderate,35.6,Low,Monitor
+0.5,High,2034,Poor,51.38,Moderate,Medium-Term
+56.6,Moderate,2969,Moderate,50.74,Moderate,Medium-Term
+78.5,Moderate,3193,Poor,71.8,High,Short-Term
+10.5,Moderate,3059,Moderate,31.98,Low,Monitor
+71.2,Very High,771,Good,52.5,Moderate,Medium-Term
+88.9,Very High,1859,Moderate,67.8,High,Short-Term
+67.7,Very High,4918,Poor,84.92,Critical,Immediate
+39.5,High,4886,Moderate,65.55,High,Short-Term
+99.7,Very High,3515,Good,74.76,High,Short-Term
+12.7,Very High,1159,Poor,50.54,Moderate,Medium-Term
+52.9,Moderate,3830,Moderate,48.86,Moderate,Medium-Term
+15.7,High,1072,Poor,50.67,Moderate,Medium-Term
+11.0,High,4783,Moderate,45.62,Moderate,Medium-Term
+15.3,High,2597,Moderate,42.59,Moderate,Medium-Term
+48.6,Moderate,1264,Poor,48.57,Moderate,Medium-Term
+93.7,High,2422,Good,62.91,High,Short-Term
+74.0,Low,1102,Poor,48.14,Moderate,Medium-Term
+87.0,Very High,4041,Poor,84.82,Critical,Immediate
+45.2,High,3190,Moderate,63.93,High,Short-Term
+83.4,Moderate,1234,Poor,64.06,High,Short-Term
+76.2,Very High,1320,Poor,70.4,High,Short-Term
+80.0,Very High,3272,Good,78.99,High,Short-Term
+33.9,Low,3729,Poor,43.47,Moderate,Medium-Term
+8.9,Moderate,303,Poor,34.16,Low,Monitor
+77.2,High,4696,Poor,75.03,High,Short-Term
+55.9,Moderate,4538,Poor,69.59,High,Short-Term
+95.7,Moderate,3998,Poor,83.59,Critical,Immediate
+12.0,Moderate,255,Moderate,32.31,Low,Monitor
+24.5,Very High,793,Poor,54.71,Moderate,Medium-Term
+40.2,Low,4126,Good,38.51,Low,Monitor
+18.1,Low,4424,Moderate,37.14,Low,Monitor
+9.1,Low,4538,Good,28.41,Low,Monitor
+18.3,Low,1363,Moderate,34.09,Low,Monitor
+67.9,Low,2764,Good,37.75,Low,Monitor
+5.9,Very High,908,Moderate,35.98,Low,Monitor
+89.3,High,3176,Good,62.29,High,Short-Term
+24.0,Moderate,4138,Poor,56.74,Moderate,Medium-Term
+38.5,Low,2306,Good,30.29,Low,Monitor
+55.3,Low,4066,Good,44.64,Moderate,Medium-Term
+23.4,Low,2304,Poor,45.08,Moderate,Medium-Term
+67.5,Moderate,4644,Poor,74.51,High,Short-Term
+30.5,Very High,3753,Good,62.73,High,Short-Term
+50.0,Moderate,3158,Poor,65.64,High,Short-Term
+78.2,Very High,4647,Moderate,74.63,High,Short-Term
+81.3,High,1471,Good,52.8,Moderate,Medium-Term
+92.2,High,4997,Moderate,87.69,Critical,Immediate
+38.0,High,1842,Poor,61.37,High,Short-Term
+28.1,Moderate,4475,Poor,48.6,Moderate,Medium-Term
+9.0,Low,1244,Poor,29.28,Low,Monitor
+27.9,Very High,1827,Poor,58.4,Moderate,Medium-Term
+80.2,High,2241,Poor,71.52,High,Short-Term
+24.6,High,2898,Good,45.06,Moderate,Medium-Term
+60.0,Low,1195,Poor,52.79,Moderate,Medium-Term
+60.9,Low,178,Poor,37.06,Low,Monitor
+55.6,Very High,3317,Poor,67.28,High,Short-Term
+87.7,Low,4512,Good,65.52,High,Short-Term
+81.6,Very High,1111,Moderate,76.55,High,Short-Term
+37.6,High,3268,Good,57.16,Moderate,Medium-Term
+81.2,Low,1122,Moderate,45.84,Moderate,Medium-Term
+19.3,Low,1914,Poor,26.98,Low,Monitor
+28.1,High,1668,Good,47.07,Moderate,Medium-Term
+62.5,Moderate,2019,Moderate,59.93,Moderate,Medium-Term
+3.7,Very High,1812,Good,35.18,Low,Monitor
+82.1,Very High,1008,Moderate,69.88,High,Short-Term
+49.4,Moderate,4734,Poor,66.9,High,Short-Term
+56.5,Low,4918,Good,53.89,Moderate,Medium-Term
+12.7,Moderate,4385,Poor,54.25,Moderate,Medium-Term
+19.2,Low,4465,Poor,40.88,Moderate,Medium-Term
+56.0,Very High,116,Moderate,58.32,Moderate,Medium-Term
+94.3,Low,2746,Moderate,64.5,High,Short-Term
+40.7,Low,4345,Moderate,46.55,Moderate,Medium-Term
+51.7,Low,1939,Good,32.8,Low,Monitor
+42.0,Very High,2690,Good,55.23,Moderate,Medium-Term
+33.5,Low,1948,Poor,38.55,Low,Monitor
+7.4,Moderate,1712,Good,24.71,Low,Monitor
+6.3,Low,328,Moderate,17.43,Low,Monitor
+2.4,High,2151,Good,28.67,Low,Monitor
+23.8,High,545,Moderate,40.82,Moderate,Medium-Term
+23.7,Low,3692,Good,35.57,Low,Monitor
+57.9,Low,597,Good,31.19,Low,Monitor
+89.0,Low,1144,Good,52.94,Moderate,Medium-Term
+44.2,High,3637,Good,49.15,Moderate,Medium-Term
+5.6,Low,2515,Moderate,25.45,Low,Monitor
+61.7,Very High,2009,Poor,75.48,High,Short-Term
+62.4,Very High,3245,Moderate,75.54,High,Short-Term
+88.0,Low,2882,Poor,69.58,High,Short-Term
+78.3,Very High,4337,Moderate,82.16,Critical,Immediate
+10.8,Low,4975,Poor,37.01,Low,Monitor
+78.9,Moderate,4795,Good,67.0,High,Short-Term
+25.6,Very High,4043,Poor,68.31,High,Short-Term
+18.6,Moderate,461,Good,20.39,Low,Monitor
+58.5,High,2649,Poor,72.48,High,Short-Term
+77.5,Moderate,3946,Moderate,67.06,High,Short-Term
+29.1,Low,4340,Poor,50.32,Moderate,Medium-Term
+14.5,Moderate,4254,Poor,55.58,Moderate,Medium-Term
+42.2,Moderate,1741,Poor,56.02,Moderate,Medium-Term
+78.5,High,1651,Poor,68.94,High,Short-Term
+69.2,Very High,2812,Poor,77.78,High,Short-Term
+33.6,High,3529,Moderate,50.48,Moderate,Medium-Term
+45.4,Low,4162,Good,49.76,Moderate,Medium-Term
+63.9,Moderate,3921,Poor,61.21,High,Short-Term
+48.1,High,3179,Good,53.46,Moderate,Medium-Term
+82.6,Low,3072,Good,44.88,Moderate,Medium-Term
+3.0,Low,1266,Moderate,20.16,Low,Monitor
+63.1,High,459,Good,44.61,Moderate,Medium-Term
+28.4,Moderate,2246,Poor,41.46,Moderate,Medium-Term
+84.8,Moderate,1562,Good,46.27,Moderate,Medium-Term
+84.3,Low,271,Poor,45.04,Moderate,Medium-Term
+65.5,Low,2872,Good,41.79,Moderate,Medium-Term
+24.0,High,1503,Poor,57.29,Moderate,Medium-Term
+99.8,Very High,635,Good,63.28,High,Short-Term
+92.4,Moderate,1670,Poor,64.82,High,Short-Term
+37.4,Very High,2103,Good,57.21,Moderate,Medium-Term
+58.7,High,1317,Moderate,51.76,Moderate,Medium-Term
+62.9,High,1135,Poor,69.29,High,Short-Term
+88.6,Moderate,766,Moderate,61.23,High,Short-Term
+61.5,Moderate,4266,Moderate,65.11,High,Short-Term
+64.5,High,4184,Poor,73.99,High,Short-Term
+32.2,High,4404,Poor,63.87,High,Short-Term
+95.6,Very High,2298,Poor,82.32,Critical,Immediate
+92.1,Low,1797,Good,56.24,Moderate,Medium-Term
+45.2,Moderate,3343,Good,44.09,Moderate,Medium-Term
+88.9,Moderate,3164,Moderate,67.08,High,Short-Term
+13.4,Low,2517,Moderate,30.06,Low,Monitor
+23.0,Low,3911,Poor,45.88,Moderate,Medium-Term
+42.6,Very High,3643,Moderate,63.36,High,Short-Term
+49.8,High,3232,Good,50.73,Moderate,Medium-Term
+23.4,Low,3041,Good,27.56,Low,Monitor
+50.2,Low,2364,Good,31.1,Low,Monitor
+7.1,Low,4573,Good,28.62,Low,Monitor
+67.5,High,2579,Poor,74.24,High,Short-Term
+68.4,High,1661,Poor,67.49,High,Short-Term
+13.8,High,169,Moderate,32.02,Low,Monitor
+34.7,Very High,3423,Poor,71.21,High,Short-Term
+1.2,Moderate,3356,Good,27.47,Low,Monitor
+74.9,Very High,2014,Poor,76.91,High,Short-Term
+55.3,Very High,3879,Moderate,75.54,High,Short-Term
+31.3,Moderate,3612,Poor,51.83,Moderate,Medium-Term
+43.9,Low,3169,Good,39.78,Low,Monitor
+12.8,Low,4194,Poor,46.86,Moderate,Medium-Term
+34.0,Very High,3587,Poor,71.54,High,Short-Term
+76.3,High,2771,Poor,65.41,High,Short-Term
+78.5,Moderate,1359,Moderate,56.5,Moderate,Medium-Term
+79.9,Very High,3223,Good,79.54,High,Short-Term
+6.4,Very High,1642,Moderate,38.55,Low,Monitor
+57.0,Very High,2595,Good,56.57,Moderate,Medium-Term
+67.5,Moderate,362,Poor,54.47,Moderate,Medium-Term
+2.7,Moderate,669,Moderate,22.66,Low,Monitor
+23.3,Low,3824,Good,31.85,Low,Monitor
+1.1,High,3465,Moderate,38.76,Low,Monitor
+11.1,Very High,4017,Poor,54.3,Moderate,Medium-Term
+95.5,Moderate,1164,Good,53.04,Moderate,Medium-Term
+81.8,Very High,1400,Poor,76.68,High,Short-Term
+31.0,Moderate,4216,Poor,58.42,Moderate,Medium-Term
+27.5,Low,1268,Moderate,22.72,Low,Monitor
+39.9,Moderate,4407,Moderate,60.65,High,Short-Term
+87.9,Very High,3890,Poor,80.21,Critical,Immediate
+9.1,Very High,2940,Poor,61.68,High,Short-Term
+79.2,Very High,1534,Moderate,65.85,High,Short-Term
+90.0,Very High,3850,Moderate,89.47,Critical,Immediate
+18.3,Low,3323,Poor,47.08,Moderate,Medium-Term
+24.0,Moderate,2342,Poor,46.12,Moderate,Medium-Term
+66.7,Low,1879,Moderate,44.44,Moderate,Medium-Term
+76.2,Low,3120,Good,53.74,Moderate,Medium-Term
+50.4,High,3459,Moderate,56.12,Moderate,Medium-Term
+20.7,Low,3886,Good,26.46,Low,Monitor
+69.4,Very High,3222,Moderate,77.12,High,Short-Term
+85.6,Very High,409,Good,59.11,Moderate,Medium-Term
+70.9,Moderate,2779,Poor,67.66,High,Short-Term
+48.5,Low,776,Poor,42.84,Moderate,Medium-Term
+71.4,Very High,1248,Moderate,71.11,High,Short-Term
+84.2,Moderate,247,Poor,51.82,Moderate,Medium-Term
+29.4,Very High,1479,Good,50.45,Moderate,Medium-Term
+1.1,High,1357,Moderate,33.54,Low,Monitor
+21.7,Low,4460,Good,35.01,Low,Monitor
+4.8,Low,3299,Poor,32.06,Low,Monitor
+5.2,Low,498,Moderate,23.08,Low,Monitor
+92.9,High,2054,Good,59.69,Moderate,Medium-Term
+42.2,Low,2861,Good,39.59,Low,Monitor
+6.3,Low,1475,Poor,23.03,Low,Monitor
+41.6,Low,2779,Moderate,41.67,Moderate,Medium-Term
+19.0,Moderate,4537,Moderate,54.32,Moderate,Medium-Term
+12.1,Moderate,967,Moderate,27.77,Low,Monitor
+1.5,High,198,Moderate,26.72,Low,Monitor
+22.0,High,3122,Good,38.77,Low,Monitor
+21.9,High,4192,Good,53.33,Moderate,Medium-Term
+79.1,Moderate,2163,Good,55.94,Moderate,Medium-Term
+98.1,Very High,1188,Moderate,69.9,High,Short-Term
+76.2,High,4049,Good,65.73,High,Short-Term
+60.9,Very High,3232,Poor,77.74,High,Short-Term
+23.2,Low,2005,Good,28.5,Low,Monitor
+89.7,High,2036,Poor,73.65,High,Short-Term
+24.4,Low,590,Good,19.39,Low,Monitor
+29.7,Moderate,3178,Good,43.38,Moderate,Medium-Term
+23.8,Very High,2792,Good,47.45,Moderate,Medium-Term
+64.4,Low,4366,Moderate,57.37,Moderate,Medium-Term
+28.8,Low,1976,Poor,35.53,Low,Monitor
+24.2,Low,2134,Poor,40.4,Moderate,Medium-Term
+22.2,Very High,4371,Moderate,56.19,Moderate,Medium-Term
+63.0,Low,4127,Good,56.32,Moderate,Medium-Term
+5.2,Moderate,1772,Good,20.38,Low,Monitor
+59.3,Moderate,2035,Poor,49.89,Moderate,Medium-Term
+72.5,High,1444,Poor,61.56,High,Short-Term
+42.4,Moderate,2583,Moderate,48.89,Moderate,Medium-Term
+96.8,Moderate,2327,Moderate,58.97,Moderate,Medium-Term
+97.3,Very High,3194,Good,77.86,High,Short-Term
+42.3,Very High,1376,Moderate,48.63,Moderate,Medium-Term
+38.1,Low,2559,Poor,44.42,Moderate,Medium-Term
+55.3,Moderate,2207,Moderate,50.1,Moderate,Medium-Term
+45.4,Very High,4705,Poor,75.65,High,Short-Term
+33.3,Very High,1703,Good,56.63,Moderate,Medium-Term
+0.4,High,4125,Moderate,53.45,Moderate,Medium-Term
+94.0,High,3246,Moderate,72.8,High,Short-Term
+98.8,Low,3448,Good,66.75,High,Short-Term
+12.4,Moderate,1691,Moderate,40.91,Moderate,Medium-Term
+77.1,High,4274,Poor,79.15,High,Short-Term
+68.8,Low,3256,Moderate,55.87,Moderate,Medium-Term
+24.2,Low,3060,Poor,44.26,Moderate,Medium-Term
+2.8,Moderate,2240,Poor,36.98,Low,Monitor
+68.1,High,2126,Poor,68.84,High,Short-Term
+66.3,Moderate,201,Good,46.35,Moderate,Medium-Term
+64.4,Very High,3357,Poor,78.6,High,Short-Term
+90.1,Moderate,3564,Good,69.07,High,Short-Term
+25.3,High,4201,Poor,63.45,High,Short-Term
+38.3,High,3471,Poor,68.45,High,Short-Term
+10.9,High,1269,Moderate,42.87,Moderate,Medium-Term
+93.0,Very High,2623,Good,82.33,Critical,Immediate
+81.6,Low,893,Good,47.01,Moderate,Medium-Term
+41.8,Very High,2462,Poor,64.63,High,Short-Term
+17.6,Moderate,1200,Good,28.74,Low,Monitor
+50.3,Low,3791,Poor,58.05,Moderate,Medium-Term
+18.6,Low,1596,Good,19.54,Low,Monitor
+90.2,Very High,3710,Poor,94.27,Critical,Immediate
+10.9,Moderate,753,Moderate,22.7,Low,Monitor
+12.5,Low,2902,Good,27.85,Low,Monitor
+47.8,Low,177,Good,24.2,Low,Monitor
+95.5,Low,893,Good,47.86,Moderate,Medium-Term
+0.7,High,4080,Moderate,50.67,Moderate,Medium-Term
+60.4,High,3137,Poor,75.18,High,Short-Term
+99.9,Moderate,3059,Poor,73.33,High,Short-Term
+61.1,High,2805,Good,50.16,Moderate,Medium-Term
+87.1,Very High,1237,Good,68.56,High,Short-Term
+86.9,High,2136,Moderate,68.19,High,Short-Term
+68.6,Very High,4318,Moderate,79.84,High,Short-Term
+0.3,High,236,Poor,34.06,Low,Monitor
+4.6,High,3739,Good,43.78,Moderate,Medium-Term
+40.0,Low,2953,Moderate,47.84,Moderate,Medium-Term
+94.1,Very High,922,Poor,76.03,High,Short-Term
+60.7,Moderate,4360,Poor,71.0,High,Short-Term
+71.7,Low,1147,Moderate,49.43,Moderate,Medium-Term
+30.1,Very High,1476,Moderate,59.72,Moderate,Medium-Term
+48.2,Moderate,2093,Good,37.97,Low,Monitor
+94.4,Low,964,Moderate,59.79,Moderate,Medium-Term
+2.9,High,3241,Moderate,39.51,Low,Monitor
+25.8,Very High,1108,Poor,48.88,Moderate,Medium-Term
+53.5,Very High,840,Poor,60.65,High,Short-Term
+22.4,Low,2911,Moderate,41.04,Moderate,Medium-Term
+74.3,Very High,4703,Moderate,85.76,Critical,Immediate
+22.4,Low,2483,Good,22.05,Low,Monitor
+34.0,Moderate,1051,Poor,41.73,Moderate,Medium-Term
+85.3,Very High,4826,Poor,82.44,Critical,Immediate
+6.2,Moderate,3279,Moderate,34.9,Low,Monitor
+36.5,Moderate,4357,Poor,59.58,Moderate,Medium-Term
+22.2,Very High,175,Poor,55.36,Moderate,Medium-Term
+31.6,High,1893,Moderate,51.51,Moderate,Medium-Term
+14.7,High,1294,Poor,48.22,Moderate,Medium-Term
+80.1,Low,2722,Moderate,53.96,Moderate,Medium-Term
+68.9,High,4801,Moderate,75.42,High,Short-Term
+21.6,High,3185,Good,53.5,Moderate,Medium-Term
+33.3,Moderate,1943,Poor,50.95,Moderate,Medium-Term
+92.3,Moderate,4093,Poor,74.7,High,Short-Term
+98.4,Moderate,276,Poor,61.57,High,Short-Term
+42.2,Very High,2953,Moderate,60.84,High,Short-Term
+52.8,High,2413,Poor,70.15,High,Short-Term
+70.1,Very High,897,Good,56.79,Moderate,Medium-Term
+79.1,Low,2590,Moderate,55.51,Moderate,Medium-Term
+57.7,Very High,4052,Moderate,78.76,High,Short-Term
+21.0,Moderate,174,Moderate,34.17,Low,Monitor
+57.6,Moderate,3184,Moderate,58.27,Moderate,Medium-Term
+16.8,Low,886,Moderate,32.01,Low,Monitor
+18.0,Low,1061,Poor,33.19,Low,Monitor
+59.3,Moderate,3409,Good,44.93,Moderate,Medium-Term
+24.1,Very High,2579,Poor,61.54,High,Short-Term
+17.2,Very High,834,Moderate,51.2,Moderate,Medium-Term
+65.0,High,3746,Moderate,59.92,Moderate,Medium-Term
+11.7,Low,4107,Poor,43.47,Moderate,Medium-Term
+51.0,Low,4907,Poor,65.53,High,Short-Term
+47.9,Low,4956,Good,45.23,Moderate,Medium-Term
+100.0,Very High,2544,Poor,80.43,Critical,Immediate
+32.5,Moderate,3420,Poor,45.12,Moderate,Medium-Term
+55.6,Very High,623,Poor,68.59,High,Short-Term
+53.9,Low,1799,Poor,52.67,Moderate,Medium-Term
+18.1,Moderate,143,Poor,33.82,Low,Monitor
+31.4,Low,1155,Poor,31.16,Low,Monitor
+16.1,High,386,Good,40.36,Moderate,Medium-Term
+50.6,High,4559,Good,60.22,High,Short-Term
+94.5,Low,2134,Moderate,49.35,Moderate,Medium-Term
+94.6,High,4475,Moderate,75.25,High,Short-Term
+49.0,High,4381,Moderate,66.37,High,Short-Term
+51.1,Low,466,Good,22.84,Low,Monitor
+14.2,Moderate,1199,Poor,38.35,Low,Monitor
+59.2,High,1152,Poor,62.54,High,Short-Term
+7.4,High,2235,Moderate,43.93,Moderate,Medium-Term
+16.3,Very High,782,Moderate,47.65,Moderate,Medium-Term
+94.0,Moderate,4490,Good,61.99,High,Short-Term
+73.3,Moderate,3148,Poor,68.52,High,Short-Term
+82.1,Moderate,3538,Good,57.95,Moderate,Medium-Term
+78.8,Very High,312,Poor,66.04,High,Short-Term
+27.0,Low,4592,Moderate,35.88,Low,Monitor
+64.0,High,2832,Moderate,58.07,Moderate,Medium-Term
+79.8,High,180,Good,52.18,Moderate,Medium-Term
+96.9,Very High,960,Good,64.06,High,Short-Term
+72.8,High,4923,Moderate,68.7,High,Short-Term
+34.9,High,4618,Moderate,62.41,High,Short-Term
+89.7,Moderate,2705,Moderate,59.61,Moderate,Medium-Term
+80.6,Very High,4006,Poor,79.52,High,Short-Term
+0.9,Moderate,1135,Good,20.92,Low,Monitor
+73.5,Low,3132,Poor,62.94,High,Short-Term
+67.8,Very High,3850,Good,69.65,High,Short-Term
+35.4,Very High,4214,Moderate,61.66,High,Short-Term
+42.8,Moderate,2600,Poor,58.86,Moderate,Medium-Term
+94.7,Very High,2661,Good,77.44,High,Short-Term
+7.7,Moderate,867,Good,25.37,Low,Monitor
+8.5,High,4639,Moderate,56.46,Moderate,Medium-Term
+1.1,Very High,4267,Poor,52.88,Moderate,Medium-Term
+49.8,Low,3421,Good,43.47,Moderate,Medium-Term
+91.1,Low,3581,Poor,67.01,High,Short-Term
+34.5,Low,3775,Good,40.46,Moderate,Medium-Term
+88.2,Moderate,1532,Good,52.87,Moderate,Medium-Term
+13.3,High,517,Moderate,36.65,Low,Monitor
+17.0,Low,2868,Poor,33.67,Low,Monitor
+53.9,Low,2476,Moderate,43.5,Moderate,Medium-Term
+26.5,Low,4759,Moderate,38.79,Low,Monitor
+30.5,Low,3893,Poor,52.07,Moderate,Medium-Term
+5.7,Low,3871,Moderate,29.25,Low,Monitor
+10.7,High,1625,Moderate,37.92,Low,Monitor
+10.1,Very High,1718,Good,42.38,Moderate,Medium-Term
+89.9,Very High,1114,Moderate,64.03,High,Short-Term
+76.9,High,1952,Moderate,63.05,High,Short-Term
+29.9,Very High,1592,Poor,63.06,High,Short-Term
+10.9,Very High,3699,Good,44.35,Moderate,Medium-Term
+74.7,Low,3042,Poor,53.74,Moderate,Medium-Term
+19.0,Low,1195,Moderate,25.17,Low,Monitor
+33.1,Low,1413,Poor,32.67,Low,Monitor
+47.9,High,1073,Moderate,50.89,Moderate,Medium-Term
+49.6,Moderate,2761,Moderate,50.93,Moderate,Medium-Term
+92.4,Very High,1176,Good,75.86,High,Short-Term
+79.3,Moderate,1374,Moderate,55.75,Moderate,Medium-Term
+76.7,Moderate,526,Poor,61.98,High,Short-Term
+43.0,Low,3658,Moderate,41.31,Moderate,Medium-Term
+48.6,Very High,2129,Poor,61.22,High,Short-Term
+51.1,Moderate,2403,Good,51.33,Moderate,Medium-Term
+99.4,Moderate,3615,Good,66.83,High,Short-Term
+78.3,Low,4215,Poor,59.42,Moderate,Medium-Term
+99.3,Moderate,1979,Good,54.79,Moderate,Medium-Term
+3.8,Moderate,1297,Moderate,21.3,Low,Monitor
+20.0,Low,3215,Moderate,35.26,Low,Monitor
+70.0,Moderate,1916,Moderate,53.48,Moderate,Medium-Term
+6.1,Very High,523,Moderate,33.99,Low,Monitor
+36.4,High,3524,Good,49.46,Moderate,Medium-Term
+4.8,Low,104,Good,15.17,Low,Monitor
+32.2,High,3967,Moderate,63.68,High,Short-Term
+10.1,Moderate,2166,Moderate,32.52,Low,Monitor
+30.4,Low,211,Poor,32.56,Low,Monitor
+86.2,High,3053,Poor,82.59,Critical,Immediate
+74.3,High,2051,Poor,65.88,High,Short-Term
+58.4,Low,971,Good,36.89,Low,Monitor
+60.2,Low,4905,Poor,66.02,High,Short-Term
+19.3,Very High,908,Good,48.96,Moderate,Medium-Term
+61.9,High,3984,Good,63.64,High,Short-Term
+15.4,Moderate,1670,Moderate,35.38,Low,Monitor
+25.3,High,3098,Moderate,53.33,Moderate,Medium-Term
+11.7,Very High,654,Moderate,41.41,Moderate,Medium-Term
+93.1,Low,1467,Poor,55.09,Moderate,Medium-Term
+96.7,High,472,Poor,63.95,High,Short-Term
+97.2,Moderate,3356,Moderate,72.9,High,Short-Term
+87.0,Low,1455,Moderate,55.28,Moderate,Medium-Term
+38.4,Very High,3383,Poor,64.56,High,Short-Term
+18.4,Moderate,4784,Good,45.05,Moderate,Medium-Term
+0.9,Very High,4227,Poor,62.0,High,Short-Term
+25.9,Moderate,2527,Poor,43.22,Moderate,Medium-Term
+11.9,Moderate,473,Poor,29.62,Low,Monitor
+3.9,Moderate,2375,Good,25.19,Low,Monitor
+79.1,Moderate,1820,Poor,56.57,Moderate,Medium-Term
+64.9,High,2758,Good,66.39,High,Short-Term
+88.4,High,1194,Moderate,72.09,High,Short-Term
+29.5,Low,185,Moderate,21.57,Low,Monitor
+96.5,Moderate,2197,Good,61.16,High,Short-Term
+97.9,Low,3229,Poor,63.55,High,Short-Term
+62.6,Moderate,3722,Good,51.99,Moderate,Medium-Term
+20.4,Very High,1375,Moderate,44.35,Moderate,Medium-Term
+72.6,High,1315,Moderate,54.17,Moderate,Medium-Term
+18.2,Moderate,1542,Good,31.65,Low,Monitor
+94.3,Moderate,2410,Good,57.6,Moderate,Medium-Term
+88.5,Very High,1638,Good,63.33,High,Short-Term
+42.6,Very High,3397,Good,63.59,High,Short-Term
+13.7,Low,916,Moderate,21.6,Low,Monitor
+11.0,Low,458,Good,12.15,Low,Monitor
+8.4,Moderate,210,Good,29.1,Low,Monitor
+10.6,High,796,Good,26.62,Low,Monitor
+76.0,Very High,1436,Moderate,65.65,High,Short-Term
+15.5,Low,4552,Poor,40.16,Moderate,Medium-Term
+54.4,Low,464,Good,32.11,Low,Monitor
+10.3,Very High,1261,Good,46.74,Moderate,Medium-Term
+2.4,Very High,3257,Good,43.02,Moderate,Medium-Term
+28.7,Very High,1020,Moderate,44.83,Moderate,Medium-Term
+11.0,Low,2408,Moderate,21.7,Low,Monitor
+33.4,High,794,Good,42.04,Moderate,Medium-Term
+17.8,High,1585,Poor,46.62,Moderate,Medium-Term
+89.3,High,2451,Moderate,77.07,High,Short-Term
+27.1,Very High,3123,Moderate,62.95,High,Short-Term
+71.1,Low,117,Good,40.29,Moderate,Medium-Term
+14.7,Moderate,3299,Moderate,44.38,Moderate,Medium-Term
+78.6,Very High,651,Good,62.86,High,Short-Term
+96.0,High,1285,Good,61.41,High,Short-Term
+12.8,Very High,2988,Moderate,52.34,Moderate,Medium-Term
+48.1,Very High,2831,Good,64.49,High,Short-Term
+65.4,Moderate,3239,Moderate,59.14,Moderate,Medium-Term
+53.9,Very High,4462,Poor,83.1,Critical,Immediate
+38.5,Very High,4416,Poor,76.82,High,Short-Term
+81.1,Moderate,814,Good,47.43,Moderate,Medium-Term
+20.3,Low,3068,Poor,39.21,Low,Monitor
+13.4,Low,588,Moderate,19.81,Low,Monitor
+84.9,Moderate,2514,Moderate,56.58,Moderate,Medium-Term
+85.3,Very High,2086,Good,74.95,High,Short-Term
+5.6,Moderate,1060,Poor,37.21,Low,Monitor
+37.7,Low,3579,Moderate,35.38,Low,Monitor
+10.6,Low,4006,Poor,45.91,Moderate,Medium-Term
+3.0,High,1257,Good,27.5,Low,Monitor
+1.2,Very High,1326,Good,36.74,Low,Monitor
+14.0,High,3951,Moderate,54.26,Moderate,Medium-Term
+44.4,Low,2449,Good,30.33,Low,Monitor
+88.1,Low,1521,Poor,51.74,Moderate,Medium-Term
+39.6,Very High,3821,Poor,73.77,High,Short-Term
+25.8,High,1962,Moderate,53.78,Moderate,Medium-Term
+27.2,Low,4372,Moderate,49.66,Moderate,Medium-Term
+12.5,Moderate,3380,Poor,38.55,Low,Monitor
+39.2,Low,3937,Moderate,41.48,Moderate,Medium-Term
+64.2,Very High,1450,Good,64.62,High,Short-Term
+64.7,Moderate,2311,Good,43.56,Moderate,Medium-Term
+36.3,High,329,Good,36.04,Low,Monitor
+54.2,Low,1835,Poor,38.74,Low,Monitor
+91.0,Moderate,4619,Good,70.54,High,Short-Term
+3.2,High,796,Poor,40.59,Moderate,Medium-Term
+56.4,Very High,474,Good,50.17,Moderate,Medium-Term
+94.4,Low,3021,Moderate,67.46,High,Short-Term
+50.0,High,3300,Poor,63.64,High,Short-Term
+13.0,Low,2814,Moderate,37.15,Low,Monitor
+50.4,Moderate,294,Poor,51.31,Moderate,Medium-Term
+47.7,Low,2476,Good,31.52,Low,Monitor
+46.3,Low,1997,Good,39.61,Low,Monitor
+65.4,Moderate,4209,Poor,75.36,High,Short-Term
+60.9,High,3765,Good,59.3,Moderate,Medium-Term
+36.0,Very High,427,Poor,59.95,Moderate,Medium-Term
+38.8,Moderate,714,Good,35.51,Low,Monitor
+99.4,Low,222,Good,50.44,Moderate,Medium-Term
+31.0,Low,4187,Good,37.38,Low,Monitor
+17.0,High,1422,Good,33.62,Low,Monitor
+36.3,Low,682,Good,29.3,Low,Monitor
+46.1,Very High,2197,Moderate,63.32,High,Short-Term
+14.0,Low,4759,Moderate,31.57,Low,Monitor
+85.9,Very High,3450,Poor,91.78,Critical,Immediate
+12.9,High,4298,Poor,64.19,High,Short-Term
+37.4,Very High,4244,Moderate,62.28,High,Short-Term
+87.6,Low,567,Poor,57.83,Moderate,Medium-Term
+70.0,Low,1366,Good,37.11,Low,Monitor
+15.8,Very High,697,Good,38.03,Low,Monitor
+46.2,Low,2958,Moderate,42.5,Moderate,Medium-Term
+53.5,Very High,993,Good,49.08,Moderate,Medium-Term
+10.8,Very High,3648,Good,48.29,Moderate,Medium-Term
+6.4,High,4083,Good,47.31,Moderate,Medium-Term
+47.6,High,3823,Good,58.17,Moderate,Medium-Term
+94.9,Moderate,1848,Moderate,64.2,High,Short-Term
+98.8,Very High,611,Moderate,77.65,High,Short-Term
+97.9,Moderate,543,Good,60.33,High,Short-Term
+95.3,Very High,2310,Moderate,80.76,Critical,Immediate
+8.4,Low,2343,Moderate,20.62,Low,Monitor
+87.4,Very High,3538,Poor,81.42,Critical,Immediate
+89.3,Moderate,540,Good,57.73,Moderate,Medium-Term
+42.9,High,1447,Good,43.89,Moderate,Medium-Term
+41.9,Very High,4486,Poor,78.4,High,Short-Term
+96.6,Very High,3005,Poor,88.21,Critical,Immediate
+82.3,Moderate,737,Poor,62.19,High,Short-Term
+61.7,High,2692,Good,52.27,Moderate,Medium-Term
+45.9,Moderate,4191,Moderate,49.15,Moderate,Medium-Term
+97.0,Very High,2252,Poor,87.77,Critical,Immediate
+98.8,Moderate,3780,Poor,84.96,Critical,Immediate
+9.7,Moderate,1637,Moderate,35.58,Low,Monitor
+77.4,Very High,1870,Moderate,65.93,High,Short-Term
+19.1,Low,3133,Moderate,26.48,Low,Monitor
+89.7,Low,4188,Poor,76.38,High,Short-Term
+41.4,High,2985,Poor,60.49,High,Short-Term
+97.4,High,1028,Good,63.04,High,Short-Term
+37.3,Moderate,4546,Moderate,51.85,Moderate,Medium-Term
+84.5,Very High,2420,Poor,82.43,Critical,Immediate
+92.5,Low,817,Good,39.57,Low,Monitor
+1.6,Very High,949,Moderate,44.36,Moderate,Medium-Term
+62.4,Low,3738,Poor,58.34,Moderate,Medium-Term
+3.3,High,3545,Good,36.41,Low,Monitor
+45.5,Very High,1037,Good,57.27,Moderate,Medium-Term
+95.1,High,3900,Moderate,85.41,Critical,Immediate
+64.5,Very High,162,Moderate,63.74,High,Short-Term
+50.8,High,2266,Moderate,62.26,High,Short-Term
+79.5,Very High,2078,Good,74.04,High,Short-Term
+41.5,Low,315,Good,30.94,Low,Monitor
+84.1,High,2845,Good,73.66,High,Short-Term
+99.3,Moderate,4652,Moderate,70.94,High,Short-Term
+64.4,Low,4833,Moderate,50.93,Moderate,Medium-Term
+63.6,Moderate,3402,Moderate,58.65,Moderate,Medium-Term
+43.7,Low,1134,Poor,33.97,Low,Monitor
+57.7,Very High,2231,Poor,64.91,High,Short-Term
+32.2,Low,864,Good,24.23,Low,Monitor
+62.9,Moderate,327,Poor,54.39,Moderate,Medium-Term
+92.1,Low,4784,Moderate,58.77,Moderate,Medium-Term
+73.4,Very High,3033,Good,65.16,High,Short-Term
+89.8,High,1687,Poor,78.88,High,Short-Term
+72.6,Very High,2233,Poor,68.42,High,Short-Term
+8.3,Moderate,289,Poor,39.57,Low,Monitor
+86.7,Low,3861,Poor,60.0,High,Short-Term
+14.2,High,1579,Good,30.03,Low,Monitor
+84.5,Moderate,3301,Good,60.64,High,Short-Term
+2.2,Low,4085,Poor,30.58,Low,Monitor
+68.7,Very High,2668,Poor,82.5,Critical,Immediate
+80.9,Moderate,2547,Good,62.96,High,Short-Term
+66.0,Low,1060,Moderate,50.24,Moderate,Medium-Term
+48.4,Low,1397,Poor,46.65,Moderate,Medium-Term
+92.7,Moderate,342,Poor,53.93,Moderate,Medium-Term
+51.2,Moderate,1871,Moderate,41.74,Moderate,Medium-Term
+21.7,High,1235,Good,31.37,Low,Monitor
+69.2,Moderate,2292,Moderate,55.6,Moderate,Medium-Term
+95.3,High,4617,Poor,83.78,Critical,Immediate
+74.5,Very High,3672,Poor,89.15,Critical,Immediate
+92.2,High,1516,Good,66.82,High,Short-Term
+88.7,High,3318,Good,71.16,High,Short-Term
+76.6,High,1457,Good,65.4,High,Short-Term
+48.8,Very High,3571,Poor,76.56,High,Short-Term
+81.6,Low,3237,Moderate,51.71,Moderate,Medium-Term
+35.3,Low,3781,Good,44.21,Moderate,Medium-Term
+95.8,High,4907,Moderate,79.86,High,Short-Term
+82.7,High,3362,Good,61.72,High,Short-Term
+80.9,Very High,1623,Moderate,66.74,High,Short-Term
+21.5,High,3147,Good,50.08,Moderate,Medium-Term
+12.2,High,189,Poor,37.54,Low,Monitor
+46.5,High,2005,Poor,52.61,Moderate,Medium-Term
+28.4,Moderate,4419,Good,39.27,Low,Monitor
+27.8,Low,4801,Poor,47.93,Moderate,Medium-Term
+75.6,High,2722,Good,58.0,Moderate,Medium-Term
+80.3,Very High,483,Moderate,64.78,High,Short-Term
+12.4,Moderate,2777,Poor,41.33,Moderate,Medium-Term
+57.6,High,246,Poor,60.92,High,Short-Term
+57.6,Low,3882,Moderate,44.79,Moderate,Medium-Term
+96.7,Low,4470,Poor,64.6,High,Short-Term
+64.5,Low,3949,Good,54.15,Moderate,Medium-Term
+41.5,High,2350,Moderate,57.98,Moderate,Medium-Term
+40.0,High,4145,Poor,58.58,Moderate,Medium-Term
+29.8,Very High,4141,Poor,75.71,High,Short-Term
+12.1,High,941,Good,29.08,Low,Monitor
+82.5,Moderate,961,Moderate,61.0,High,Short-Term
+72.4,Moderate,1494,Good,44.38,Moderate,Medium-Term
+90.2,High,4503,Good,82.03,Critical,Immediate
+86.8,High,452,Good,50.46,Moderate,Medium-Term
+30.4,High,2797,Poor,58.88,Moderate,Medium-Term
+81.2,High,1495,Good,61.24,High,Short-Term
+12.0,High,1312,Poor,50.9,Moderate,Medium-Term
+96.6,Very High,3760,Poor,84.06,Critical,Immediate
+52.8,Very High,4114,Moderate,68.09,High,Short-Term
+73.1,Moderate,852,Moderate,55.75,Moderate,Medium-Term
+71.1,High,4675,Good,71.63,High,Short-Term
+73.5,Moderate,739,Good,54.23,Moderate,Medium-Term
+6.0,Low,1870,Moderate,29.68,Low,Monitor
+18.8,Low,2888,Good,33.65,Low,Monitor
+76.2,High,2654,Poor,71.8,High,Short-Term
+15.4,Low,1165,Good,27.22,Low,Monitor
+38.6,Very High,4306,Good,66.71,High,Short-Term
+18.8,High,3565,Good,49.32,Moderate,Medium-Term
+95.1,Low,1306,Moderate,59.53,Moderate,Medium-Term
+74.5,Moderate,235,Moderate,44.51,Moderate,Medium-Term
+2.9,Very High,2983,Moderate,42.84,Moderate,Medium-Term
+55.0,High,3634,Good,53.7,Moderate,Medium-Term
+50.2,High,535,Moderate,46.07,Moderate,Medium-Term
+9.8,Very High,3561,Good,45.87,Moderate,Medium-Term
+40.3,High,4438,Poor,67.01,High,Short-Term
+43.4,Low,2139,Good,29.76,Low,Monitor
+5.3,Low,4812,Moderate,31.92,Low,Monitor
+53.2,High,1955,Poor,64.88,High,Short-Term
+40.5,Very High,929,Good,53.13,Moderate,Medium-Term
+88.0,High,4156,Good,67.66,High,Short-Term
+20.4,High,4984,Moderate,60.82,High,Short-Term
+9.4,Very High,2601,Poor,50.76,Moderate,Medium-Term
+31.5,Low,1465,Good,24.69,Low,Monitor
+45.5,Low,3987,Moderate,44.21,Moderate,Medium-Term
+17.8,High,730,Good,37.52,Low,Monitor
+85.3,High,3981,Poor,73.05,High,Short-Term
+87.3,Very High,996,Good,71.14,High,Short-Term
+56.7,High,1970,Poor,63.03,High,Short-Term
+75.5,Low,919,Moderate,49.96,Moderate,Medium-Term
+33.6,Very High,2973,Poor,61.02,High,Short-Term
+48.6,High,3858,Good,63.18,High,Short-Term
+30.1,High,4342,Poor,68.86,High,Short-Term
+90.2,Very High,1023,Moderate,74.63,High,Short-Term
+72.8,Low,1311,Moderate,51.42,Moderate,Medium-Term
+65.9,Moderate,3026,Moderate,50.16,Moderate,Medium-Term
+57.8,Very High,3044,Good,67.82,High,Short-Term
+19.4,Very High,984,Moderate,52.76,Moderate,Medium-Term
+67.9,Very High,4416,Good,69.17,High,Short-Term
+67.9,High,3303,Poor,70.91,High,Short-Term
+99.4,High,1661,Good,68.2,High,Short-Term
+70.2,Low,3650,Moderate,55.24,Moderate,Medium-Term
+79.3,High,2462,Good,70.61,High,Short-Term
+49.9,Moderate,3920,Poor,55.3,Moderate,Medium-Term
+96.7,Moderate,2587,Moderate,63.3,High,Short-Term
+80.0,Low,3818,Good,49.25,Moderate,Medium-Term
+82.5,Low,535,Moderate,42.91,Moderate,Medium-Term
+43.0,Low,508,Moderate,26.28,Low,Monitor
+87.9,Moderate,804,Poor,58.06,Moderate,Medium-Term
+99.6,Moderate,3639,Poor,83.86,Critical,Immediate
+29.1,Low,3976,Moderate,37.07,Low,Monitor
+67.9,Very High,3561,Moderate,81.48,Critical,Immediate
+9.8,High,2574,Poor,45.95,Moderate,Medium-Term
+56.4,High,4836,Good,67.51,High,Short-Term
+20.0,Moderate,3510,Poor,43.98,Moderate,Medium-Term
+30.5,High,4742,Poor,64.27,High,Short-Term
+18.3,Very High,886,Good,41.88,Moderate,Medium-Term
+69.4,High,3936,Moderate,68.87,High,Short-Term
+42.1,Very High,3878,Good,68.35,High,Short-Term
+2.6,Very High,824,Good,37.55,Low,Monitor
+30.2,Moderate,4854,Poor,55.71,Moderate,Medium-Term
+62.1,High,538,Moderate,47.9,Moderate,Medium-Term
+67.0,Very High,4343,Moderate,82.25,Critical,Immediate
+8.5,High,976,Moderate,38.39,Low,Monitor
+82.2,Very High,2814,Good,65.47,High,Short-Term
+58.5,Low,1779,Poor,42.15,Moderate,Medium-Term
+74.0,Very High,1217,Good,68.59,High,Short-Term
+64.0,Moderate,2564,Poor,57.38,Moderate,Medium-Term
+98.9,Low,4072,Poor,74.15,High,Short-Term
+11.5,Low,1353,Poor,35.77,Low,Monitor
+52.0,Moderate,1773,Good,42.87,Moderate,Medium-Term
+83.3,Very High,3300,Good,80.68,Critical,Immediate
+30.0,Very High,1607,Good,53.9,Moderate,Medium-Term
+54.7,Very High,1109,Moderate,53.92,Moderate,Medium-Term
+2.2,Moderate,2071,Good,27.23,Low,Monitor
+70.0,Moderate,4000,Moderate,59.64,Moderate,Medium-Term
+66.8,Very High,3109,Poor,73.47,High,Short-Term
+38.6,Low,3900,Moderate,49.13,Moderate,Medium-Term
+14.8,High,3844,Good,47.09,Moderate,Medium-Term
+1.1,High,379,Poor,39.56,Low,Monitor
+65.7,Very High,449,Moderate,68.19,High,Short-Term
+46.8,Very High,2368,Good,65.06,High,Short-Term
+35.8,Moderate,2957,Poor,52.51,Moderate,Medium-Term
+51.3,Moderate,1340,Moderate,48.3,Moderate,Medium-Term
+56.3,Very High,1247,Moderate,65.25,High,Short-Term
+65.8,Very High,658,Poor,66.65,High,Short-Term
+96.3,Moderate,4818,Poor,87.57,Critical,Immediate
+77.5,High,1160,Poor,64.21,High,Short-Term
+95.5,High,4888,Poor,93.51,Critical,Immediate
+6.8,Low,1403,Good,12.03,Low,Monitor
+10.6,Very High,2751,Good,53.91,Moderate,Medium-Term
+80.9,Moderate,963,Good,53.82,Moderate,Medium-Term
+38.4,Very High,627,Good,49.24,Moderate,Medium-Term
+11.4,Low,3717,Moderate,35.56,Low,Monitor
+84.1,Moderate,2730,Good,61.53,High,Short-Term
+37.8,Moderate,1703,Moderate,42.4,Moderate,Medium-Term
+67.9,Moderate,1748,Poor,53.1,Moderate,Medium-Term
+81.4,Moderate,804,Poor,51.85,Moderate,Medium-Term
+96.0,Low,1767,Good,56.13,Moderate,Medium-Term
+89.3,High,3442,Poor,81.02,Critical,Immediate
+7.2,Moderate,4426,Moderate,37.76,Low,Monitor
+20.7,Very High,4202,Moderate,57.75,Moderate,Medium-Term
+90.0,Moderate,650,Moderate,55.44,Moderate,Medium-Term
+37.6,Low,4762,Good,36.75,Low,Monitor
+51.7,Low,1066,Moderate,33.05,Low,Monitor
+60.1,High,284,Good,52.81,Moderate,Medium-Term
+29.0,High,3298,Poor,56.32,Moderate,Medium-Term
+87.2,Moderate,2459,Good,58.91,Moderate,Medium-Term
+24.1,High,3370,Poor,50.08,Moderate,Medium-Term
+69.8,Low,4874,Moderate,65.92,High,Short-Term
+98.5,Low,364,Moderate,49.67,Moderate,Medium-Term
+20.1,Low,1241,Good,23.25,Low,Monitor
+73.4,Low,2030,Moderate,41.98,Moderate,Medium-Term
+94.8,Low,2933,Good,62.61,High,Short-Term
+59.8,Low,4617,Moderate,61.55,High,Short-Term
+27.1,Low,952,Good,23.74,Low,Monitor
+22.5,High,3634,Moderate,49.26,Moderate,Medium-Term
+85.0,Moderate,275,Good,41.27,Moderate,Medium-Term
+78.2,Moderate,4476,Poor,78.78,High,Short-Term
+68.2,Low,4626,Moderate,50.2,Moderate,Medium-Term
+76.6,Moderate,3620,Poor,67.87,High,Short-Term
+13.8,Very High,1066,Poor,58.06,Moderate,Medium-Term
+36.8,Moderate,2910,Moderate,53.71,Moderate,Medium-Term
+23.8,Low,4921,Good,34.14,Low,Monitor
+74.7,Low,222,Poor,43.28,Moderate,Medium-Term
+5.7,Low,1138,Moderate,16.44,Low,Monitor
+4.4,High,2100,Moderate,34.02,Low,Monitor
+39.8,Low,729,Good,23.35,Low,Monitor
+54.4,Very High,3024,Good,61.74,High,Short-Term
+30.3,High,4617,Moderate,64.97,High,Short-Term
+24.4,High,2712,Poor,55.3,Moderate,Medium-Term
+10.4,High,3465,Poor,59.96,Moderate,Medium-Term
+48.6,Low,1767,Good,40.04,Moderate,Medium-Term
+52.1,High,4629,Good,56.21,Moderate,Medium-Term
+72.5,Moderate,393,Good,48.12,Moderate,Medium-Term
+65.0,Very High,1035,Good,58.37,Moderate,Medium-Term
+3.4,High,4918,Moderate,47.67,Moderate,Medium-Term
+96.5,Low,2386,Poor,61.71,High,Short-Term
+1.9,Very High,3251,Moderate,42.38,Moderate,Medium-Term
+20.6,Moderate,3631,Poor,42.32,Moderate,Medium-Term
+30.5,High,312,Poor,51.24,Moderate,Medium-Term
+33.6,High,4941,Good,61.14,High,Short-Term
+34.1,Very High,3602,Poor,74.45,High,Short-Term
+75.2,Low,4632,Moderate,67.09,High,Short-Term
+93.2,High,4480,Moderate,79.32,High,Short-Term
+71.9,High,1431,Moderate,60.37,High,Short-Term
+99.3,Moderate,1180,Good,53.96,Moderate,Medium-Term
+68.3,High,800,Good,56.95,Moderate,Medium-Term
+29.6,Very High,416,Poor,49.66,Moderate,Medium-Term
+26.9,High,201,Good,32.63,Low,Monitor
+66.1,High,1564,Moderate,58.79,Moderate,Medium-Term
+44.0,Very High,403,Moderate,52.69,Moderate,Medium-Term
+84.4,Moderate,3447,Good,62.6,High,Short-Term
+8.0,High,624,Moderate,30.18,Low,Monitor
+76.6,High,2226,Moderate,59.75,Moderate,Medium-Term
+63.0,Moderate,506,Good,35.9,Low,Monitor
+3.9,Very High,4850,Moderate,49.44,Moderate,Medium-Term
+71.7,Low,2222,Moderate,41.24,Moderate,Medium-Term
+84.5,High,4527,Poor,75.65,High,Short-Term
+23.5,Low,734,Poor,30.51,Low,Monitor
+51.1,Moderate,1771,Moderate,48.6,Moderate,Medium-Term
+82.9,Very High,684,Poor,71.82,High,Short-Term
+28.3,Low,2775,Poor,45.87,Moderate,Medium-Term
+33.5,Very High,3169,Moderate,67.48,High,Short-Term
+29.4,Low,1413,Moderate,23.65,Low,Monitor
+93.0,Low,970,Poor,52.06,Moderate,Medium-Term
+31.3,High,1860,Moderate,53.68,Moderate,Medium-Term
+3.3,Moderate,3221,Poor,35.05,Low,Monitor
+7.7,Moderate,4731,Poor,57.34,Moderate,Medium-Term
+63.0,Very High,4515,Poor,75.3,High,Short-Term
+87.8,Low,3969,Poor,67.25,High,Short-Term
+44.1,High,1697,Poor,54.16,Moderate,Medium-Term
+24.4,Moderate,3065,Good,38.09,Low,Monitor
+74.8,Low,2074,Moderate,53.2,Moderate,Medium-Term
+88.0,High,752,Moderate,64.78,High,Short-Term
+7.6,High,4066,Poor,49.86,Moderate,Medium-Term
+78.6,Moderate,4764,Good,71.38,High,Short-Term
+24.5,Very High,4890,Poor,63.6,High,Short-Term
+26.0,High,2898,Moderate,44.58,Moderate,Medium-Term
+40.9,Moderate,4818,Moderate,58.21,Moderate,Medium-Term
+77.3,Moderate,3819,Good,55.0,Moderate,Medium-Term
+41.9,Very High,927,Good,55.78,Moderate,Medium-Term
+83.4,Low,1467,Good,39.68,Low,Monitor
+86.7,Very High,3559,Moderate,74.62,High,Short-Term
+69.7,Moderate,2503,Good,49.8,Moderate,Medium-Term
+82.5,High,4945,Poor,85.78,Critical,Immediate
+99.4,Low,704,Poor,64.59,High,Short-Term
+95.0,Very High,3784,Poor,95.0,Critical,Immediate
+28.9,Very High,1202,Poor,51.11,Moderate,Medium-Term
+76.6,Low,1347,Good,44.2,Moderate,Medium-Term
+37.0,Very High,3207,Moderate,60.8,High,Short-Term
+50.9,High,893,Good,43.65,Moderate,Medium-Term
+34.1,Very High,2436,Moderate,55.83,Moderate,Medium-Term
+75.7,Moderate,443,Poor,62.14,High,Short-Term
+73.1,Very High,4352,Moderate,80.19,Critical,Immediate
+61.5,Low,2945,Moderate,42.95,Moderate,Medium-Term
+28.8,Very High,3695,Good,62.53,High,Short-Term
+28.8,High,969,Good,42.12,Moderate,Medium-Term
+14.1,Moderate,4623,Poor,55.26,Moderate,Medium-Term
+2.7,Low,4522,Poor,44.06,Moderate,Medium-Term
+0.7,Low,3127,Good,19.76,Low,Monitor
+94.8,Very High,3744,Poor,83.43,Critical,Immediate
+45.4,Low,1082,Moderate,41.44,Moderate,Medium-Term
+49.3,Low,1220,Moderate,40.84,Moderate,Medium-Term
+11.6,High,747,Poor,46.99,Moderate,Medium-Term
+72.7,High,1383,Poor,63.6,High,Short-Term
+45.3,Low,2678,Good,36.0,Low,Monitor
+93.2,High,1659,Poor,77.09,High,Short-Term
+87.8,Low,165,Good,36.08,Low,Monitor
+37.6,Moderate,1702,Moderate,41.99,Moderate,Medium-Term
+48.5,Moderate,4169,Moderate,50.26,Moderate,Medium-Term
+63.5,Low,4329,Poor,63.78,High,Short-Term
+0.3,Low,4119,Poor,38.61,Low,Monitor
+71.0,Low,3525,Poor,55.41,Moderate,Medium-Term
+38.0,Moderate,2956,Moderate,48.11,Moderate,Medium-Term
+95.4,High,1999,Moderate,74.08,High,Short-Term
+49.0,Very High,4997,Moderate,73.83,High,Short-Term
+29.5,Moderate,1020,Moderate,35.62,Low,Monitor
+44.7,Moderate,3580,Good,42.79,Moderate,Medium-Term
+95.6,Low,2947,Poor,63.87,High,Short-Term
+12.8,Very High,4107,Poor,60.75,High,Short-Term
+23.5,High,2294,Poor,48.09,Moderate,Medium-Term
+85.1,Very High,598,Poor,77.78,High,Short-Term
+26.2,High,3468,Moderate,57.98,Moderate,Medium-Term
+42.5,High,547,Moderate,46.83,Moderate,Medium-Term
+21.9,Low,2627,Moderate,31.73,Low,Monitor
+57.3,Moderate,4491,Good,60.49,High,Short-Term
+11.0,High,1158,Poor,44.37,Moderate,Medium-Term
+95.0,Low,3206,Good,61.06,High,Short-Term
+33.3,High,4629,Good,58.15,Moderate,Medium-Term
+51.9,High,4486,Good,69.37,High,Short-Term
+83.8,Very High,1978,Moderate,78.06,High,Short-Term
+91.1,High,3486,Good,72.18,High,Short-Term
+24.9,Low,395,Good,24.87,Low,Monitor
+52.7,Very High,4072,Good,60.74,High,Short-Term
+30.1,Moderate,2125,Good,33.39,Low,Monitor
+12.4,Very High,3382,Good,54.46,Moderate,Medium-Term
+87.7,Low,726,Good,44.17,Moderate,Medium-Term
+70.3,Very High,265,Good,61.04,High,Short-Term
+54.2,Moderate,882,Poor,51.66,Moderate,Medium-Term
+39.1,High,2751,Moderate,54.89,Moderate,Medium-Term
+2.3,High,3859,Good,35.33,Low,Monitor
+96.9,Very High,3184,Moderate,81.52,Critical,Immediate
+22.2,Very High,4695,Moderate,62.28,High,Short-Term
+90.8,Moderate,3232,Good,70.6,High,Short-Term
+72.8,High,4577,Poor,72.77,High,Short-Term
+22.4,Low,3355,Good,30.91,Low,Monitor
+47.7,Low,2644,Moderate,36.57,Low,Monitor
+63.0,Low,881,Poor,40.53,Moderate,Medium-Term
+86.5,Very High,4961,Good,74.96,High,Short-Term
+40.3,Very High,4387,Poor,78.33,High,Short-Term
+76.1,Low,4142,Moderate,56.79,Moderate,Medium-Term
+74.1,Moderate,399,Moderate,53.05,Moderate,Medium-Term
+59.9,Low,2296,Poor,45.75,Moderate,Medium-Term
+56.2,Very High,4569,Moderate,70.96,High,Short-Term
+65.2,High,3879,Poor,73.32,High,Short-Term
+55.5,Low,960,Moderate,41.46,Moderate,Medium-Term
+37.6,Low,1427,Poor,43.09,Moderate,Medium-Term
+16.6,Very High,1031,Good,47.6,Moderate,Medium-Term
+49.5,Very High,1245,Poor,69.55,High,Short-Term
+41.8,Low,2530,Good,34.22,Low,Monitor
+29.4,High,4380,Moderate,59.65,Moderate,Medium-Term
+37.2,Moderate,1259,Moderate,40.93,Moderate,Medium-Term
+20.4,High,4354,Poor,55.83,Moderate,Medium-Term
+46.3,High,1208,Good,46.93,Moderate,Medium-Term
+82.9,Low,2702,Moderate,49.69,Moderate,Medium-Term
+47.0,Low,2654,Poor,42.32,Moderate,Medium-Term
+69.4,Very High,2811,Good,60.01,High,Short-Term
+46.9,Moderate,646,Moderate,43.68,Moderate,Medium-Term
+88.3,High,215,Good,53.66,Moderate,Medium-Term
+82.1,Very High,4887,Poor,86.42,Critical,Immediate
+62.5,Very High,2186,Poor,72.53,High,Short-Term
+65.9,Low,4954,Good,47.03,Moderate,Medium-Term
+21.6,Moderate,2253,Poor,37.96,Low,Monitor
+79.7,Very High,2804,Poor,84.71,Critical,Immediate
+59.2,High,3978,Good,56.82,Moderate,Medium-Term
+78.3,Moderate,848,Poor,52.89,Moderate,Medium-Term
+16.5,Low,2748,Good,33.61,Low,Monitor
+5.2,Very High,3584,Poor,56.96,Moderate,Medium-Term
+30.3,Low,2072,Poor,37.43,Low,Monitor
+77.4,Very High,3008,Moderate,80.54,Critical,Immediate
+31.7,Low,1852,Good,36.13,Low,Monitor
+83.4,Moderate,3681,Poor,70.73,High,Short-Term
+69.5,High,1085,Poor,70.32,High,Short-Term
+65.2,Moderate,307,Moderate,52.24,Moderate,Medium-Term
+77.1,High,3574,Good,68.65,High,Short-Term
+87.6,Moderate,3233,Moderate,60.95,High,Short-Term
+74.8,Low,1704,Moderate,45.78,Moderate,Medium-Term
+19.5,High,2790,Good,50.06,Moderate,Medium-Term
+91.6,Low,2336,Good,54.26,Moderate,Medium-Term
+64.2,Very High,459,Poor,68.83,High,Short-Term
+27.4,Low,4787,Good,45.05,Moderate,Medium-Term
+92.8,Very High,4116,Good,80.02,Critical,Immediate
+87.5,Low,412,Moderate,39.73,Low,Monitor
+89.4,Moderate,1549,Good,48.82,Moderate,Medium-Term
+83.4,Low,559,Moderate,48.63,Moderate,Medium-Term
+6.2,Low,4557,Moderate,43.13,Moderate,Medium-Term
+19.4,Low,2825,Poor,43.91,Moderate,Medium-Term
+31.6,Moderate,4907,Poor,65.55,High,Short-Term
+51.6,Very High,3510,Poor,76.06,High,Short-Term
+6.5,Moderate,2284,Good,24.17,Low,Monitor
+4.5,Moderate,4240,Moderate,35.8,Low,Monitor
+74.7,Low,2649,Moderate,52.71,Moderate,Medium-Term
+11.8,Very High,4754,Poor,57.78,Moderate,Medium-Term
+93.0,Low,1052,Good,42.18,Moderate,Medium-Term
+8.6,High,4942,Poor,65.48,High,Short-Term
+76.7,Low,1881,Poor,52.61,Moderate,Medium-Term
+8.1,Moderate,2621,Poor,43.35,Moderate,Medium-Term
+90.1,Moderate,1187,Moderate,51.63,Moderate,Medium-Term
+70.6,Moderate,2385,Good,53.29,Moderate,Medium-Term
+41.4,Moderate,2334,Good,36.66,Low,Monitor
+29.5,Very High,2267,Good,50.73,Moderate,Medium-Term
+57.9,High,4384,Moderate,73.07,High,Short-Term
+68.7,Moderate,400,Poor,51.57,Moderate,Medium-Term
+53.8,Moderate,3654,Moderate,58.29,Moderate,Medium-Term
+68.2,High,1799,Moderate,64.26,High,Short-Term
+50.4,High,843,Poor,60.63,High,Short-Term
+25.8,Very High,2236,Good,56.22,Moderate,Medium-Term
+51.7,Moderate,3992,Good,51.54,Moderate,Medium-Term
+32.3,Very High,4920,Good,59.64,Moderate,Medium-Term
+10.5,High,164,Good,28.57,Low,Monitor
+33.5,Low,1632,Moderate,30.15,Low,Monitor
+46.7,Moderate,278,Moderate,44.91,Moderate,Medium-Term
+45.6,Very High,3371,Moderate,70.79,High,Short-Term
+25.3,High,2867,Moderate,53.18,Moderate,Medium-Term
+30.0,Moderate,4253,Good,44.25,Moderate,Medium-Term
+77.4,Very High,4958,Good,73.04,High,Short-Term
+16.6,High,4989,Poor,68.11,High,Short-Term
+19.8,Moderate,1164,Poor,36.67,Low,Monitor
+96.0,Low,2633,Good,59.45,Moderate,Medium-Term
+45.9,Moderate,3873,Good,52.1,Moderate,Medium-Term
+20.0,Moderate,2568,Moderate,33.06,Low,Monitor
+23.6,Moderate,3676,Good,44.55,Moderate,Medium-Term
+15.4,High,140,Moderate,30.5,Low,Monitor
+10.0,Very High,1840,Moderate,49.55,Moderate,Medium-Term
+83.1,Moderate,884,Moderate,49.18,Moderate,Medium-Term
+76.3,Moderate,3375,Moderate,69.07,High,Short-Term
+82.0,Very High,4990,Moderate,85.21,Critical,Immediate
+34.7,Low,1916,Poor,34.91,Low,Monitor
+23.5,High,2884,Poor,60.18,High,Short-Term
+61.1,Very High,732,Poor,61.24,High,Short-Term
+50.0,Low,1830,Moderate,38.79,Low,Monitor
+34.0,Moderate,3587,Good,40.81,Moderate,Medium-Term
+38.7,Very High,385,Moderate,58.43,Moderate,Medium-Term
+42.2,Moderate,3362,Poor,56.25,Moderate,Medium-Term
+10.6,Low,2936,Poor,39.42,Low,Monitor
+65.6,Very High,200,Good,52.36,Moderate,Medium-Term
+57.5,Very High,3824,Good,66.7,High,Short-Term
+96.0,Very High,3560,Good,76.19,High,Short-Term
+25.9,Low,3788,Poor,42.44,Moderate,Medium-Term
+47.4,High,4482,Moderate,58.31,Moderate,Medium-Term
+17.9,Very High,4455,Moderate,66.02,High,Short-Term
+8.0,Low,2861,Poor,35.93,Low,Monitor
+19.8,Very High,3662,Good,52.52,Moderate,Medium-Term
+4.0,Very High,3870,Moderate,45.68,Moderate,Medium-Term
+59.9,High,2167,Moderate,57.03,Moderate,Medium-Term
+29.6,Low,4546,Moderate,38.4,Low,Monitor
+35.7,Low,3759,Moderate,39.29,Low,Monitor
+3.6,Low,3026,Poor,26.2,Low,Monitor
+73.9,Moderate,1535,Good,50.57,Moderate,Medium-Term
+12.6,Moderate,4142,Moderate,49.76,Moderate,Medium-Term
+34.5,Very High,2099,Poor,66.85,High,Short-Term
+56.9,Low,726,Moderate,35.78,Low,Monitor
+14.7,Low,3228,Poor,45.99,Moderate,Medium-Term
+7.9,High,3561,Moderate,39.37,Low,Monitor
+95.0,High,749,Moderate,73.69,High,Short-Term
+79.4,High,2583,Poor,73.59,High,Short-Term
+85.4,Moderate,500,Moderate,55.56,Moderate,Medium-Term
+21.5,Very High,2351,Poor,61.2,High,Short-Term
+18.6,Low,3365,Good,33.32,Low,Monitor
+27.3,Very High,1796,Good,52.75,Moderate,Medium-Term
+65.7,High,2287,Moderate,63.73,High,Short-Term
+97.6,High,895,Good,58.84,Moderate,Medium-Term
+70.9,Moderate,622,Poor,51.66,Moderate,Medium-Term
+71.2,Very High,4916,Moderate,82.74,Critical,Immediate
+32.9,Very High,3996,Poor,60.95,High,Short-Term
+34.1,High,3740,Good,51.79,Moderate,Medium-Term
+74.3,Moderate,4460,Poor,66.31,High,Short-Term
+39.0,Very High,364,Poor,62.0,High,Short-Term
+96.8,Very High,4698,Moderate,82.0,Critical,Immediate
+74.8,High,2590,Moderate,70.55,High,Short-Term
+45.1,Very High,342,Good,50.65,Moderate,Medium-Term
+16.7,High,4727,Moderate,53.4,Moderate,Medium-Term
+76.5,High,4658,Poor,80.51,Critical,Immediate
+23.5,Moderate,3200,Poor,55.96,Moderate,Medium-Term
+12.3,Very High,1888,Good,51.23,Moderate,Medium-Term
+57.1,Moderate,1403,Poor,61.01,High,Short-Term
+55.0,High,1883,Moderate,63.19,High,Short-Term
+27.9,High,965,Poor,55.04,Moderate,Medium-Term
+96.0,High,4214,Poor,86.23,Critical,Immediate
+22.5,Very High,4153,Moderate,57.07,Moderate,Medium-Term
+92.5,Moderate,1555,Moderate,57.7,Moderate,Medium-Term
+53.3,High,3901,Poor,64.27,High,Short-Term
+90.7,Very High,4852,Poor,91.09,Critical,Immediate
+41.8,Moderate,337,Poor,39.32,Low,Monitor
+61.0,Low,4774,Poor,59.24,Moderate,Medium-Term
+2.3,Moderate,1463,Poor,36.42,Low,Monitor
+68.4,High,286,Poor,61.95,High,Short-Term
+79.0,Very High,4622,Poor,93.21,Critical,Immediate
+85.0,Moderate,3850,Moderate,71.22,High,Short-Term
+23.9,Very High,1736,Moderate,45.43,Moderate,Medium-Term
+6.5,Low,1795,Poor,29.08,Low,Monitor
+24.5,Very High,2081,Good,55.96,Moderate,Medium-Term
+50.0,Low,2813,Good,35.17,Low,Monitor
+72.2,Low,156,Poor,38.66,Low,Monitor
+67.7,Very High,3256,Good,72.75,High,Short-Term
+95.8,Low,4475,Poor,64.06,High,Short-Term
+48.1,Low,2499,Moderate,47.08,Moderate,Medium-Term
+72.5,Low,3076,Moderate,56.15,Moderate,Medium-Term
+51.2,Very High,3610,Good,57.52,Moderate,Medium-Term
+84.7,Low,1484,Moderate,49.19,Moderate,Medium-Term
+34.0,Moderate,4053,Good,42.34,Moderate,Medium-Term
+33.0,Low,3853,Poor,47.08,Moderate,Medium-Term
+24.5,High,2905,Moderate,53.23,Moderate,Medium-Term
+33.1,Very High,2212,Poor,58.08,Moderate,Medium-Term
+3.6,Moderate,1312,Poor,30.87,Low,Monitor
+22.1,High,4716,Moderate,60.02,High,Short-Term
+30.7,Moderate,4750,Poor,54.37,Moderate,Medium-Term
+71.3,High,1365,Poor,70.54,High,Short-Term
+12.9,High,3247,Moderate,49.69,Moderate,Medium-Term
+2.8,Moderate,4877,Moderate,37.36,Low,Monitor
+1.2,High,4266,Poor,58.65,Moderate,Medium-Term
+51.7,Very High,1495,Moderate,62.38,High,Short-Term
+58.7,High,4387,Moderate,66.14,High,Short-Term
+92.6,Moderate,4402,Moderate,67.33,High,Short-Term
+89.7,Low,630,Moderate,44.51,Moderate,Medium-Term
+20.6,Moderate,2379,Poor,48.93,Moderate,Medium-Term
+78.9,Moderate,3020,Moderate,61.55,High,Short-Term
+91.3,Low,4393,Good,63.89,High,Short-Term
+36.4,Low,3364,Poor,40.03,Moderate,Medium-Term
+33.0,Low,2323,Poor,48.48,Moderate,Medium-Term
+84.7,Low,558,Moderate,47.95,Moderate,Medium-Term
+24.8,High,1596,Poor,57.29,Moderate,Medium-Term
+85.8,Moderate,3836,Good,56.01,Moderate,Medium-Term
+60.9,High,848,Poor,55.0,Moderate,Medium-Term
+83.1,Low,1185,Poor,50.91,Moderate,Medium-Term
+20.8,Moderate,4897,Poor,54.26,Moderate,Medium-Term
+9.8,Low,2712,Poor,27.7,Low,Monitor
+47.8,Very High,783,Moderate,51.02,Moderate,Medium-Term
+54.2,Moderate,4091,Moderate,58.94,Moderate,Medium-Term
+58.2,Low,3726,Poor,50.64,Moderate,Medium-Term
+80.6,Very High,104,Moderate,68.7,High,Short-Term
+60.1,Very High,1546,Moderate,63.34,High,Short-Term
+51.4,High,2264,Poor,58.28,Moderate,Medium-Term
+27.5,High,3704,Good,57.58,Moderate,Medium-Term
+94.6,Very High,153,Moderate,76.01,High,Short-Term
+51.0,Very High,1436,Good,48.14,Moderate,Medium-Term
+43.2,High,874,Moderate,46.1,Moderate,Medium-Term
+68.7,Moderate,1685,Good,53.0,Moderate,Medium-Term
+21.3,High,2721,Poor,53.14,Moderate,Medium-Term
+68.5,Moderate,4777,Poor,65.3,High,Short-Term
+15.6,Very High,1507,Good,44.75,Moderate,Medium-Term
+15.7,Very High,4976,Moderate,65.88,High,Short-Term
+26.9,High,3966,Moderate,53.21,Moderate,Medium-Term
+30.6,High,2683,Moderate,48.37,Moderate,Medium-Term
+56.3,Very High,146,Moderate,49.17,Moderate,Medium-Term
+40.9,Moderate,3842,Moderate,44.49,Moderate,Medium-Term
+70.4,Moderate,2196,Moderate,61.24,High,Short-Term
+2.4,Very High,3232,Moderate,50.7,Moderate,Medium-Term
+73.9,Moderate,4220,Moderate,70.95,High,Short-Term
+10.7,Moderate,1414,Moderate,35.47,Low,Monitor
+94.1,Very High,476,Poor,74.33,High,Short-Term
+96.0,Very High,2146,Moderate,85.97,Critical,Immediate
+58.6,Low,930,Good,36.96,Low,Monitor
+27.6,High,3689,Moderate,48.2,Moderate,Medium-Term
+13.4,Low,2758,Poor,34.59,Low,Monitor
+15.2,Moderate,4931,Moderate,48.73,Moderate,Medium-Term
+56.2,Very High,2108,Moderate,65.26,High,Short-Term
+76.3,High,4660,Poor,85.67,Critical,Immediate
+69.0,Moderate,657,Poor,57.91,Moderate,Medium-Term
+31.4,High,3752,Poor,67.4,High,Short-Term
+18.4,Very High,1965,Moderate,48.1,Moderate,Medium-Term
+19.9,High,2191,Poor,54.94,Moderate,Medium-Term
+2.3,Low,3465,Moderate,28.0,Low,Monitor
+48.6,Low,4428,Good,51.83,Moderate,Medium-Term
+51.2,Low,4734,Moderate,59.79,Moderate,Medium-Term
+96.0,High,4513,Moderate,78.17,High,Short-Term
+33.4,Low,718,Poor,28.28,Low,Monitor
+55.8,Low,4456,Good,52.63,Moderate,Medium-Term
+84.6,Low,4801,Moderate,65.57,High,Short-Term
+99.3,Low,3630,Moderate,63.72,High,Short-Term
+88.9,Moderate,2806,Good,55.25,Moderate,Medium-Term
+57.5,Very High,4423,Poor,82.9,Critical,Immediate
+94.9,Low,3388,Poor,63.72,High,Short-Term
+62.4,Very High,254,Good,49.96,Moderate,Medium-Term
+42.7,High,1925,Poor,60.69,High,Short-Term
+32.7,Very High,1741,Poor,66.47,High,Short-Term
+89.3,Moderate,1647,Good,51.14,Moderate,Medium-Term
+18.2,Low,4469,Poor,51.61,Moderate,Medium-Term
+3.9,Moderate,4524,Moderate,49.23,Moderate,Medium-Term
+32.7,High,1985,Poor,49.98,Moderate,Medium-Term
+30.3,Very High,2320,Good,58.37,Moderate,Medium-Term
+21.7,High,323,Good,40.43,Moderate,Medium-Term
+94.4,Low,3172,Good,55.33,Moderate,Medium-Term
+74.4,Moderate,3216,Good,56.05,Moderate,Medium-Term
+39.9,Moderate,3217,Poor,59.61,Moderate,Medium-Term
+9.3,Moderate,4250,Poor,51.59,Moderate,Medium-Term
+12.2,Moderate,1085,Moderate,34.96,Low,Monitor
+35.8,High,3500,Good,47.4,Moderate,Medium-Term
+9.1,High,4015,Moderate,49.39,Moderate,Medium-Term
+94.5,Low,159,Moderate,53.56,Moderate,Medium-Term
+40.0,Low,3005,Moderate,48.15,Moderate,Medium-Term
+83.7,Very High,2563,Good,79.05,High,Short-Term
+8.4,Very High,3961,Good,57.5,Moderate,Medium-Term
+27.5,High,471,Good,42.57,Moderate,Medium-Term
+17.7,Low,1148,Poor,25.53,Low,Monitor
+69.5,Low,601,Poor,51.82,Moderate,Medium-Term
+86.6,High,3144,Poor,76.78,High,Short-Term
+15.7,Moderate,1530,Poor,46.8,Moderate,Medium-Term
+74.2,Moderate,3090,Good,60.91,High,Short-Term
+3.0,Moderate,2607,Moderate,35.98,Low,Monitor
+90.9,High,2730,Good,72.76,High,Short-Term
+33.2,Very High,380,Poor,60.34,High,Short-Term
+91.4,Low,4519,Moderate,69.27,High,Short-Term
+72.3,Moderate,1395,Good,41.12,Moderate,Medium-Term
+89.7,Low,3539,Good,49.85,Moderate,Medium-Term
+47.6,Very High,4496,Moderate,64.79,High,Short-Term
+60.3,Low,2651,Moderate,46.22,Moderate,Medium-Term
+90.3,Moderate,2745,Poor,70.98,High,Short-Term
+95.7,Low,4014,Moderate,68.53,High,Short-Term
+85.2,Moderate,1130,Good,52.58,Moderate,Medium-Term
+80.5,Moderate,1947,Poor,57.03,Moderate,Medium-Term
+9.5,Very High,2412,Poor,47.9,Moderate,Medium-Term
+22.6,Moderate,2566,Moderate,44.04,Moderate,Medium-Term
+46.2,High,1178,Moderate,49.63,Moderate,Medium-Term
+66.1,Low,3254,Poor,49.17,Moderate,Medium-Term
+19.8,Moderate,217,Good,27.95,Low,Monitor
+83.5,Moderate,1426,Moderate,54.59,Moderate,Medium-Term
+57.2,Very High,2917,Good,65.25,High,Short-Term
+81.7,Very High,3803,Good,74.56,High,Short-Term
+26.3,Very High,1065,Poor,51.18,Moderate,Medium-Term
+76.9,High,2862,Good,59.94,Moderate,Medium-Term
+80.7,Very High,4596,Moderate,85.24,Critical,Immediate
+66.8,High,4352,Moderate,63.8,High,Short-Term
+36.5,Low,4550,Good,34.98,Low,Monitor
+97.5,Low,1085,Poor,62.12,High,Short-Term
+12.6,High,2615,Moderate,43.85,Moderate,Medium-Term
+98.4,Low,4234,Good,60.24,High,Short-Term
+94.1,Moderate,1260,Poor,61.27,High,Short-Term
+1.7,High,4405,Poor,57.95,Moderate,Medium-Term
+56.3,Low,4467,Moderate,53.2,Moderate,Medium-Term
+69.4,Moderate,3167,Good,48.56,Moderate,Medium-Term
+16.6,Moderate,1345,Poor,46.02,Moderate,Medium-Term
+61.0,Moderate,2380,Good,56.21,Moderate,Medium-Term
+94.9,High,3293,Poor,89.19,Critical,Immediate
+89.4,Very High,2737,Good,77.28,High,Short-Term
+30.0,Low,2158,Poor,40.27,Moderate,Medium-Term
+31.2,Low,585,Moderate,22.5,Low,Monitor
+48.1,Moderate,2086,Moderate,52.26,Moderate,Medium-Term
+64.6,Very High,4944,Good,69.87,High,Short-Term
+35.0,Moderate,2362,Good,45.98,Moderate,Medium-Term
+12.3,Moderate,1786,Moderate,28.23,Low,Monitor
+27.5,High,188,Poor,39.51,Low,Monitor
+31.1,Low,3959,Good,39.79,Low,Monitor
+29.9,Low,4533,Poor,50.61,Moderate,Medium-Term
+15.4,High,2329,Good,38.31,Low,Monitor
+89.1,Low,3921,Moderate,63.23,High,Short-Term
+87.6,Very High,2484,Good,72.47,High,Short-Term
+8.9,High,2076,Poor,46.58,Moderate,Medium-Term
+70.2,Very High,3554,Good,72.5,High,Short-Term
+86.5,High,2359,Moderate,71.95,High,Short-Term
+32.9,High,3021,Good,41.31,Moderate,Medium-Term
+71.3,Very High,2088,Poor,74.48,High,Short-Term
+59.1,High,951,Poor,59.55,Moderate,Medium-Term
+60.7,Very High,4351,Poor,78.02,High,Short-Term
+60.2,Low,4815,Good,44.71,Moderate,Medium-Term
+76.4,High,4852,Poor,84.75,Critical,Immediate
+60.4,Very High,426,Moderate,61.19,High,Short-Term
+44.0,Very High,4796,Poor,68.43,High,Short-Term
+39.9,Very High,310,Good,47.77,Moderate,Medium-Term
+2.4,High,909,Moderate,41.21,Moderate,Medium-Term
+80.2,Very High,2176,Moderate,77.86,High,Short-Term
+34.4,Moderate,2366,Moderate,48.54,Moderate,Medium-Term
+32.5,High,1415,Good,43.47,Moderate,Medium-Term
+86.3,High,3387,Moderate,78.25,High,Short-Term
+17.2,Very High,828,Moderate,42.96,Moderate,Medium-Term
+53.8,Moderate,2693,Moderate,45.72,Moderate,Medium-Term
+72.2,Very High,2663,Poor,77.13,High,Short-Term
+18.6,Very High,1756,Moderate,55.23,Moderate,Medium-Term
+48.5,High,3686,Moderate,65.8,High,Short-Term
+95.9,High,230,Good,55.02,Moderate,Medium-Term
+31.1,High,4686,Poor,59.73,Moderate,Medium-Term
+61.8,Low,1727,Good,32.49,Low,Monitor
+59.8,Very High,2257,Good,64.91,High,Short-Term
+53.3,Very High,1189,Moderate,53.07,Moderate,Medium-Term
+95.6,High,4770,Good,75.22,High,Short-Term
+22.5,Low,2114,Poor,31.06,Low,Monitor
+99.3,Low,4150,Good,67.18,High,Short-Term
+98.3,Moderate,1950,Moderate,67.07,High,Short-Term
+21.6,Low,2531,Good,35.61,Low,Monitor
+85.8,Very High,3695,Moderate,81.71,Critical,Immediate
+99.8,Moderate,3477,Good,72.41,High,Short-Term
+58.1,Very High,2242,Poor,75.3,High,Short-Term
+36.4,High,3633,Moderate,55.1,Moderate,Medium-Term
+92.6,Moderate,2722,Poor,68.76,High,Short-Term
+95.8,Moderate,2735,Poor,68.17,High,Short-Term
+53.8,Moderate,891,Poor,53.47,Moderate,Medium-Term
+53.5,Low,1966,Poor,44.41,Moderate,Medium-Term
+70.2,Moderate,3911,Moderate,63.9,High,Short-Term
+5.3,Very High,4172,Poor,58.77,Moderate,Medium-Term
+95.3,Moderate,281,Poor,61.41,High,Short-Term
+65.0,High,4004,Poor,68.39,High,Short-Term
+68.2,Low,2361,Poor,49.59,Moderate,Medium-Term
+89.7,Low,4996,Moderate,65.27,High,Short-Term
+76.4,Moderate,3346,Good,60.71,High,Short-Term
+31.0,High,2807,Good,48.7,Moderate,Medium-Term
+87.6,Very High,1281,Poor,84.71,Critical,Immediate
+58.7,Low,533,Poor,47.0,Moderate,Medium-Term
+58.7,Low,621,Poor,41.9,Moderate,Medium-Term
+16.1,Moderate,2138,Poor,46.32,Moderate,Medium-Term
+99.0,Moderate,341,Poor,70.62,High,Short-Term
+72.9,High,829,Good,61.47,High,Short-Term
+57.4,Very High,3438,Moderate,72.98,High,Short-Term
+13.9,High,1599,Good,33.74,Low,Monitor
+17.7,Very High,2164,Moderate,44.3,Moderate,Medium-Term
+26.1,Moderate,1956,Moderate,47.23,Moderate,Medium-Term
+63.3,High,3800,Good,63.24,High,Short-Term
+2.0,Low,4663,Good,32.77,Low,Monitor
+9.5,Low,4434,Good,23.63,Low,Monitor
+38.5,Low,4753,Poor,50.74,Moderate,Medium-Term
+6.9,Moderate,1644,Poor,38.67,Low,Monitor
+18.2,Moderate,2928,Good,42.03,Moderate,Medium-Term
+91.3,High,4802,Good,82.92,Critical,Immediate
+70.6,Moderate,4256,Good,64.76,High,Short-Term
+44.5,Low,4503,Good,49.01,Moderate,Medium-Term
+31.2,High,982,Moderate,47.78,Moderate,Medium-Term
+59.0,Moderate,916,Moderate,41.9,Moderate,Medium-Term
+15.5,High,3824,Poor,56.74,Moderate,Medium-Term
+38.9,Very High,1053,Poor,59.95,Moderate,Medium-Term
+33.8,High,1258,Good,49.73,Moderate,Medium-Term
+49.1,Very High,440,Moderate,47.89,Moderate,Medium-Term
+98.2,Very High,4942,Good,91.2,Critical,Immediate
+9.1,High,4419,Poor,57.31,Moderate,Medium-Term
+53.2,Very High,4575,Poor,73.38,High,Short-Term
+32.0,Very High,1722,Moderate,61.2,High,Short-Term
+42.6,Very High,3188,Good,59.01,Moderate,Medium-Term
+49.1,High,4697,Moderate,67.72,High,Short-Term
+30.6,High,551,Poor,53.46,Moderate,Medium-Term
+18.8,Low,2615,Poor,41.26,Moderate,Medium-Term
+57.1,Moderate,2669,Poor,51.18,Moderate,Medium-Term
+2.8,High,3253,Good,37.12,Low,Monitor
+53.8,Very High,4264,Poor,82.73,Critical,Immediate
+50.9,Low,1857,Good,35.06,Low,Monitor
+18.6,Moderate,2723,Good,38.82,Low,Monitor
+49.5,Low,470,Moderate,29.5,Low,Monitor
+68.9,High,138,Good,52.72,Moderate,Medium-Term
+91.5,High,1550,Moderate,73.45,High,Short-Term
+37.2,Very High,466,Good,40.65,Moderate,Medium-Term
+24.6,High,3563,Poor,59.24,Moderate,Medium-Term
+86.4,High,1778,Poor,76.39,High,Short-Term
+27.3,Low,3506,Moderate,36.61,Low,Monitor
+84.3,Moderate,4099,Moderate,70.0,High,Short-Term
+62.7,Very High,442,Poor,69.23,High,Short-Term
+12.9,Moderate,677,Poor,28.8,Low,Monitor
+15.9,Very High,644,Good,40.23,Moderate,Medium-Term
+16.7,High,3362,Moderate,49.87,Moderate,Medium-Term
+28.5,High,988,Good,37.75,Low,Monitor
+88.6,Moderate,808,Poor,67.53,High,Short-Term
+20.1,Low,3941,Moderate,31.55,Low,Monitor
+22.9,Very High,1611,Good,50.16,Moderate,Medium-Term
+80.6,Moderate,3671,Poor,68.57,High,Short-Term
+73.8,Very High,4990,Good,79.9,High,Short-Term
+50.4,Moderate,1823,Poor,49.77,Moderate,Medium-Term
+56.9,Moderate,2896,Moderate,60.75,High,Short-Term
+35.0,Moderate,562,Moderate,35.08,Low,Monitor
+94.7,Low,1945,Good,53.46,Moderate,Medium-Term
+33.6,Very High,307,Moderate,42.1,Moderate,Medium-Term
+24.6,High,4661,Good,47.04,Moderate,Medium-Term
+96.4,Low,1012,Poor,51.08,Moderate,Medium-Term
+51.8,Low,1491,Poor,51.26,Moderate,Medium-Term
+37.0,Moderate,950,Poor,40.24,Moderate,Medium-Term
+38.1,Low,3274,Poor,40.59,Moderate,Medium-Term
+22.5,Low,4717,Poor,40.17,Moderate,Medium-Term
+64.9,Very High,4781,Poor,81.27,Critical,Immediate
+68.6,Very High,3783,Poor,76.19,High,Short-Term
+49.1,High,2927,Poor,63.42,High,Short-Term
+91.9,Moderate,3820,Poor,81.26,Critical,Immediate
+22.4,High,1528,Moderate,51.94,Moderate,Medium-Term
+88.2,High,271,Moderate,66.84,High,Short-Term
+14.4,Very High,3461,Poor,66.21,High,Short-Term
+85.2,Very High,1124,Poor,73.22,High,Short-Term
+94.2,Very High,3522,Moderate,86.8,Critical,Immediate
+44.4,Very High,3897,Moderate,64.53,High,Short-Term
+66.5,Moderate,4441,Good,54.98,Moderate,Medium-Term
+71.3,Moderate,3077,Moderate,60.53,High,Short-Term
+76.4,Very High,3170,Poor,77.58,High,Short-Term
+39.3,Very High,990,Poor,61.4,High,Short-Term
+30.0,Very High,516,Good,39.53,Low,Monitor
+55.2,Moderate,3248,Poor,58.97,Moderate,Medium-Term
+94.3,Low,1791,Moderate,56.25,Moderate,Medium-Term
+17.2,Moderate,3392,Poor,51.85,Moderate,Medium-Term
+19.8,Very High,2692,Moderate,49.63,Moderate,Medium-Term
+73.8,Very High,2690,Poor,84.77,Critical,Immediate
+61.2,Low,895,Good,28.87,Low,Monitor
+0.9,Low,2815,Good,19.08,Low,Monitor
+90.2,Moderate,1333,Good,51.82,Moderate,Medium-Term
+6.6,High,4879,Moderate,51.43,Moderate,Medium-Term
+70.4,High,2584,Good,65.32,High,Short-Term
+16.0,Moderate,1437,Moderate,27.75,Low,Monitor
+91.0,Very High,1396,Poor,79.52,High,Short-Term
+47.0,High,2143,Good,53.14,Moderate,Medium-Term
+14.7,Very High,895,Good,34.39,Low,Monitor
+38.1,Very High,4006,Good,65.13,High,Short-Term
+58.6,High,3712,Poor,71.76,High,Short-Term
+44.7,Low,4128,Poor,53.48,Moderate,Medium-Term
+88.6,Low,3130,Good,48.87,Moderate,Medium-Term
+62.4,Very High,1324,Good,66.53,High,Short-Term
+79.1,Moderate,2727,Moderate,64.47,High,Short-Term
+94.9,Low,3005,Poor,73.22,High,Short-Term
+49.5,Very High,1484,Moderate,64.88,High,Short-Term
+19.2,High,4363,Good,49.5,Moderate,Medium-Term
+90.6,Low,2056,Poor,57.09,Moderate,Medium-Term
+44.9,Very High,2864,Good,55.04,Moderate,Medium-Term
+99.5,Very High,757,Moderate,74.67,High,Short-Term
+13.1,Low,4799,Good,31.12,Low,Monitor
+20.0,Very High,3213,Moderate,48.43,Moderate,Medium-Term
+67.2,Very High,2849,Moderate,75.77,High,Short-Term
+85.4,Very High,3435,Poor,82.35,Critical,Immediate
+94.3,High,4625,Good,76.82,High,Short-Term
+26.7,Very High,794,Poor,60.38,High,Short-Term
+86.1,Low,288,Good,46.69,Moderate,Medium-Term
+10.7,Low,1550,Moderate,17.99,Low,Monitor
+57.2,Moderate,815,Good,33.43,Low,Monitor
+1.3,High,676,Good,29.98,Low,Monitor
+96.6,Very High,2810,Poor,79.99,High,Short-Term
+12.2,Moderate,1734,Poor,45.78,Moderate,Medium-Term
+18.6,Low,131,Moderate,26.7,Low,Monitor
+23.3,Low,750,Moderate,23.29,Low,Monitor
+52.9,Very High,1716,Poor,74.44,High,Short-Term
+60.5,Moderate,3943,Moderate,63.16,High,Short-Term
+59.2,Low,3725,Good,46.24,Moderate,Medium-Term
+8.0,Moderate,2256,Good,35.87,Low,Monitor
+57.5,Moderate,1115,Poor,56.53,Moderate,Medium-Term
+18.8,High,1965,Good,38.25,Low,Monitor
+83.6,High,3477,Poor,80.67,Critical,Immediate
+21.8,High,2924,Poor,50.43,Moderate,Medium-Term
+0.7,High,2405,Good,28.4,Low,Monitor
+6.3,High,594,Poor,43.92,Moderate,Medium-Term
+43.0,Very High,198,Poor,59.88,Moderate,Medium-Term
+31.8,High,639,Poor,45.14,Moderate,Medium-Term
+84.0,Very High,3033,Poor,87.76,Critical,Immediate
+37.0,High,4106,Moderate,60.1,High,Short-Term
+74.5,Moderate,4910,Good,56.4,Moderate,Medium-Term
+35.3,Very High,3881,Moderate,70.66,High,Short-Term
+84.6,Very High,3898,Moderate,80.43,Critical,Immediate
+14.2,Very High,3537,Good,56.59,Moderate,Medium-Term
+78.8,Very High,1323,Moderate,66.72,High,Short-Term
+43.4,Moderate,1337,Poor,55.43,Moderate,Medium-Term
+21.7,Low,3305,Moderate,30.21,Low,Monitor
+33.7,Low,4174,Moderate,38.02,Low,Monitor
+83.0,High,1965,Good,62.19,High,Short-Term
+72.4,Very High,3664,Good,71.3,High,Short-Term
+66.6,High,968,Good,59.93,Moderate,Medium-Term
+70.6,High,1258,Good,55.54,Moderate,Medium-Term
+49.4,Moderate,3510,Moderate,46.04,Moderate,Medium-Term
+30.8,Moderate,2873,Poor,46.99,Moderate,Medium-Term
+61.8,Low,1160,Poor,43.03,Moderate,Medium-Term
+72.5,Moderate,3127,Poor,73.16,High,Short-Term
+6.3,Very High,3131,Moderate,46.67,Moderate,Medium-Term
+94.5,Moderate,2660,Poor,78.12,High,Short-Term
+97.3,High,4646,Moderate,83.88,Critical,Immediate
+33.1,Moderate,1141,Moderate,43.16,Moderate,Medium-Term
+57.2,Moderate,4956,Poor,63.38,High,Short-Term
+82.0,Very High,4714,Moderate,89.81,Critical,Immediate
+31.3,Low,3246,Good,36.42,Low,Monitor
+8.1,Very High,3890,Poor,66.06,High,Short-Term
+94.7,High,648,Moderate,63.97,High,Short-Term
+19.3,High,1272,Moderate,47.4,Moderate,Medium-Term
+5.9,Moderate,1929,Poor,29.58,Low,Monitor
+35.6,Very High,4702,Good,67.31,High,Short-Term
+95.7,Very High,2673,Poor,91.57,Critical,Immediate
+20.0,Moderate,4995,Poor,48.66,Moderate,Medium-Term
+73.3,Moderate,4388,Poor,67.48,High,Short-Term
+79.1,Very High,189,Moderate,60.62,High,Short-Term
+14.4,Low,336,Poor,28.93,Low,Monitor
+42.1,High,3908,Good,55.02,Moderate,Medium-Term
+38.2,Moderate,4964,Moderate,59.87,Moderate,Medium-Term
+10.8,High,3835,Moderate,44.28,Moderate,Medium-Term
+60.7,High,1434,Poor,56.29,Moderate,Medium-Term
+95.6,Low,529,Moderate,51.42,Moderate,Medium-Term
+36.9,High,3172,Poor,53.26,Moderate,Medium-Term
+43.4,High,3340,Good,51.28,Moderate,Medium-Term
+83.6,Low,2417,Moderate,54.98,Moderate,Medium-Term
+56.9,Low,1180,Moderate,32.65,Low,Monitor
+6.8,Moderate,937,Poor,28.49,Low,Monitor
+71.4,Low,3051,Moderate,49.6,Moderate,Medium-Term
+41.3,Low,4134,Moderate,46.71,Moderate,Medium-Term
+52.5,Very High,1369,Poor,70.27,High,Short-Term
+81.4,Very High,1403,Good,69.8,High,Short-Term
+86.9,Moderate,2060,Good,58.98,Moderate,Medium-Term
+55.8,Low,1947,Moderate,35.0,Low,Monitor
+21.9,Moderate,1350,Good,31.07,Low,Monitor
+32.3,Very High,257,Poor,57.83,Moderate,Medium-Term
+49.2,Very High,4605,Good,59.78,Moderate,Medium-Term
+59.0,Moderate,1980,Poor,56.18,Moderate,Medium-Term
+34.9,Low,4864,Moderate,46.82,Moderate,Medium-Term
+82.9,Very High,1843,Good,68.47,High,Short-Term
+91.5,High,2276,Poor,74.37,High,Short-Term
+38.8,Moderate,2199,Moderate,40.01,Moderate,Medium-Term
+89.8,Very High,1076,Poor,73.55,High,Short-Term
+2.9,Very High,1776,Good,33.42,Low,Monitor
+38.7,Low,1784,Good,35.34,Low,Monitor
+73.6,High,1855,Poor,73.52,High,Short-Term
+36.1,Low,1982,Poor,47.05,Moderate,Medium-Term
+84.4,Moderate,4286,Good,61.64,High,Short-Term
+21.6,Moderate,2835,Good,36.89,Low,Monitor
+72.0,High,3850,Moderate,72.23,High,Short-Term
+16.5,Very High,4033,Poor,64.71,High,Short-Term
+79.5,Moderate,736,Poor,52.24,Moderate,Medium-Term
+0.0,Low,509,Good,19.69,Low,Monitor
+93.0,High,3745,Moderate,81.19,Critical,Immediate
+96.1,Low,538,Moderate,46.23,Moderate,Medium-Term
+19.1,Very High,3154,Good,47.28,Moderate,Medium-Term
+65.4,High,386,Good,46.76,Moderate,Medium-Term
+26.3,Moderate,1085,Poor,45.21,Moderate,Medium-Term
+68.2,Low,4003,Good,42.61,Moderate,Medium-Term
+8.6,Moderate,3829,Poor,49.2,Moderate,Medium-Term
+27.3,Low,4713,Moderate,36.42,Low,Monitor
+69.2,Moderate,633,Moderate,52.1,Moderate,Medium-Term
+3.0,Very High,3642,Moderate,50.22,Moderate,Medium-Term
+97.3,Low,616,Moderate,54.88,Moderate,Medium-Term
+71.9,Moderate,2289,Good,55.06,Moderate,Medium-Term
+96.3,Moderate,2023,Poor,68.72,High,Short-Term
+0.2,Low,4713,Moderate,34.86,Low,Monitor
+70.3,Moderate,487,Moderate,46.87,Moderate,Medium-Term
+59.8,Very High,3970,Poor,72.68,High,Short-Term
+65.9,High,4613,Poor,71.1,High,Short-Term
+73.5,High,3434,Good,66.24,High,Short-Term
+37.2,High,2495,Good,53.53,Moderate,Medium-Term
+75.2,Very High,4542,Moderate,78.26,High,Short-Term
+43.2,High,1227,Moderate,56.83,Moderate,Medium-Term
+64.5,Very High,4517,Poor,76.52,High,Short-Term
+4.3,Moderate,2898,Poor,42.97,Moderate,Medium-Term
+74.5,Moderate,1786,Poor,59.31,Moderate,Medium-Term
+82.3,Low,4207,Poor,58.55,Moderate,Medium-Term
+10.4,Low,2186,Poor,35.26,Low,Monitor
+16.5,Moderate,2843,Moderate,33.52,Low,Monitor
+73.2,High,4592,Moderate,74.36,High,Short-Term
+81.9,Moderate,4826,Moderate,74.47,High,Short-Term
+68.8,Low,1949,Poor,54.43,Moderate,Medium-Term
+15.6,Moderate,104,Poor,38.43,Low,Monitor
+49.5,Low,2611,Good,42.36,Moderate,Medium-Term
+30.3,Moderate,4539,Poor,50.06,Moderate,Medium-Term
+81.4,Low,232,Good,36.65,Low,Monitor
+20.7,Low,649,Moderate,24.08,Low,Monitor
+11.9,High,3401,Good,46.44,Moderate,Medium-Term
+30.0,Very High,3171,Good,51.54,Moderate,Medium-Term
+61.9,Very High,4960,Good,75.87,High,Short-Term
+97.7,Very High,2718,Moderate,73.57,High,Short-Term
+70.1,Very High,4515,Good,72.85,High,Short-Term
+58.7,High,4116,Good,60.59,High,Short-Term
+96.3,Low,3990,Moderate,65.36,High,Short-Term
+8.3,Low,3824,Moderate,37.18,Low,Monitor
+24.1,Very High,381,Moderate,42.92,Moderate,Medium-Term
+77.7,Very High,1874,Poor,74.51,High,Short-Term
+1.0,Moderate,4961,Poor,52.43,Moderate,Medium-Term
+93.6,Very High,666,Poor,71.57,High,Short-Term
+27.5,Very High,4488,Poor,72.42,High,Short-Term
+25.3,Low,4333,Moderate,35.97,Low,Monitor
+45.2,Moderate,426,Moderate,41.64,Moderate,Medium-Term
+42.7,Moderate,729,Good,35.57,Low,Monitor
+24.9,Very High,1546,Moderate,43.6,Moderate,Medium-Term
+18.3,High,4880,Moderate,51.58,Moderate,Medium-Term
+44.5,Low,931,Good,24.03,Low,Monitor
+74.0,Low,3688,Moderate,53.52,Moderate,Medium-Term
+69.9,Low,4402,Poor,60.21,High,Short-Term
+54.3,Very High,3980,Good,62.88,High,Short-Term
+55.7,Very High,648,Good,46.99,Moderate,Medium-Term
+87.8,High,3988,Moderate,76.79,High,Short-Term
+24.3,Moderate,1091,Good,25.46,Low,Monitor
+57.0,Moderate,3754,Poor,70.66,High,Short-Term
+37.3,High,4014,Good,62.14,High,Short-Term
+65.6,Very High,1049,Poor,61.05,High,Short-Term
+20.2,High,1191,Poor,50.3,Moderate,Medium-Term
+1.1,Low,4279,Good,21.8,Low,Monitor
+66.6,Low,2584,Good,41.26,Moderate,Medium-Term
+24.4,Very High,1849,Good,50.06,Moderate,Medium-Term
+47.8,Moderate,911,Good,36.58,Low,Monitor
+63.3,Low,1296,Poor,41.62,Moderate,Medium-Term
+51.0,Low,4013,Poor,61.99,High,Short-Term
+7.3,Moderate,2123,Poor,42.85,Moderate,Medium-Term
+84.0,High,1946,Moderate,65.68,High,Short-Term
+75.2,Low,2725,Moderate,44.66,Moderate,Medium-Term
+67.2,High,3301,Moderate,68.42,High,Short-Term
+86.7,Moderate,4026,Poor,81.39,Critical,Immediate
+51.0,Very High,1388,Good,56.48,Moderate,Medium-Term
+28.8,Low,3645,Poor,37.4,Low,Monitor
+6.6,Low,1292,Poor,20.37,Low,Monitor
+27.7,High,3905,Poor,65.48,High,Short-Term

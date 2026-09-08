@@ -37,13 +37,15 @@ export function Disclaimer({ text = "", className = "" }) {
 }
 
 export function DemoBanner({ text = "" }) {
-  return (
-    <div className="bg-amber-500/10 dark:bg-amber-500/20 border-b border-amber-500/30 px-4 py-1.5 text-center">
-      <p className="text-xs font-semibold text-amber-800 dark:text-amber-300">
-        {text || ""}
-      </p>
-    </div>
-  );
+  // return (
+  //   <div className="bg-amber-500/10 dark:bg-amber-500/20 border-b border-amber-500/30 px-4 py-1.5 text-center">
+  //     <p className="text-xs font-semibold text-amber-800 dark:text-amber-300">
+  //       {text || "DEMO DATA — SIH 2026 PROTOTYPE · This is not an official NDMA system"}
+  //     </p>
+  //   </div>
+  // );
+
+  return null;
 }
 
 export default function Layout() {
