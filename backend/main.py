@@ -1,7 +1,12 @@
-import json
-import math
-import time
-import urllib.request
+import sys
+from pathlib import Path
+
+# Project paths
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+BACKEND_DIR = Path(__file__).resolve().parent
+
+sys.path.insert(0, str(PROJECT_ROOT))
+sys.path.insert(0, str(BACKEND_DIR))
 
 from fastapi import Depends, FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -11,18 +16,16 @@ from sqlalchemy.orm import Session
 from capacity_engine import calculate_capacity_status
 from database_session import get_db
 from models import Habitation, RelocationSite
+from ml.ml_engine import predict_risk_ml, ml_model_available
 from relocation_engine import calculate_relocation_priority
-from risk_engine import (
-    calculate_risk_score,
-    get_relocation_priority,
-    get_risk_level,
-)
+from risk_engine import calculate_risk_score, get_relocation_priority, get_risk_level
 from schemas import (
     HabitationCreate,
     HabitationUpdate,
     RelocationSiteCreate,
     RelocationSiteUpdate,
 )
+
 
 app = FastAPI(title="SIH Disaster Management API")
 
@@ -263,6 +266,48 @@ def delete_habitation(habitation_id: int, db: Session = Depends(get_db)):
     return {"message": "Habitation deleted successfully", "id": habitation_id}
 
 
+# ==========================================
+# ML RISK PREDICTION
+# ==========================================
+
+class MLRiskPredictionRequest(BaseModel):
+    hazard_exposure: float
+    vulnerability: str
+    population: int
+    accessibility: str
+
+
+@app.post("/api/ml/predict-risk")
+def predict_risk_with_ml(data: MLRiskPredictionRequest):
+    if not ml_model_available():
+        raise HTTPException(
+            status_code=503,
+            detail="ML model is not available."
+        )
+
+    try:
+        result = predict_risk_ml(
+            hazard_exposure=data.hazard_exposure,
+            vulnerability=data.vulnerability,
+            population=data.population,
+            accessibility=data.accessibility,
+        )
+
+        return {
+            "status": "success",
+            "prediction": result,
+        }
+
+    except RuntimeError as exc:
+        raise HTTPException(
+            status_code=400,
+            detail=str(exc),
+        )
+    except Exception as exc:
+        raise HTTPException(
+            status_code=500,
+            detail=f"ML prediction failed: {str(exc)}",
+        )
 # ==========================================
 # RELOCATION SITES CRUD
 # ==========================================
