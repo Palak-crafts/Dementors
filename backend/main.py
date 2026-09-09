@@ -174,8 +174,9 @@ def fetch_live_multi_hazard_incidents():
 
     return incidents
 
-# In-memory storage for dynamically registered habitations during live demo
+# In-memory storage for dynamically registered entries during live demo
 CUSTOM_REGISTERED_HABITATIONS = []
+CUSTOM_REGISTERED_SITES = []
 
 def get_all_active_habitations():
     return fetch_live_multi_hazard_incidents() + CUSTOM_REGISTERED_HABITATIONS
@@ -360,7 +361,7 @@ def register_habitation(data: HabitationCreateRequest):
     }
 
 # ==========================================
-# DYNAMIC RELOCATION SITES API (Optimized Proximity)
+# RELOCATION SITES API (GET & POST)
 # ==========================================
 @app.get("/api/relocation-sites")
 def get_relocation_sites():
@@ -385,7 +386,45 @@ def get_relocation_sites():
             "latitude": round(h["latitude"] + offset_lat, 4),
             "longitude": round(h["longitude"] + offset_lon, 4)
         })
-    return sites
+    return sites + CUSTOM_REGISTERED_SITES
+
+class RelocationSiteCreateRequest(BaseModel):
+    name: str
+    district: str
+    capacity: int
+    occupancy: int
+    distance: float
+    suitability: float
+    accessibility: str
+    status: str
+    latitude: float
+    longitude: float
+
+@app.post("/api/relocation-sites")
+def register_relocation_site(data: RelocationSiteCreateRequest):
+    new_site = {
+        "id": int(time.time()),
+        "name": data.name,
+        "district": data.district,
+        "capacity": data.capacity,
+        "occupancy": data.occupancy,
+        "available": max(0, data.capacity - data.occupancy),
+        "accessibility": data.accessibility,
+        "distance": data.distance,
+        "infrastructure": "Medical Camp, Water Supply, Emergency Hub",
+        "suitability": data.suitability,
+        "status": data.status,
+        "latitude": data.latitude,
+        "longitude": data.longitude
+    }
+    
+    CUSTOM_REGISTERED_SITES.append(new_site)
+    
+    return {
+        "status": "success",
+        "message": "Relocation center registered successfully.",
+        "data": new_site
+    }
 
 # ==========================================
 # RELOCATION PRIORITY QUEUE API
@@ -631,7 +670,7 @@ def get_live_multi_hazard(lat: float, lon: float):
     
     weather_data = {"precipitation": 0.0, "wind_speed_10m": 10.0, "temperature_2m": 25.0, "relative_humidity_2m": 60}
     try:
-        req = urllib.request.Request(weather_weather_url if 'weather_weather_url' in locals() else weather_url, headers={"User-Agent": "SIH-Disaster-DSS/1.0"})
+        req = urllib.request.Request(weather_url, headers={"User-Agent": "SIH-Disaster-DSS/1.0"})
         with urllib.request.urlopen(req, timeout=4) as response:
             res_json = json.loads(response.read().decode())
             weather_data = res_json.get("current", weather_data)
