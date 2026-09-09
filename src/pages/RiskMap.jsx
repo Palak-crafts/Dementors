@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState, useMemo } from "react";
 import { PageHeader, Disclaimer } from "@/components/Layout";
 import {
   Map as MapIcon,
@@ -71,7 +71,7 @@ export default function RiskMap() {
   }, [districtScope]);
 
   // ==========================================================
-  // LOAD REAL GIS DATA FROM FASTAPI
+  // LOAD REAL GIS DATA FROM FASTAPI BACKEND
   // ==========================================================
   async function loadGISData() {
     try {
@@ -138,7 +138,7 @@ export default function RiskMap() {
       setRelocationSites(parsedSites);
     } catch (err) {
       console.error("GIS loading failed:", err);
-      setError("Unable to load GIS data from backend.");
+      setError("Unable to load GIS data from backend server.");
     } finally {
       setLoading(false);
     }
@@ -151,7 +151,6 @@ export default function RiskMap() {
   // Filtered Habitations strictly scoped to Active District Scope
   const filtered = useMemo(() => {
     return habitations.filter((h) => {
-      // Hard security check: DM can NEVER see other districts
       if (districtScope && h.district?.toLowerCase() !== districtScope.toLowerCase()) {
         return false;
       }
@@ -234,7 +233,7 @@ export default function RiskMap() {
             <div className="text-center">
               <RefreshCw className="w-8 h-8 text-blue-600 dark:text-blue-400 animate-spin mx-auto mb-3" />
               <p className="text-sm font-medium text-slate-700 dark:text-slate-300">
-                Loading GIS intelligence from PostGIS/FastAPI...
+                Loading GIS intelligence from FastAPI backend...
               </p>
             </div>
           </div>
