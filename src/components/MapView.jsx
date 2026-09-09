@@ -98,7 +98,6 @@ export default function MapView({
             `Failed to load India boundary: ${response.status}`
           );
         }
-
         return response.json();
       })
       .then((data) => {
@@ -107,10 +106,7 @@ export default function MapView({
         }
       })
       .catch((error) => {
-        console.error(
-          "India boundary could not be loaded:",
-          error
-        );
+        console.error("India boundary could not be loaded:", error);
       });
 
     return () => {
@@ -123,59 +119,50 @@ export default function MapView({
     switch (level) {
       case "Critical":
         return "#dc2626";
-
       case "High":
         return "#ea580c";
-
       case "Moderate":
         return "#eab308";
-
       default:
         return "#16a34a";
     }
   };
 
+  // Helper to extract coordinates safely from backend object format
+  const getCoords = (item) => {
+    if (item.coords && Array.isArray(item.coords)) return item.coords;
+    if (item.latitude !== undefined && item.longitude !== undefined) {
+      return [parseFloat(item.latitude), parseFloat(item.longitude)];
+    }
+    return null;
+  };
+
   // Find nearest safe shelter for selected habitation
   let evacuationRoute = null;
   let targetShelter = null;
+  const selCoords = selectedHabitation ? getCoords(selectedHabitation) : null;
 
-  if (
-    selectedHabitation &&
-    selectedHabitation.coords &&
-    relocationSites.length > 0
-  ) {
+  if (selectedHabitation && selCoords && relocationSites.length > 0) {
     let minD = Infinity;
 
     for (const site of relocationSites) {
-      if (
-        !site.coords ||
-        !site.coords[0] ||
-        !site.coords[1]
-      ) {
+      const siteCoords = getCoords(site);
+      if (!siteCoords || !siteCoords[0] || !siteCoords[1]) {
         continue;
       }
 
       const d =
-        Math.pow(
-          selectedHabitation.coords[0] - site.coords[0],
-          2
-        ) +
-        Math.pow(
-          selectedHabitation.coords[1] - site.coords[1],
-          2
-        );
+        Math.pow(selCoords[0] - siteCoords[0], 2) +
+        Math.pow(selCoords[1] - siteCoords[1], 2);
 
       if (d < minD) {
         minD = d;
-        targetShelter = site;
+        targetShelter = { ...site, coords: siteCoords };
       }
     }
 
     if (targetShelter) {
-      evacuationRoute = [
-        selectedHabitation.coords,
-        targetShelter.coords,
-      ];
+      evacuationRoute = [selCoords, targetShelter.coords];
     }
   }
 
@@ -197,10 +184,7 @@ export default function MapView({
         scrollWheelZoom={true}
       >
         {/* Recenter map when location/zoom changes */}
-        <MapRecenter
-          center={center}
-          zoom={zoom}
-        />
+        <MapRecenter center={center} zoom={zoom} />
 
         {/* OpenStreetMap base map */}
         <TileLayer
@@ -208,10 +192,7 @@ export default function MapView({
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
 
-        {/* =====================================================
-            INDIA ADMINISTRATIVE BOUNDARY
-            ===================================================== */}
-
+        {/* INDIA ADMINISTRATIVE BOUNDARY */}
         {indiaBoundary && (
           <GeoJSON
             data={indiaBoundary}
@@ -224,10 +205,7 @@ export default function MapView({
           />
         )}
 
-        {/* =====================================================
-            EVACUATION ROUTE
-            ===================================================== */}
-
+        {/* EVACUATION ROUTE */}
         {evacuationRoute && (
           <Polyline
             positions={evacuationRoute}
@@ -240,106 +218,68 @@ export default function MapView({
           />
         )}
 
-        {/* =====================================================
-            HABITATION MARKERS
-            ===================================================== */}
-
+        {/* HABITATION MARKERS */}
         {habitations.map((hab) => {
-          if (
-            !hab.coords ||
-            !hab.coords[0] ||
-            !hab.coords[1]
-          ) {
+          const coords = getCoords(hab);
+          if (!coords || !coords[0] || !coords[1]) {
             return null;
           }
 
-          const isSelected =
-            selectedHabitation?.id === hab.id;
+          const isSelected = selectedHabitation?.id === hab.id;
+          const riskLevel = hab.risk_level || hab.riskLevel || "Low";
+          const riskScore = hab.risk_score || hab.riskScore || 0;
 
           return (
             <Marker
               key={`hab-${hab.id}`}
-              position={hab.coords}
-              icon={createCustomIcon(
-                getRiskColor(hab.riskLevel),
-                isSelected
-              )}
+              position={coords}
+              icon={createCustomIcon(getRiskColor(riskLevel), isSelected)}
               eventHandlers={{
                 click: (e) => {
                   L.DomEvent.stopPropagation(e);
-
-                  onSelectHabitation(
-                    isSelected ? null : hab
-                  );
+                  onSelectHabitation(isSelected ? null : { ...hab, coords });
                 },
               }}
             >
               <Popup>
                 <div className="text-xs p-1 min-w-[200px]">
-
-                  {/* Name + Risk */}
                   <div className="flex items-center justify-between gap-1 mb-1">
                     <span className="font-bold text-slate-900 text-sm">
                       {hab.name}
                     </span>
-
                     <span
                       className="px-1.5 py-0.5 rounded text-[10px] font-bold text-white"
-                      style={{
-                        backgroundColor: getRiskColor(
-                          hab.riskLevel
-                        ),
-                      }}
+                      style={{ backgroundColor: getRiskColor(riskLevel) }}
                     >
-                      {hab.riskLevel}
+                      {riskLevel}
                     </span>
                   </div>
 
-                  {/* District */}
                   <p className="text-slate-500 text-[11px] mb-2">
                     {hab.district} District
                   </p>
 
-                  {/* Habitation information */}
                   <div className="space-y-1 bg-slate-50 p-2 rounded border border-slate-100 mb-2.5 text-slate-700">
-
                     <p>
-                      <strong>Risk Score:</strong>{" "}
-                      {Number(
-                        hab.riskScore || 0
-                      ).toFixed(1)}{" "}
-                      / 100
+                      <strong>Risk Score:</strong> {Number(riskScore).toFixed(1)} / 100
                     </p>
-
                     <p>
-                      <strong>Population:</strong>{" "}
-                      {hab.population?.toLocaleString()}
+                      <strong>Population:</strong> {hab.population?.toLocaleString()}
                     </p>
-
                     <p>
-                      <strong>Hazard:</strong>{" "}
-                      {hab.hazard}
+                      <strong>Hazard:</strong> {hab.hazard}
                     </p>
-
                     <p>
-                      <strong>
-                        Relocation Priority:
-                      </strong>{" "}
-                      {hab.priority}
+                      <strong>Relocation Priority:</strong> {hab.priority}
                     </p>
-
                   </div>
 
-                  {/* Evacuation route button */}
                   <button
                     type="button"
                     onClick={(e) => {
                       e.stopPropagation();
                       e.preventDefault();
-
-                      onSelectHabitation(
-                        isSelected ? null : hab
-                      );
+                      onSelectHabitation(isSelected ? null : { ...hab, coords });
                     }}
                     className={`w-full py-1.5 px-2 rounded-md text-xs font-bold transition shadow-sm flex items-center justify-center gap-1 ${
                       isSelected
@@ -347,81 +287,42 @@ export default function MapView({
                         : "bg-blue-600 hover:bg-blue-700 text-white active:scale-95"
                     }`}
                   >
-                    {isSelected
-                      ? "✕ Clear Evacuation Route"
-                      : "➔ Show Evacuation Route"}
+                    {isSelected ? "✕ Clear Evacuation Route" : "➔ Show Evacuation Route"}
                   </button>
-
                 </div>
               </Popup>
             </Marker>
           );
         })}
 
-        {/* =====================================================
-            SAFE SHELTER MARKERS
-            ===================================================== */}
-
+        {/* SAFE SHELTER MARKERS */}
         {showSites &&
           relocationSites.map((site) => {
-            if (
-              !site.coords ||
-              !site.coords[0] ||
-              !site.coords[1]
-            ) {
+            const coords = getCoords(site);
+            if (!coords || !coords[0] || !coords[1]) {
               return null;
             }
 
             return (
-              <Marker
-                key={`site-${site.id}`}
-                position={site.coords}
-                icon={shelterIcon}
-              >
+              <Marker key={`site-${site.id}`} position={coords} icon={shelterIcon}>
                 <Popup>
                   <div className="text-xs p-1 min-w-[190px]">
-
-                    {/* Shelter label */}
                     <span className="inline-block px-1.5 py-0.5 bg-blue-100 text-blue-800 font-bold rounded text-[10px] mb-1">
                       DESIGNATED SAFE SHELTER
                     </span>
-
-                    {/* Shelter name */}
-                    <h4 className="font-bold text-slate-900 text-sm">
-                      {site.name}
-                    </h4>
-
-                    {/* District */}
-                    <p className="text-slate-500 mb-2">
-                      {site.district} District
-                    </p>
-
-                    {/* Shelter information */}
+                    <h4 className="font-bold text-slate-900 text-sm">{site.name}</h4>
+                    <p className="text-slate-500 mb-2">{site.district} District</p>
                     <div className="space-y-1 bg-blue-50/50 p-2 rounded border border-blue-100 text-slate-700">
-
                       <p>
-                        <strong>
-                          Available Space:
-                        </strong>{" "}
-                        {site.available?.toLocaleString()}
+                        <strong>Available Space:</strong> {site.available?.toLocaleString()}
                       </p>
-
                       <p>
-                        <strong>
-                          Total Capacity:
-                        </strong>{" "}
-                        {site.capacity?.toLocaleString()}
+                        <strong>Total Capacity:</strong> {site.capacity?.toLocaleString()}
                       </p>
-
                       <p>
-                        <strong>
-                          Road Access:
-                        </strong>{" "}
-                        {site.accessibility}
+                        <strong>Road Access:</strong> {site.accessibility}
                       </p>
-
                     </div>
-
                   </div>
                 </Popup>
               </Marker>
